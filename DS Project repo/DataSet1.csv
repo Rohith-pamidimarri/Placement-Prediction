@@ -1,0 +1,2967 @@
+,Name,Roll_no,Age,Gender,Branch,Internships,CGPA,Hostel,Backlogs,PlacedOrNot
+0,Tanisha,el15b1328,22,Female,Electrical,0,6.31,0,0,0
+1,Avya,it15b1494,19,Female,Information Technology,1,8.21,0,0,1
+2,Ramesh,me15b1113,21,Male,Mechanical,0,7.25,1,0,0
+3,Anjali,ec15b1287,20,Female,Electronics And Communication,1,7.41,0,0,1
+4,Anika,me15b1190,21,Female,Mechanical,0,7.43,0,0,0
+5,Mallikarjuna Rao,me15b1300,20,Male,Mechanical,1,9.06,1,0,1
+6,Yashi,it15b1528,20,Female,Information Technology,3,9.49,1,0,1
+7,Sivaprasad,cs15b1599,20,Male,Computer Science,1,7.42,0,0,1
+8,Ranjitsinh,el15b1194,21,Male,Electrical,0,6.02,0,1,0
+9,Bhupinder,me15b1305,22,Male,Mechanical,0,5.01,0,0,0
+10,Riva,me15b1387,20,Female,Mechanical,0,7.13,1,0,0
+11,Alisha,cv15b1009,21,Female,Civil,0,9.29,0,0,1
+12,Riva,it15b1515,19,Female,Information Technology,0,9.5,0,1,1
+13,Debaprasad,ec15b1058,21,Male,Electronics And Communication,1,8.44,1,1,1
+14,Kyra,cs15b1330,25,Female,Computer Science,0,7.31,0,0,0
+15,Devang,ec15b1342,19,Male,Electronics And Communication,1,6.49,1,0,0
+16,Aria,cs15b1328,24,Female,Computer Science,0,6.36,0,1,1
+17,Kalimuthu,cv15b1248,19,Male,Civil,1,8.02,0,0,1
+18,Yogesh,it15b1146,21,Male,Information Technology,2,8.31,0,1,1
+19,Vani,el15b1250,19,Female,Electrical,2,7.37,0,0,1
+20,Pramod,it15b1588,22,Male,Information Technology,0,7.24,0,1,0
+21,Viara,it15b1518,19,Female,Information Technology,2,8.16,0,0,1
+22,Mahendra,it15b1672,23,Male,Information Technology,0,7.08,0,0,0
+23,Tara,cs15b1693,21,Female,Computer Science,1,8.21,0,0,1
+24,Sundar,it15b1373,22,Male,Information Technology,0,6.06,0,0,0
+25,Diya,el15b1150,21,Female,Electrical,0,7.49,0,0,0
+26,Samar,cs15b1416,20,Male,Computer Science,1,5.49,0,0,0
+27,Kia,ec15b1373,21,Female,Electronics And Communication,0,7.41,0,0,1
+28,Lakshan,it15b1441,21,Male,Information Technology,0,8.03,0,0,1
+29,Naveen,cv15b1055,22,Male,Civil,0,6.49,1,0,0
+30,Ambika,me15b1140,22,Male,Mechanical,0,6.49,1,0,0
+31,Pallav,el15b1260,19,Male,Electrical,1,6.37,0,0,0
+32,Namik,cv15b1052,28,Male,Civil,0,8.35,1,0,1
+33,Kalpesh,ec15b1055,22,Male,Electronics And Communication,1,6.11,0,1,0
+34,Ankit,it15b1372,22,Male,Information Technology,2,7.28,0,0,0
+35,Arnab,me15b1413,22,Male,Mechanical,1,8.03,1,0,1
+36,Biju,cs15b1308,22,Male,Computer Science,0,8.43,1,0,1
+37,Gunda,cs15b1133,22,Male,Computer Science,1,7.02,1,0,0
+38,Nana,ec15b1347,21,Male,Electronics And Communication,0,8.29,0,1,1
+39,Surendranath,cs15b1316,22,Male,Computer Science,0,9.45,0,0,1
+40,Amit,it15b1637,20,Male,Information Technology,0,7.25,0,0,0
+41,Aarvi,el15b1204,21,Female,Electrical,1,8.08,0,1,1
+42,Abhishek,el15b1094,22,Male,Electrical,0,8.46,0,0,1
+43,Sabyasachi,me15b1401,23,Male,Mechanical,0,6.49,1,0,0
+44,Arushi,cs15b1704,20,Female,Computer Science,1,8.4,0,0,1
+45,Ravinder,me15b1227,21,Male,Mechanical,1,5.34,1,0,0
+46,Kiran,cs15b1242,22,Female,Computer Science,0,7.14,0,0,1
+47,Vritika,cs15b1504,22,Female,Computer Science,1,8.42,1,1,1
+48,Ashu,ec15b1206,23,Male,Electronics And Communication,1,6.08,0,1,1
+49,Uday,cv15b1155,22,Male,Civil,1,6.4,0,1,0
+50,Chandrajit,cs15b1072,22,Male,Computer Science,1,8.45,1,1,1
+51,Nitesh,ec15b1110,21,Male,Electronics And Communication,1,8.47,1,1,1
+52,Eswar,ec15b1203,22,Male,Electronics And Communication,1,6.49,0,0,0
+53,Jadunath,me15b1123,22,Male,Mechanical,1,6.06,1,0,0
+54,Myra,el15b1056,22,Female,Electrical,0,8.06,0,1,1
+55,Phani,me15b1202,21,Male,Mechanical,0,6.13,1,0,0
+56,Mallikarjuna Rao,cs15b1390,24,Male,Computer Science,1,6.46,0,0,1
+57,Debaprasad,cs15b1611,20,Male,Computer Science,1,7.3,0,0,0
+58,Pratik,it15b1506,20,Male,Information Technology,1,7.24,0,0,0
+59,Aiza,cs15b1681,21,Female,Computer Science,1,8.06,1,0,1
+60,Shikhar,it15b1333,21,Male,Information Technology,1,6.13,1,0,0
+61,Byramjee,cs15b1366,22,Male,Computer Science,0,8.36,0,1,1
+62,Diyara,cs15b1144,21,Female,Computer Science,1,7.48,0,0,0
+63,Pallav,cs15b1619,21,Male,Computer Science,2,7.24,0,0,1
+64,Vriti,el15b1147,21,Female,Electrical,0,8.13,0,0,1
+65,Aiza,cv15b1079,25,Female,Civil,0,9.49,1,0,1
+66,Harjit,ec15b1155,22,Male,Electronics And Communication,2,9.16,0,0,1
+67,Abhishek,cs15b1389,22,Male,Computer Science,2,7.2,1,1,1
+68,Sunil,it15b1571,20,Male,Information Technology,0,7.13,0,1,0
+69,Aadhya,ec15b1143,22,Female,Electronics And Communication,2,6.46,0,0,1
+70,Aria,ec15b1128,21,Female,Electronics And Communication,1,7.21,1,1,0
+71,Tanisha,cv15b1284,21,Female,Civil,0,7.09,0,0,0
+72,Ambika,el15b1139,21,Male,Electrical,1,8.03,0,0,1
+73,Ziya,cv15b1049,21,Female,Civil,0,7.5,0,0,0
+74,Dnyandeo,cs15b1737,23,Male,Computer Science,0,6.28,0,0,0
+75,Yogesh,cs15b1719,20,Male,Computer Science,0,8.11,0,0,1
+76,Suresh,me15b1237,21,Male,Mechanical,0,8.1,1,1,1
+77,Myra,el15b1223,20,Female,Electrical,0,8.31,0,0,1
+78,Aahana,cs15b1620,21,Female,Computer Science,1,6.28,0,0,0
+79,Oommen,cs15b1728,20,Male,Computer Science,0,6.08,1,0,0
+80,Nitin,it15b1651,21,Male,Information Technology,1,8.05,1,1,1
+81,Sara,ec15b1268,22,Female,Electronics And Communication,2,8.15,0,0,1
+82,Araya,cv15b1223,21,Female,Civil,1,6.24,0,0,0
+83,Myra,cv15b1138,21,Female,Civil,1,9.44,0,0,1
+84,Bellamkonda,cs15b1091,21,Male,Computer Science,1,6.24,0,0,0
+85,Ajish,it15b1624,21,Male,Information Technology,1,8.04,1,0,1
+86,Sachin,it15b1466,21,Male,Information Technology,0,7.09,0,0,0
+87,Samar,it15b1394,22,Male,Information Technology,2,7.05,1,0,0
+88,Tanvi,cs15b1409,20,Female,Computer Science,1,7.38,0,0,1
+89,Venkata Swamy,me15b1269,24,Male,Mechanical,0,8.05,1,1,1
+90,Tithira,me15b1399,21,Female,Mechanical,0,7.01,1,1,0
+91,Akhil,cv15b1207,21,Male,Civil,0,7.38,1,0,0
+92,Ajit,cs15b1537,22,Male,Computer Science,1,7.2,0,0,0
+93,Hitendra,it15b1344,22,Male,Information Technology,3,8.02,0,0,1
+94,Arya,ec15b1169,21,Female,Electronics And Communication,1,7.43,0,0,0
+95,Raghu,me15b1418,21,Male,Mechanical,0,6.26,1,0,0
+96,Kripesh,it15b1534,21,Male,Information Technology,2,7.21,0,0,1
+97,Harpreet,ec15b1251,24,Male,Electronics And Communication,1,7.33,1,1,1
+98,Hemant,me15b1111,22,Male,Mechanical,1,8.01,0,0,1
+99,Suresh,cs15b1223,21,Male,Computer Science,1,8.22,0,0,1
+100,Aarna,ec15b1413,21,Female,Electronics And Communication,2,7.19,0,0,1
+101,Mukesh,cv15b1105,21,Male,Civil,0,8.43,0,0,1
+102,Surendranath,cv15b1227,20,Male,Civil,0,8.35,1,0,1
+103,Umesh,cs15b1461,22,Male,Computer Science,0,6.11,0,1,0
+104,Sahil,cs15b1526,19,Male,Computer Science,1,7.45,0,0,0
+105,Arya,it15b1448,20,Male,Information Technology,0,7.24,0,1,0
+106,Baltej,ec15b1122,22,Male,Electronics And Communication,2,8.05,0,0,1
+107,Myra,it15b1511,20,Female,Information Technology,0,6.09,0,0,0
+108,Sundar,cs15b1293,22,Male,Computer Science,1,9.06,0,0,1
+109,Akhil,cv15b1250,22,Male,Civil,1,6.14,0,0,0
+110,Sukhbir,el15b1280,22,Male,Electrical,3,7.12,0,0,0
+111,Dhriti,cs15b1601,22,Female,Computer Science,1,7.32,0,0,0
+112,Rajendra,me15b1013,23,Male,Mechanical,0,6.49,1,0,1
+113,Kiran,me15b1379,20,Female,Mechanical,0,9.46,1,0,1
+114,Aradhya,cv15b1243,20,Female,Civil,0,7.07,0,0,0
+115,Sahil,cs15b1615,19,Male,Computer Science,1,7.31,1,0,0
+116,Anika,ec15b1002,22,Female,Electronics And Communication,0,6.26,0,0,0
+117,Sekar,cs15b1167,22,Male,Computer Science,1,7.41,0,0,1
+118,Joglekar,it15b1684,21,Male,Information Technology,0,8.08,0,0,1
+119,Aiza,it15b1551,21,Female,Information Technology,0,6.21,0,0,0
+120,Krishnappa,el15b1188,22,Male,Electrical,0,5.03,0,0,0
+121,Rahil,ec15b1308,19,Male,Electronics And Communication,1,8.37,0,1,1
+122,Ishita,it15b1246,21,Female,Information Technology,2,7.13,0,1,1
+123,Lakshman,it15b1065,21,Male,Information Technology,0,8.18,0,1,1
+124,Avni,ec15b1024,21,Female,Electronics And Communication,1,6.06,0,1,0
+125,Pratapsinh,cv15b1075,22,Male,Civil,1,8.02,0,0,1
+126,Tithira,it15b1062,21,Female,Information Technology,2,7.29,0,0,1
+127,Arhaan,it15b1523,21,Male,Information Technology,0,6.14,0,0,0
+128,Manabendra,cv15b1190,21,Male,Civil,0,5.29,0,1,0
+129,Yashika,cs15b1311,21,Female,Computer Science,1,8.27,0,0,1
+130,Gurcharan,cs15b1706,21,Male,Computer Science,1,7.47,0,0,0
+131,Narayan,it15b1420,21,Male,Information Technology,0,5.06,0,0,0
+132,Abhijit,cs15b1591,22,Male,Computer Science,3,6.48,1,0,1
+133,Niyati,cs15b1013,22,Female,Computer Science,1,8.28,0,0,1
+134,Pitamber,me15b1322,22,Male,Mechanical,1,8.5,1,0,1
+135,Sourav,el15b1251,19,Male,Electrical,0,7.38,0,0,0
+136,Hitendra,it15b1314,21,Male,Information Technology,0,7.42,0,0,0
+137,Diyara,cs15b1016,21,Female,Computer Science,1,7.48,0,0,1
+138,Samar,el15b1232,22,Male,Electrical,0,5.37,1,0,0
+139,Maulik,cs15b1663,21,Male,Computer Science,1,6.05,0,0,0
+140,Zara,el15b1059,22,Female,Electrical,0,8.38,0,0,1
+141,Nitish,me15b1080,21,Male,Mechanical,1,7.26,0,0,0
+142,Dnyandeo,cv15b1183,21,Male,Civil,0,7.14,0,0,0
+143,Yash,me15b1096,22,Male,Mechanical,0,8.26,1,0,1
+144,Ishi,it15b1513,21,Female,Information Technology,1,5.45,0,0,0
+145,Abhinav,me15b1416,23,Male,Mechanical,0,7.04,1,0,0
+146,Adarsh,cs15b1449,23,Male,Computer Science,0,5.27,0,1,0
+147,Pratapsinh,cv15b1002,22,Male,Civil,0,8.24,0,0,1
+148,Nathuram,cs15b1603,22,Male,Computer Science,1,7.42,0,0,0
+149,Anaya,cv15b1188,24,Female,Civil,0,6.3,0,0,1
+150,Venkata Swamy,me15b1353,21,Male,Mechanical,0,8.32,1,0,1
+151,Amaya,cs15b1035,24,Female,Computer Science,2,5.17,0,0,1
+152,Avya,ec15b1054,22,Female,Electronics And Communication,0,7.13,0,0,0
+153,Jaipal,cs15b1517,21,Male,Computer Science,1,8.09,0,0,1
+154,Amara,cv15b1204,22,Female,Civil,0,7.34,0,0,0
+155,Anurag,it15b1041,24,Male,Information Technology,3,7.47,0,0,1
+156,Aarohi,el15b1137,22,Female,Electrical,0,8.37,0,0,1
+157,Shridhar,el15b1169,21,Male,Electrical,0,8.2,0,0,1
+158,Pratik,it15b1659,22,Male,Information Technology,0,7.1,0,0,0
+159,Prataprao,cs15b1040,23,Male,Computer Science,1,6.45,0,0,0
+160,Dileesh,cs15b1241,21,Male,Computer Science,1,8.09,0,0,1
+161,Inaya,ec15b1254,21,Female,Electronics And Communication,0,7.1,0,0,0
+162,Anshi,cs15b1212,22,Female,Computer Science,1,6.29,0,0,1
+163,Vani,it15b1510,19,Female,Information Technology,0,6.25,0,1,0
+164,Anaya,cs15b1121,21,Female,Computer Science,0,7.36,0,0,1
+165,Anaya,cs15b1215,22,Female,Computer Science,0,6.23,0,0,1
+166,Rahil,cs15b1102,21,Male,Computer Science,0,7.45,0,0,0
+167,Ajit,it15b1250,22,Male,Information Technology,2,7.49,0,0,1
+168,Kazi,cv15b1054,22,Male,Civil,0,6.17,0,0,0
+169,Dinesh,it15b1553,21,Male,Information Technology,0,8.38,0,0,1
+170,Arya,me15b1383,20,Female,Mechanical,0,7.35,1,1,0
+171,Suresh,it15b1266,22,Male,Information Technology,1,7.33,0,0,0
+172,Krishnadev,cv15b1213,21,Male,Civil,0,7.06,0,0,0
+173,Hemant,it15b1352,21,Male,Information Technology,0,6.46,0,0,0
+174,Ritwik,cs15b1401,22,Male,Computer Science,0,6.1,0,1,0
+175,Vani,it15b1160,21,Female,Information Technology,2,8.34,0,0,1
+176,Pratik,cs15b1085,21,Male,Computer Science,0,6.41,1,0,0
+177,Krishnappa,me15b1196,26,Male,Mechanical,1,6.22,0,0,1
+178,Pitamber,me15b1246,22,Male,Mechanical,1,6.22,1,0,0
+179,Dnyandeo,cs15b1755,22,Male,Computer Science,1,8.24,0,0,1
+180,Mehul,cv15b1152,24,Male,Civil,0,6.27,0,0,1
+181,Pihu,ec15b1283,19,Female,Electronics And Communication,2,8.17,0,0,1
+182,Anushka,me15b1360,20,Female,Mechanical,1,6.26,1,0,0
+183,Nihal,me15b1068,22,Male,Mechanical,0,7.08,1,0,0
+184,Kishor,cs15b1146,21,Male,Computer Science,2,7.15,0,0,1
+185,Aadya,el15b1292,20,Female,Electrical,0,9.22,0,1,1
+186,Birendra,it15b1450,21,Male,Information Technology,2,7.43,0,0,1
+187,Naveen,cv15b1061,22,Male,Civil,1,8.17,0,0,1
+188,Anjali,cs15b1695,21,Female,Computer Science,1,8.13,1,0,1
+189,Akasha,ec15b1167,22,Male,Electronics And Communication,1,7.07,0,0,0
+190,Birendra,el15b1142,21,Male,Electrical,1,7.22,0,0,1
+191,Anika,cs15b1723,20,Female,Computer Science,1,6.42,0,0,0
+192,Manabendra,me15b1185,22,Male,Mechanical,1,7.16,1,0,0
+193,Tara,it15b1359,22,Female,Information Technology,2,8.04,0,0,1
+194,Shanaya,cv15b1233,21,Female,Civil,0,7.31,1,0,0
+195,Kaustubh,it15b1109,22,Male,Information Technology,1,6.14,1,0,0
+196,Anshita,it15b1594,21,Female,Information Technology,2,6.44,0,0,1
+197,Adhar,ec15b1198,21,Male,Electronics And Communication,1,6.11,0,0,0
+198,Amrik,it15b1671,21,Male,Information Technology,0,6.38,0,0,0
+199,Aamna,cv15b1128,22,Female,Civil,2,7.04,1,0,0
+200,Subbiah,cs15b1106,21,Male,Computer Science,0,6.22,1,1,0
+201,Amara,it15b1216,22,Female,Information Technology,0,7.25,0,0,0
+202,Pratik,it15b1007,21,Male,Information Technology,1,6.4,0,0,0
+203,Aanya,cs15b1339,26,Female,Computer Science,1,7.3,0,0,1
+204,Aarna,me15b1311,19,Female,Mechanical,0,6.11,1,0,0
+205,Tithira,cs15b1259,22,Female,Computer Science,2,7.29,0,0,1
+206,Vinay,cv15b1111,21,Male,Civil,0,8.34,0,0,1
+207,Lakshan,it15b1019,21,Male,Information Technology,0,8.5,0,0,1
+208,Ranjitsinh,cs15b1770,22,Male,Computer Science,2,8.12,0,1,1
+209,Ritwik,cs15b1571,19,Male,Computer Science,1,7.12,0,0,1
+210,Nana,me15b1038,21,Male,Mechanical,0,7.06,0,1,1
+211,Bharat,cs15b1541,22,Male,Computer Science,1,8.31,0,0,1
+212,Surinder,cs15b1630,20,Male,Computer Science,0,7.05,0,1,0
+213,Elangovan,it15b1680,23,Male,Information Technology,1,6.16,1,0,0
+214,Narendra,it15b1663,22,Male,Information Technology,1,6.48,0,1,0
+215,Aahana,it15b1474,21,Female,Information Technology,2,7.09,0,1,0
+216,Birendra,cs15b1385,24,Male,Computer Science,0,8.14,0,0,1
+217,Nadeem,it15b1587,20,Male,Information Technology,0,6.5,0,0,0
+218,Mukesh,cs15b1268,21,Male,Computer Science,1,6.46,1,1,0
+219,Muthuswamy,me15b1024,22,Male,Mechanical,0,8.09,1,0,1
+220,Risha,el15b1330,22,Female,Electrical,1,6.18,0,1,0
+221,Nia,cs15b1637,21,Female,Computer Science,2,6.38,0,0,1
+222,Ganpatrao,ec15b1215,23,Male,Electronics And Communication,0,6.13,0,1,0
+223,Pranab,cs15b1478,21,Male,Computer Science,1,8.28,0,0,1
+224,Sivaprasad,it15b1269,21,Male,Information Technology,2,9.46,0,0,1
+225,Jaipal,it15b1519,20,Male,Information Technology,0,8.15,0,0,1
+226,Aanvi,el15b1242,20,Female,Electrical,0,6.22,0,0,0
+227,Rajendra,el15b1211,22,Male,Electrical,0,7.26,0,0,0
+228,Amisha,cs15b1218,22,Female,Computer Science,1,7.41,0,0,1
+229,Adwita,cv15b1272,21,Female,Civil,0,8.12,1,0,1
+230,Namik,ec15b1026,21,Male,Electronics And Communication,2,6.09,1,1,0
+231,Utkarsh,cv15b1106,21,Male,Civil,1,7.28,0,0,0
+232,Ishani,cs15b1174,21,Female,Computer Science,1,7.27,0,0,0
+233,Devesh,cs15b1345,25,Male,Computer Science,0,6.28,1,1,1
+234,Aradhya,it15b1642,20,Female,Information Technology,1,7.09,0,1,0
+235,Amaira,ec15b1046,21,Female,Electronics And Communication,0,8.14,0,0,1
+236,Sanjay,it15b1090,22,Male,Information Technology,0,6.44,0,0,0
+237,Myra,el15b1288,21,Female,Electrical,2,6.29,0,1,0
+238,Aahana,it15b1355,22,Female,Information Technology,0,7.31,0,1,0
+239,Aisha,cs15b1424,20,Female,Computer Science,2,7.32,1,1,0
+240,Kirpa,cv15b1158,22,Male,Civil,0,6.05,0,0,0
+241,Lakshan,me15b1118,22,Male,Mechanical,1,7.25,1,0,0
+242,Anshika,cs15b1566,21,Female,Computer Science,1,8.12,0,0,1
+243,Vani,cv15b1182,20,Female,Civil,2,6.44,0,0,1
+244,Elangovan,me15b1403,22,Male,Mechanical,1,6.39,1,1,0
+245,Raja,cs15b1771,23,Male,Computer Science,1,8.38,1,0,1
+246,Vritika,ec15b1391,20,Female,Electronics And Communication,2,8.31,0,0,1
+247,Aanya,it15b1599,20,Female,Information Technology,0,6.36,0,0,0
+248,Surinder,it15b1177,21,Male,Information Technology,1,6.27,0,0,1
+249,Surendranath,ec15b1360,21,Male,Electronics And Communication,0,7.29,0,0,1
+250,Anvi,el15b1168,22,Female,Electrical,0,6.36,0,0,0
+251,Anusha,cs15b1181,21,Female,Computer Science,0,8.1,0,1,1
+252,Sara,ec15b1161,21,Female,Electronics And Communication,0,8.19,0,0,1
+253,Devesh,me15b1264,20,Male,Mechanical,1,8.16,1,0,1
+254,Naveen,ec15b1125,22,Male,Electronics And Communication,0,6.31,0,0,0
+255,Amaira,cv15b1282,20,Female,Civil,0,8.46,0,0,1
+256,Arvind,cs15b1315,22,Male,Computer Science,1,8.34,0,0,1
+257,Sadanand,el15b1241,19,Male,Electrical,0,7.09,0,0,0
+258,Varghese,cs15b1685,21,Male,Computer Science,1,9.2,1,0,1
+259,Zoya,it15b1223,22,Female,Information Technology,0,6.44,0,0,1
+260,Nirupam,cv15b1273,21,Male,Civil,0,8.01,1,0,1
+261,Govindrao,cs15b1199,22,Male,Computer Science,1,6.46,1,0,1
+262,Kyra,ec15b1338,22,Female,Electronics And Communication,0,8.46,0,0,1
+263,Ariya,cs15b1419,23,Female,Computer Science,1,7.02,1,0,1
+264,Ishita,cs15b1321,26,Female,Computer Science,1,7.2,0,0,1
+265,Tithira,me15b1222,21,Female,Mechanical,0,6.31,1,0,1
+266,Anusha,me15b1327,29,Female,Mechanical,1,8.32,1,0,1
+267,Gunda,it15b1297,21,Male,Information Technology,0,7.34,0,0,1
+268,Nibaran,cv15b1093,21,Male,Civil,0,6.13,0,0,0
+269,Sekar,cv15b1011,21,Male,Civil,1,8.44,0,1,1
+270,Kyra,el15b1129,21,Female,Electrical,1,9.28,0,0,1
+271,Riva,cs15b1691,21,Female,Computer Science,0,8.11,0,0,1
+272,Dinesh,me15b1129,21,Male,Mechanical,1,6.19,1,0,0
+273,Mehul,cs15b1687,20,Male,Computer Science,1,9.4,0,0,1
+274,Suresh,ec15b1221,23,Male,Electronics And Communication,0,6.11,0,0,0
+275,Vineet,cs15b1684,20,Male,Computer Science,1,8.12,0,0,1
+276,Kulbhushan,cs15b1532,22,Male,Computer Science,0,6.24,0,0,0
+277,Gunda,me15b1320,19,Male,Mechanical,1,6.42,1,1,0
+278,Aradhya,me15b1391,21,Female,Mechanical,1,7.28,0,0,0
+279,Sambhunath,it15b1607,21,Male,Information Technology,0,7.08,0,0,0
+280,Pihu,me15b1329,19,Female,Mechanical,1,7.26,1,0,0
+281,Riva,me15b1405,22,Female,Mechanical,0,7.3,1,0,0
+282,Pihu,it15b1030,23,Female,Information Technology,1,6.46,0,0,0
+283,Aarna,cs15b1595,22,Female,Computer Science,1,6.13,0,0,1
+284,Sudhir,me15b1384,21,Male,Mechanical,1,8.35,0,0,1
+285,Govindrao,cv15b1305,20,Male,Civil,1,8.26,0,0,1
+286,Radhanath,cs15b1292,22,Male,Computer Science,0,9.01,1,0,1
+287,Aanya,ec15b1124,21,Female,Electronics And Communication,2,7.47,0,0,1
+288,Jahangir,it15b1454,23,Male,Information Technology,0,7.08,0,0,0
+289,Muthuswamy,ec15b1033,22,Male,Electronics And Communication,1,8.14,1,1,1
+290,Aarya,cs15b1677,20,Female,Computer Science,1,8.02,0,0,1
+291,Neeraj,me15b1184,22,Male,Mechanical,2,9.33,0,0,1
+292,Nia,it15b1240,21,Female,Information Technology,1,6.38,0,1,1
+293,Anirban,me15b1393,20,Male,Mechanical,1,6.32,0,1,0
+294,Anshi,el15b1152,26,Female,Electrical,0,6.04,0,0,1
+295,Sara,ec15b1252,22,Female,Electronics And Communication,1,8.1,0,0,1
+296,Manmohan,me15b1366,20,Male,Mechanical,1,8.12,1,0,1
+297,Lakshman,ec15b1192,22,Male,Electronics And Communication,0,7.5,0,0,0
+298,Vritika,ec15b1411,21,Female,Electronics And Communication,0,8.03,0,0,1
+299,Munish,cs15b1266,21,Male,Computer Science,2,8.32,0,0,1
+300,Shanaya,cv15b1300,20,Female,Civil,0,9.34,0,1,1
+301,Amarjit,me15b1050,22,Male,Mechanical,1,6.36,1,0,0
+302,Nibaran,el15b1207,19,Male,Electrical,0,8.01,0,0,1
+303,Sana,cs15b1469,23,Female,Computer Science,1,6.01,0,0,0
+304,Anushka,me15b1147,22,Female,Mechanical,1,7.31,1,0,0
+305,Puran,it15b1638,20,Male,Information Technology,1,7.17,1,0,0
+306,Kyra,el15b1173,22,Female,Electrical,1,7.05,0,0,0
+307,Hitesh,it15b1524,22,Male,Information Technology,1,5.32,1,0,0
+308,Gopinathan,it15b1029,23,Male,Information Technology,1,6.5,0,0,1
+309,Aiza,el15b1086,26,Female,Electrical,0,9.21,0,1,1
+310,Aarya,el15b1283,21,Female,Electrical,0,7.21,0,0,0
+311,Navya,it15b1020,22,Female,Information Technology,1,6.07,0,0,1
+312,Srikanta,ec15b1011,21,Male,Electronics And Communication,3,6.2,0,0,1
+313,Sriram,it15b1578,21,Male,Information Technology,1,6.1,0,0,0
+314,Nana,cv15b1179,21,Male,Civil,0,7.13,0,0,1
+315,Kaira,cs15b1572,20,Female,Computer Science,0,5.25,0,0,0
+316,Kazi,cv15b1261,20,Male,Civil,1,8.17,0,0,1
+317,Biju,it15b1541,22,Male,Information Technology,3,6.17,1,1,0
+318,Dhinakaran,me15b1407,22,Male,Mechanical,0,7.32,1,0,0
+319,Harish,me15b1070,22,Male,Mechanical,0,7.37,1,1,0
+320,Pranav,it15b1489,20,Male,Information Technology,1,7.2,0,0,0
+321,Vidyut,it15b1403,21,Male,Information Technology,0,6.48,0,0,0
+322,Harsh,cs15b1185,25,Male,Computer Science,1,8.48,0,0,1
+323,Rahul,me15b1037,22,Male,Mechanical,0,6.38,1,0,1
+324,Umesh,ec15b1239,21,Male,Electronics And Communication,1,5.17,0,0,0
+325,Jadunath,el15b1140,22,Male,Electrical,1,7.01,0,1,0
+326,Nirupam,it15b1105,21,Male,Information Technology,1,8.16,1,0,1
+327,Yogeshwar,it15b1622,21,Male,Information Technology,0,8.31,0,0,1
+328,Diyara,cs15b1445,21,Female,Computer Science,1,6.33,0,1,0
+329,Ishita,cs15b1676,21,Female,Computer Science,1,6.39,1,0,0
+330,Mahboob,cs15b1083,21,Male,Computer Science,1,7.02,0,0,1
+331,Ishani,cv15b1194,22,Female,Civil,0,5.03,1,0,0
+332,Aiza,cs15b1465,20,Female,Computer Science,0,6.24,0,0,0
+333,Aritra,me15b1279,22,Male,Mechanical,3,7.42,1,1,0
+334,Aradhya,el15b1221,22,Female,Electrical,0,7.31,1,1,0
+335,Tanisha,el15b1192,22,Female,Electrical,1,6.34,0,1,0
+336,Anaya,cv15b1218,19,Female,Civil,1,7.38,0,1,0
+337,Sarabjit,cs15b1459,20,Male,Computer Science,1,8.15,0,0,1
+338,Anshi,cv15b1140,21,Female,Civil,0,9.29,0,1,1
+339,Pranab,me15b1294,20,Male,Mechanical,0,8.27,1,1,1
+340,Ishika,cs15b1744,23,Female,Computer Science,1,6.15,1,0,0
+341,Aahana,cs15b1051,22,Female,Computer Science,0,5.09,0,0,0
+342,Kalimuthu,cs15b1025,21,Male,Computer Science,0,6.5,0,0,0
+343,Nitish,cs15b1525,20,Male,Computer Science,0,8.42,0,0,1
+344,Jaipal,me15b1067,22,Male,Mechanical,1,7.35,1,0,0
+345,Naveen,me15b1299,19,Male,Mechanical,0,6.04,0,0,1
+346,Ajish,it15b1444,21,Male,Information Technology,1,6.26,1,0,0
+347,Aanvi,it15b1322,26,Female,Information Technology,0,7.25,0,0,0
+348,Pranab,cs15b1118,21,Male,Computer Science,0,7.01,0,1,0
+349,Mansukh,cs15b1323,24,Male,Computer Science,1,7.36,0,0,0
+350,Dileesh,it15b1354,22,Male,Information Technology,1,6.42,0,0,0
+351,Nida,ec15b1048,21,Male,Electronics And Communication,1,7.18,0,1,1
+352,Navya,it15b1366,21,Female,Information Technology,0,8.3,0,0,1
+353,Anshi,cs15b1028,23,Female,Computer Science,0,7.31,0,0,1
+354,Krishnayya,it15b1457,21,Male,Information Technology,1,7.05,0,0,0
+355,Kavya,cs15b1457,23,Female,Computer Science,1,7.13,0,0,0
+356,Arvind,me15b1218,24,Male,Mechanical,0,6.32,1,0,1
+357,Ziya,cs15b1362,28,Female,Computer Science,3,8.38,1,0,1
+358,Nirupam,it15b1621,20,Male,Information Technology,1,8.17,1,0,1
+359,Amaya,it15b1676,23,Female,Information Technology,1,7.47,0,0,0
+360,Kalimuthu,ec15b1324,19,Male,Electronics And Communication,0,7.16,0,0,0
+361,Jawahar,ec15b1004,22,Male,Electronics And Communication,1,7.05,0,1,0
+362,Neelan,ec15b1258,22,Male,Electronics And Communication,1,8.29,0,1,1
+363,Namik,it15b1538,19,Male,Information Technology,1,6.12,0,0,0
+364,Pallav,cs15b1373,21,Male,Computer Science,2,7.39,0,0,1
+365,Biju,me15b1079,22,Male,Mechanical,1,8.22,0,0,1
+366,Kalimuthu,el15b1289,21,Male,Electrical,0,7.13,0,0,0
+367,Shreya,cv15b1252,20,Female,Civil,0,7.24,1,0,0
+368,Tara,ec15b1316,20,Female,Electronics And Communication,1,6.35,0,0,0
+369,Giridhar,el15b1080,21,Male,Electrical,0,7.42,0,0,0
+370,Sudhir,cs15b1592,20,Male,Computer Science,0,8.19,0,1,1
+371,Anvika,ec15b1021,24,Female,Electronics And Communication,2,6.49,0,0,1
+372,Akshat,cs15b1178,21,Male,Computer Science,1,7.38,0,0,0
+373,Tarun,it15b1392,21,Male,Information Technology,0,7.07,0,0,1
+374,Saina,it15b1508,19,Female,Information Technology,1,8.17,0,0,1
+375,Anshi,cs15b1698,20,Female,Computer Science,1,7.28,0,0,0
+376,Randhir,me15b1077,22,Male,Mechanical,1,6.18,1,0,0
+377,Aarna,ec15b1349,21,Female,Electronics And Communication,0,7.23,0,0,0
+378,Aarushi,cs15b1337,26,Female,Computer Science,1,6.33,0,0,1
+379,Puran,cv15b1170,22,Male,Civil,1,6.23,0,0,0
+380,Sambhunath,me15b1066,22,Male,Mechanical,0,6.42,1,1,1
+381,Navya,ec15b1259,20,Female,Electronics And Communication,2,7.49,0,0,1
+382,Anaya,el15b1298,20,Female,Electrical,0,9.03,0,1,1
+383,Amaya,it15b1086,22,Female,Information Technology,1,7.27,0,0,1
+384,Jahangir,el15b1037,22,Male,Electrical,1,8.44,0,1,1
+385,Aditya,el15b1124,22,Male,Electrical,1,6.38,0,0,0
+386,Amisha,me15b1233,20,Female,Mechanical,1,7.48,1,1,0
+387,Aarvi,me15b1409,23,Female,Mechanical,1,7.06,0,0,0
+388,Ambika,cs15b1201,22,Male,Computer Science,1,6.19,0,0,0
+389,Arushi,it15b1347,21,Female,Information Technology,0,6.45,0,1,0
+390,Anjali,el15b1323,23,Female,Electrical,0,6.16,1,0,0
+391,Araya,cs15b1365,22,Female,Computer Science,1,6.22,0,0,0
+392,Bhushan,cs15b1513,20,Male,Computer Science,1,7.04,0,0,0
+393,Sarabjit,it15b1234,21,Male,Information Technology,0,7.48,0,1,1
+394,Srinivas,cs15b1480,23,Male,Computer Science,0,6.45,0,0,0
+395,Satyadev,me15b1424,23,Male,Mechanical,1,7.49,1,0,0
+396,Shanaya,ec15b1404,23,Female,Electronics And Communication,0,6.03,0,1,0
+397,Anil,cv15b1295,20,Male,Civil,0,9.23,1,1,1
+398,Srinivas,it15b1419,22,Male,Information Technology,1,5.26,0,0,0
+399,Aradhya,me15b1252,20,Female,Mechanical,1,5.34,1,0,0
+400,Dileesh,me15b1095,21,Male,Mechanical,0,7.23,1,0,0
+401,Saina,cv15b1118,21,Female,Civil,2,7.06,0,0,0
+402,Ankit,me15b1142,21,Male,Mechanical,1,8.05,1,1,1
+403,Girish,it15b1630,20,Male,Information Technology,0,7.12,0,0,0
+404,Lakshan,it15b1484,21,Male,Information Technology,0,7.3,0,0,0
+405,Hiten,ec15b1220,23,Male,Electronics And Communication,2,8.11,0,0,1
+406,Mehar,me15b1272,24,Male,Mechanical,1,7.28,1,0,0
+407,Pranay,it15b1088,21,Male,Information Technology,1,7.42,0,1,0
+408,Vidhi,ec15b1095,22,Female,Electronics And Communication,1,7.44,0,1,0
+409,Kripa,ec15b1172,21,Male,Electronics And Communication,0,9.27,0,0,1
+410,Aniruddha,cs15b1237,22,Male,Computer Science,0,6.09,0,0,1
+411,Anshi,ec15b1424,22,Female,Electronics And Communication,0,7.43,0,0,0
+412,Sabyasachi,cs15b1398,20,Male,Computer Science,1,7.27,1,0,1
+413,Amaya,cs15b1289,21,Female,Computer Science,1,8.27,1,0,1
+414,Diya,cv15b1139,22,Female,Civil,0,9.3,0,1,1
+415,Tanmay,me15b1061,22,Male,Mechanical,1,7.23,1,0,0
+416,Amrutlal,me15b1137,21,Male,Mechanical,0,8.18,1,0,1
+417,Anaya,el15b1018,24,Female,Electrical,0,5.42,1,0,0
+418,Lakshman,cv15b1260,20,Male,Civil,0,6.2,0,0,0
+419,Muthuswamy,it15b1378,24,Male,Information Technology,0,8.36,0,0,1
+420,Ishani,el15b1279,20,Female,Electrical,0,7.14,1,0,0
+421,Randhir,me15b1139,22,Male,Mechanical,0,7.15,1,0,0
+422,Ishani,it15b1025,23,Female,Information Technology,1,6.21,0,0,0
+423,Harilal,cv15b1032,21,Male,Civil,1,7.05,1,0,0
+424,Ravichandran,it15b1529,19,Male,Information Technology,1,8.17,0,0,1
+425,Aarushi,cs15b1573,20,Female,Computer Science,1,8.16,0,0,1
+426,Amarjit,it15b1397,23,Male,Information Technology,1,8.01,0,0,1
+427,Ranjitsinh,it15b1517,19,Male,Information Technology,1,6.16,0,0,1
+428,Jadunath,cs15b1733,20,Male,Computer Science,1,6.08,0,0,0
+429,Navya,cs15b1032,24,Female,Computer Science,1,6.36,0,0,1
+430,Gopinathan,ec15b1106,24,Male,Electronics And Communication,1,9.15,0,0,1
+431,Diya,cv15b1245,22,Female,Civil,1,7.19,0,0,0
+432,Rajan,ec15b1219,21,Male,Electronics And Communication,0,7.08,0,0,0
+433,Mansukh,cv15b1144,21,Male,Civil,0,7.14,0,0,0
+434,Kripa,cs15b1726,21,Male,Computer Science,1,8.17,1,0,1
+435,Ranjitsinh,cs15b1714,21,Male,Computer Science,0,7.45,0,0,0
+436,Adwita,cv15b1005,22,Female,Civil,0,7.43,0,0,1
+437,Biju,me15b1313,20,Male,Mechanical,0,7.24,1,0,0
+438,Pankaj,it15b1208,22,Male,Information Technology,0,6.19,0,0,1
+439,Anika,it15b1548,21,Female,Information Technology,1,7.35,0,0,0
+440,Pranav,cs15b1229,21,Male,Computer Science,1,7.24,1,0,1
+441,Avni,cs15b1395,23,Female,Computer Science,0,7.28,0,0,0
+442,Chakrapani,me15b1402,23,Male,Mechanical,0,6.47,1,0,0
+443,Rajendra,cs15b1153,21,Male,Computer Science,1,7.32,0,0,0
+444,Kripa,me15b1045,21,Male,Mechanical,0,7.16,1,0,1
+445,Debaprasad,cs15b1452,21,Male,Computer Science,1,6.45,0,0,0
+446,Amrutlal,cv15b1019,22,Male,Civil,0,7.47,0,1,0
+447,Ravichandran,cs15b1327,24,Male,Computer Science,0,6.18,1,1,1
+448,Rajendra,ec15b1306,21,Male,Electronics And Communication,0,6.33,0,0,0
+449,Sunil,it15b1210,22,Male,Information Technology,1,7.33,0,0,0
+450,Dnyandeo,me15b1334,22,Male,Mechanical,1,6.34,1,0,0
+451,Raghu,it15b1302,22,Male,Information Technology,0,7.27,0,0,1
+452,Kavya,cv15b1029,21,Female,Civil,0,6.38,0,0,0
+453,Deepak,it15b1287,22,Male,Information Technology,2,8.13,0,0,1
+454,Harmeet,cv15b1060,21,Male,Civil,0,6.47,1,1,0
+455,Keshav,ec15b1049,21,Male,Electronics And Communication,1,8.36,0,0,1
+456,Nida,me15b1009,21,Male,Mechanical,0,8.34,1,0,1
+457,Lakshan,cs15b1252,22,Male,Computer Science,2,7.37,1,0,1
+458,Inaaya,it15b1486,20,Female,Information Technology,1,7.01,0,0,0
+459,Sasha,ec15b1177,25,Female,Electronics And Communication,0,6.49,0,0,1
+460,Kripa,cs15b1375,22,Male,Computer Science,3,6.24,0,1,0
+461,Anvi,cs15b1705,21,Female,Computer Science,0,8.15,1,0,1
+462,Aarohi,it15b1350,22,Female,Information Technology,1,8.09,1,0,1
+463,Radhanath,it15b1328,21,Male,Information Technology,0,7.07,0,0,0
+464,Diya,cs15b1228,21,Female,Computer Science,0,6.5,0,1,0
+465,Amaira,me15b1213,22,Female,Mechanical,1,7.42,1,1,0
+466,Prakash,it15b1083,22,Male,Information Technology,0,8.31,0,0,1
+467,Mallikarjuna Rao,el15b1290,20,Male,Electrical,0,9.12,1,0,1
+468,Sabyasachi,el15b1245,20,Male,Electrical,1,6.19,0,0,1
+469,Aaira,cs15b1056,21,Female,Computer Science,2,7.08,0,0,1
+470,Keshav,me15b1101,26,Male,Mechanical,1,7.34,1,0,0
+471,Rinjish,cs15b1112,21,Male,Computer Science,1,7.43,0,0,0
+472,Byramjee,ec15b1062,22,Male,Electronics And Communication,2,7.48,0,1,0
+473,Pankaj,el15b1263,19,Male,Electrical,0,8.17,0,0,1
+474,Hriday,me15b1171,21,Male,Mechanical,0,9.1,1,0,1
+475,Nilesh,el15b1072,22,Male,Electrical,2,6.28,0,0,1
+476,Nathuram,cs15b1589,19,Male,Computer Science,2,8.04,0,0,1
+477,Sriram,cs15b1730,20,Male,Computer Science,0,7.17,0,1,0
+478,Narayan,cs15b1548,21,Male,Computer Science,0,6.46,1,1,0
+479,Manabendra,me15b1295,19,Male,Mechanical,0,9.15,1,1,1
+480,Ajit,cv15b1195,23,Male,Civil,1,6.18,0,0,0
+481,Anisha,it15b1675,23,Female,Information Technology,1,6.47,0,0,0
+482,Satish,el15b1097,22,Male,Electrical,0,8.02,0,0,1
+483,Aseem,ec15b1191,21,Male,Electronics And Communication,0,8.06,0,1,1
+484,Tanmay,cs15b1467,21,Male,Computer Science,2,8.48,0,0,1
+485,Ariya,cs15b1045,22,Female,Computer Science,1,5.49,0,0,0
+486,Aadya,it15b1688,22,Female,Information Technology,0,7.39,0,0,0
+487,Anup,ec15b1409,22,Male,Electronics And Communication,2,6.36,0,0,1
+488,Manmohan,cs15b1534,20,Male,Computer Science,0,7.08,0,1,0
+489,Nitin,cs15b1084,22,Male,Computer Science,1,8.4,1,0,1
+490,Chandrajit,me15b1287,19,Male,Mechanical,2,8.06,1,0,1
+491,Kalimuthu,me15b1217,24,Male,Mechanical,0,7.11,1,0,0
+492,Rajinder,cs15b1186,25,Male,Computer Science,1,8.13,0,0,1
+493,Umesh,cs15b1678,21,Male,Computer Science,1,7.38,0,0,0
+494,Nikhil,cs15b1078,22,Male,Computer Science,2,6.14,1,1,0
+495,Amaira,cs15b1165,22,Female,Computer Science,2,7.08,0,0,0
+496,Nirupam,ec15b1103,26,Male,Electronics And Communication,2,6.3,0,0,1
+497,Amaira,me15b1363,20,Female,Mechanical,1,8.06,1,0,1
+498,Kazi,cv15b1274,21,Male,Civil,0,7.49,0,0,0
+499,Anshita,cv15b1120,21,Female,Civil,1,6.04,0,0,0
+500,Arushi,cv15b1141,21,Female,Civil,0,9.07,0,0,1
+501,Aditya,el15b1125,21,Male,Electrical,1,8.5,0,1,1
+502,Amarsinh,cs15b1120,22,Male,Computer Science,0,7.48,0,1,1
+503,Shreya,el15b1093,21,Female,Electrical,1,6.36,0,0,0
+504,Ariya,me15b1404,21,Female,Mechanical,0,7.06,1,0,0
+505,Alisha,it15b1153,22,Female,Information Technology,1,7.49,1,0,0
+506,Krishnadev,ec15b1028,21,Male,Electronics And Communication,2,6.04,1,1,0
+507,Rajiv,me15b1128,21,Male,Mechanical,0,8.44,1,0,1
+508,Amisha,cv15b1147,21,Female,Civil,2,8.47,0,0,1
+509,Aanya,it15b1416,24,Female,Information Technology,1,6.37,0,1,1
+510,Vinay,el15b1148,21,Male,Electrical,1,8.36,0,0,1
+511,Pitamber,me15b1097,21,Male,Mechanical,2,6.23,1,0,1
+512,Tanuj,el15b1099,21,Male,Electrical,0,7.39,0,0,0
+513,Shreyas,me15b1160,21,Male,Mechanical,1,7.29,1,0,0
+514,Aradhya,cs15b1710,20,Female,Computer Science,0,9.46,0,1,1
+515,Surendra,ec15b1050,21,Male,Electronics And Communication,0,8.46,0,0,1
+516,Avira,me15b1255,24,Female,Mechanical,0,6.41,1,0,1
+517,Manabendra,it15b1661,21,Male,Information Technology,0,7.49,0,1,0
+518,Aiza,cv15b1311,22,Female,Civil,0,8.27,1,0,1
+519,Araina,cs15b1612,22,Female,Computer Science,0,6.47,0,0,0
+520,Aadya,me15b1373,21,Female,Mechanical,0,6.18,0,1,0
+521,Navya,ec15b1365,21,Female,Electronics And Communication,0,9.19,0,0,1
+522,Kiran,it15b1558,20,Female,Information Technology,1,6.35,0,0,0
+523,Anushka,cs15b1108,22,Female,Computer Science,1,6.25,0,0,0
+524,Harilal,ec15b1289,21,Male,Electronics And Communication,1,8.14,1,1,1
+525,Nysa,it15b1458,20,Female,Information Technology,2,8.33,0,0,1
+526,Manmohan,cv15b1042,22,Male,Civil,0,8.34,1,0,1
+527,Gunda,it15b1382,20,Male,Information Technology,0,6.48,0,0,0
+528,Dnyandeo,me15b1102,24,Male,Mechanical,0,8.3,0,0,1
+529,Saisha,ec15b1090,22,Female,Electronics And Communication,1,7.21,0,0,0
+530,Anshi,cv15b1161,21,Female,Civil,0,8.5,1,0,1
+531,Anisha,it15b1509,21,Female,Information Technology,1,9.03,0,1,1
+532,Apoorva,cs15b1748,22,Male,Computer Science,1,7.42,0,0,0
+533,Aahana,cv15b1240,21,Female,Civil,0,8.13,0,0,1
+534,Risha,it15b1038,24,Female,Information Technology,1,7.49,0,0,0
+535,Kavya,ec15b1043,21,Female,Electronics And Communication,0,6.35,0,0,0
+536,Chandrajit,cs15b1436,21,Male,Computer Science,0,6.17,0,0,0
+537,Prabodh Chandra,cs15b1122,22,Male,Computer Science,0,8.23,0,1,1
+538,Arushi,ec15b1010,22,Female,Electronics And Communication,0,8.32,0,0,1
+539,Kiara,cs15b1353,22,Female,Computer Science,0,6.42,1,1,0
+540,Humayun,cs15b1662,20,Male,Computer Science,2,6.31,1,0,1
+541,Navya,it15b1492,20,Female,Information Technology,0,6.19,0,0,0
+542,Aarna,ec15b1243,22,Female,Electronics And Communication,1,7.25,1,0,0
+543,Maira,it15b1497,21,Female,Information Technology,1,6.41,0,0,0
+544,Rajan,me15b1189,22,Male,Mechanical,0,7.37,1,0,0
+545,Tanuj,ec15b1139,22,Male,Electronics And Communication,2,6.13,0,0,1
+546,Kulbhushan,cv15b1275,20,Male,Civil,2,7.07,0,0,0
+547,Saiya,cv15b1186,23,Female,Civil,1,5.44,0,0,0
+548,Raja,it15b1691,22,Male,Information Technology,1,7.06,0,0,0
+549,Avni,el15b1052,22,Female,Electrical,0,7.06,0,1,0
+550,Jaipal,it15b1370,22,Male,Information Technology,1,6.0,0,0,1
+551,Jahangir,cv15b1028,22,Male,Civil,1,7.24,0,0,0
+552,Shivani,it15b1166,26,Female,Information Technology,1,8.1,0,0,1
+553,Sabyasachi,cs15b1651,19,Male,Computer Science,1,6.32,1,0,0
+554,Ganpatrao,me15b1420,21,Male,Mechanical,0,8.39,1,0,1
+555,Adesh,el15b1271,21,Male,Electrical,0,7.07,1,0,0
+556,Anvi,cs15b1654,19,Female,Computer Science,1,7.39,1,0,0
+557,Zoya,me15b1419,23,Female,Mechanical,0,6.25,0,0,0
+558,Vanya,el15b1302,21,Female,Electrical,0,8.26,0,0,1
+559,Rianka,me15b1355,21,Female,Mechanical,0,6.38,1,0,0
+560,Avira,ec15b1144,22,Female,Electronics And Communication,2,6.2,0,0,1
+561,Bhushan,it15b1609,20,Male,Information Technology,0,8.29,0,0,1
+562,Mehar,cs15b1131,21,Male,Computer Science,1,8.02,0,0,1
+563,Nihar,ec15b1097,22,Male,Electronics And Communication,1,7.17,0,0,0
+564,Amisha,me15b1223,20,Female,Mechanical,0,6.06,1,1,0
+565,Neelan,cs15b1066,22,Male,Computer Science,1,8.34,0,0,1
+566,Navya,ec15b1188,21,Female,Electronics And Communication,1,7.43,0,0,0
+567,Vidyut,it15b1321,26,Male,Information Technology,0,7.06,0,0,1
+568,Navya,cs15b1198,22,Female,Computer Science,0,6.26,0,0,1
+569,Aiza,me15b1169,22,Female,Mechanical,0,8.47,1,0,1
+570,Aarushi,it15b1410,21,Female,Information Technology,0,7.45,0,0,0
+571,Narendra,el15b1304,21,Male,Electrical,0,9.17,0,0,1
+572,Pranav,me15b1033,22,Male,Mechanical,0,6.15,1,0,0
+573,Sneha,cv15b1010,22,Female,Civil,1,6.48,1,0,0
+574,Radhanath,cs15b1230,21,Male,Computer Science,0,6.44,0,0,0
+575,Saina,el15b1174,23,Female,Electrical,0,8.21,0,1,1
+576,Kripa,me15b1265,20,Male,Mechanical,1,7.32,1,0,0
+577,Satish,cs15b1209,22,Male,Computer Science,0,8.04,1,0,1
+578,Anshika,it15b1438,24,Female,Information Technology,0,6.07,0,0,1
+579,Aira,cv15b1265,19,Female,Civil,1,8.19,0,0,1
+580,Amit,cs15b1249,22,Male,Computer Science,1,8.44,0,1,1
+581,Zara,cs15b1001,21,Female,Computer Science,0,7.26,1,1,1
+582,Sahil,ec15b1271,20,Male,Electronics And Communication,0,8.25,0,0,1
+583,Aarohi,cs15b1403,21,Female,Computer Science,0,7.33,0,0,1
+584,Nitish,cs15b1309,21,Male,Computer Science,0,7.15,0,1,0
+585,Pranav,it15b1236,21,Male,Information Technology,0,6.2,0,1,1
+586,Narayan,me15b1230,24,Male,Mechanical,0,8.01,1,0,1
+587,Shridhar,el15b1240,21,Male,Electrical,0,7.07,1,1,0
+588,Anaisha,it15b1681,23,Female,Information Technology,1,8.27,0,0,1
+589,Vallabhbhai,el15b1034,21,Male,Electrical,0,8.05,0,0,1
+590,Ramesh,ec15b1256,23,Male,Electronics And Communication,0,6.09,0,0,0
+591,Ajish,cs15b1050,22,Male,Computer Science,0,5.43,0,0,0
+592,Gurcharan,cv15b1232,21,Male,Civil,1,6.18,0,0,0
+593,Harjit,it15b1597,20,Male,Information Technology,1,8.32,0,0,1
+594,Sukhbir,cs15b1322,26,Male,Computer Science,1,6.34,0,0,1
+595,Sekar,me15b1259,23,Male,Mechanical,1,6.06,1,0,0
+596,Sriram,cs15b1214,22,Male,Computer Science,1,8.09,0,0,1
+597,Anshi,it15b1540,22,Female,Information Technology,1,6.18,0,0,1
+598,Raja,el15b1047,21,Male,Electrical,0,6.17,0,0,0
+599,Sneha,it15b1682,21,Female,Information Technology,0,8.33,0,0,1
+600,Kripa,cv15b1277,20,Male,Civil,0,8.22,0,1,1
+601,Diya,ec15b1179,26,Female,Electronics And Communication,0,6.25,0,0,1
+602,Kalanidhi,el15b1068,21,Male,Electrical,1,8.27,0,0,1
+603,Adarsh,cs15b1628,20,Male,Computer Science,0,6.02,0,0,0
+604,Ajay,cs15b1351,21,Male,Computer Science,1,6.05,1,0,0
+605,Namik,ec15b1042,22,Male,Electronics And Communication,1,8.3,0,0,1
+606,Kavya,it15b1178,21,Female,Information Technology,0,7.05,0,0,1
+607,Giridhar,cv15b1131,22,Male,Civil,1,8.36,0,0,1
+608,Ishani,it15b1652,23,Female,Information Technology,1,6.16,0,1,0
+609,Kaustubh,cs15b1039,24,Male,Computer Science,2,6.09,0,0,1
+610,Sarabjit,el15b1082,24,Male,Electrical,1,8.11,0,1,1
+611,Diti,ec15b1282,22,Female,Electronics And Communication,3,6.0,0,0,1
+612,Avya,me15b1415,21,Female,Mechanical,3,6.35,1,0,1
+613,Prabodh Chandra,cs15b1754,21,Male,Computer Science,1,8.25,0,0,1
+614,Byramjee,ec15b1322,20,Male,Electronics And Communication,0,8.01,0,1,1
+615,Tithira,it15b1106,22,Female,Information Technology,0,8.48,0,0,1
+616,Narayan,el15b1167,21,Male,Electrical,0,8.25,0,0,1
+617,Vallabhbhai,cs15b1279,22,Male,Computer Science,1,7.43,1,0,0
+618,Aaradhya,me15b1370,21,Female,Mechanical,0,7.47,1,1,0
+619,Diya,me15b1268,20,Female,Mechanical,0,6.4,1,1,0
+620,Kalanidhi,el15b1055,21,Male,Electrical,0,6.02,0,0,1
+621,Dheeraj,it15b1148,21,Male,Information Technology,2,6.22,1,0,1
+622,Riva,ec15b1402,22,Female,Electronics And Communication,3,8.04,0,1,1
+623,Amaya,it15b1288,21,Female,Information Technology,1,9.43,0,0,1
+624,Munish,el15b1061,22,Male,Electrical,1,7.43,0,0,0
+625,Pitamber,it15b1192,21,Male,Information Technology,0,6.07,0,0,1
+626,Ariya,ec15b1332,19,Female,Electronics And Communication,1,7.11,0,0,1
+627,Pratul,it15b1162,26,Male,Information Technology,1,6.11,0,0,1
+628,Nysa,cv15b1297,20,Female,Civil,0,9.13,0,0,1
+629,Miraya,el15b1019,23,Female,Electrical,0,6.22,0,0,0
+630,Keshav,it15b1049,22,Male,Information Technology,1,7.03,1,0,0
+631,Sarit,me15b1062,21,Male,Mechanical,0,6.08,1,0,1
+632,Niyati,el15b1320,21,Female,Electrical,1,8.19,0,1,1
+633,Anushka,it15b1085,22,Female,Information Technology,1,6.46,0,0,1
+634,Hriday,cs15b1439,24,Male,Computer Science,2,5.34,1,0,0
+635,Amrutlal,it15b1221,21,Male,Information Technology,2,8.41,0,1,1
+636,Naranbhai,cs15b1059,21,Male,Computer Science,2,8.46,0,0,1
+637,Pranav,me15b1039,21,Male,Mechanical,1,6.19,1,0,0
+638,Arvind,ec15b1213,20,Male,Electronics And Communication,0,8.46,0,0,1
+639,Kyra,it15b1298,21,Female,Information Technology,2,9.48,0,0,1
+640,Dhriti,it15b1514,22,Female,Information Technology,2,5.3,0,0,0
+641,Narayan,ec15b1126,21,Male,Electronics And Communication,1,8.5,1,1,1
+642,Ishika,it15b1368,21,Female,Information Technology,0,7.07,0,0,0
+643,Sneha,cs15b1261,22,Female,Computer Science,1,7.35,0,0,1
+644,Sara,cs15b1523,22,Female,Computer Science,2,7.03,0,0,0
+645,Aarini,cv15b1045,22,Female,Civil,0,6.44,0,0,0
+646,Sambhunath,ec15b1300,21,Male,Electronics And Communication,0,7.38,0,0,0
+647,Kavya,ec15b1207,21,Female,Electronics And Communication,0,8.23,0,1,1
+648,Anaisha,ec15b1173,21,Female,Electronics And Communication,0,8.16,0,0,1
+649,Aarohi,el15b1017,23,Female,Electrical,0,5.49,0,0,0
+650,Pranay,it15b1104,21,Male,Information Technology,1,6.47,0,0,0
+651,Nana,ec15b1309,19,Male,Electronics And Communication,0,7.42,0,0,1
+652,Sarabjit,it15b1418,24,Male,Information Technology,1,6.5,0,0,1
+653,Akhil,cs15b1335,25,Male,Computer Science,1,7.03,1,0,1
+654,Sara,el15b1214,19,Female,Electrical,0,6.49,0,0,0
+655,Diya,cs15b1422,22,Female,Computer Science,1,8.37,0,1,1
+656,Devesh,ec15b1102,21,Male,Electronics And Communication,2,8.35,0,0,1
+657,Kalpesh,cs15b1536,19,Male,Computer Science,0,8.44,0,0,1
+658,Utkarsh,it15b1536,22,Male,Information Technology,0,7.1,0,0,1
+659,Aanvi,el15b1200,20,Female,Electrical,1,7.16,0,1,1
+660,Giridhar,it15b1033,24,Male,Information Technology,3,5.48,0,1,1
+661,Rajinder,ec15b1023,21,Male,Electronics And Communication,0,7.49,0,0,1
+662,Hemant,cs15b1549,21,Male,Computer Science,2,6.09,0,0,1
+663,Sahil,it15b1582,21,Male,Information Technology,0,7.21,0,0,0
+664,Aarushi,el15b1122,22,Female,Electrical,2,6.12,0,0,1
+665,Samaira,it15b1564,22,Female,Information Technology,0,6.48,0,0,0
+666,Ariya,it15b1345,22,Female,Information Technology,1,6.31,0,0,0
+667,Ziya,el15b1004,21,Female,Electrical,1,7.16,0,0,1
+668,Satyadev,cv15b1046,22,Male,Civil,0,6.11,1,0,0
+669,Bali,cs15b1015,21,Male,Computer Science,1,8.3,1,0,1
+670,Yogeshwar,me15b1385,21,Male,Mechanical,0,9.4,1,0,1
+671,Amrutlal,cs15b1747,23,Male,Computer Science,1,8.34,0,0,1
+672,Anup,cv15b1026,22,Male,Civil,0,7.15,1,1,0
+673,Sanjay,el15b1178,21,Male,Electrical,0,8.2,0,0,1
+674,Ananya,me15b1176,22,Male,Mechanical,1,9.11,1,0,1
+675,Amaya,cv15b1065,21,Female,Civil,1,7.48,0,1,0
+676,Prabodh Chandra,el15b1070,21,Male,Electrical,1,7.02,0,1,1
+677,Ajit,cs15b1100,21,Male,Computer Science,1,7.44,1,0,0
+678,Chakrapani,cs15b1775,23,Male,Computer Science,0,6.5,0,1,0
+679,Dhriti,ec15b1420,22,Female,Electronics And Communication,0,8.23,0,0,1
+680,Munish,ec15b1153,22,Male,Electronics And Communication,1,8.16,1,1,1
+681,Sourav,cv15b1202,23,Male,Civil,0,8.45,0,0,1
+682,Aiza,it15b1574,20,Female,Information Technology,0,8.3,0,0,1
+683,Mukesh,cv15b1299,20,Male,Civil,1,7.28,1,0,0
+684,Harjit,cv15b1053,21,Male,Civil,0,6.04,0,0,1
+685,Ashu,it15b1142,22,Male,Information Technology,1,7.02,1,0,1
+686,Biju,cs15b1522,19,Male,Computer Science,0,8.08,0,0,1
+687,Prabodh Chandra,it15b1545,21,Male,Information Technology,0,8.13,0,0,1
+688,Sivaprasad,ec15b1091,22,Male,Electronics And Communication,2,8.26,0,0,1
+689,Alisha,cs15b1519,20,Female,Computer Science,2,8.49,0,0,1
+690,Humayun,it15b1163,26,Male,Information Technology,1,6.12,1,0,1
+691,Arun,cs15b1191,24,Male,Computer Science,1,7.42,0,0,1
+692,Gam,cv15b1100,22,Male,Civil,0,6.12,1,1,0
+693,Risha,cv15b1014,23,Female,Civil,0,7.19,1,0,1
+694,Prataprao,ec15b1296,21,Male,Electronics And Communication,1,7.16,0,1,1
+695,Pari,el15b1050,21,Female,Electrical,1,6.25,0,1,0
+696,Gurcharan,cs15b1690,21,Male,Computer Science,0,8.09,0,0,1
+697,Dnyandeo,it15b1429,22,Male,Information Technology,1,6.04,0,0,0
+698,Aaradhya,cs15b1349,21,Female,Computer Science,1,6.02,0,0,0
+699,Kirpa,me15b1001,22,Male,Mechanical,0,8.48,1,0,1
+700,Paridhi,el15b1217,22,Male,Electrical,0,6.29,0,0,0
+701,Kulasekhara,ec15b1152,21,Male,Electronics And Communication,2,8.28,0,0,1
+702,Debabrata,cs15b1431,21,Male,Computer Science,1,8.18,1,1,1
+703,Pramod,it15b1408,24,Male,Information Technology,0,6.31,0,0,1
+704,Amaira,cs15b1086,21,Female,Computer Science,1,6.4,0,0,1
+705,Yogeshwar,cs15b1055,21,Male,Computer Science,0,8.11,0,0,1
+706,Gopinathan,cs15b1027,21,Male,Computer Science,2,7.33,0,0,0
+707,Bhupinder,el15b1190,22,Male,Electrical,2,6.13,1,0,1
+708,Avira,me15b1153,22,Female,Mechanical,2,8.2,1,0,1
+709,Aahana,it15b1326,21,Female,Information Technology,0,7.31,0,0,0
+710,Munish,me15b1278,22,Male,Mechanical,0,8.44,1,0,1
+711,Anshika,cs15b1206,21,Female,Computer Science,1,8.11,0,0,1
+712,Bishamber,me15b1030,21,Male,Mechanical,1,7.01,1,0,0
+713,Bishamber,cs15b1772,21,Male,Computer Science,3,8.21,0,0,1
+714,Manabendra,ec15b1200,21,Male,Electronics And Communication,1,6.06,0,0,0
+715,Aseem,cs15b1741,23,Male,Computer Science,1,7.15,0,0,0
+716,Nripendra,it15b1204,22,Male,Information Technology,1,8.46,0,0,1
+717,Aiza,cs15b1291,22,Female,Computer Science,0,9.14,1,1,1
+718,Tanisha,ec15b1096,21,Female,Electronics And Communication,1,7.15,0,0,1
+719,Pihu,me15b1375,21,Female,Mechanical,1,9.39,1,0,1
+720,Ishita,ec15b1356,21,Female,Electronics And Communication,0,7.09,0,0,1
+721,Sudip,ec15b1261,24,Male,Electronics And Communication,0,6.4,0,0,1
+722,Anurag,ec15b1245,23,Male,Electronics And Communication,1,6.34,0,1,0
+723,Gam,ec15b1393,21,Male,Electronics And Communication,1,8.3,0,0,1
+724,Aritra,cs15b1038,23,Male,Computer Science,1,5.12,0,0,1
+725,Paridhi,me15b1412,21,Male,Mechanical,0,7.13,1,0,0
+726,Adhar,me15b1107,21,Male,Mechanical,1,7.02,0,0,0
+727,Abhishek,cs15b1506,20,Male,Computer Science,0,7.3,0,1,0
+728,Ziva,cv15b1086,24,Female,Civil,0,7.29,0,0,0
+729,Kalpesh,it15b1056,21,Male,Information Technology,1,7.14,0,0,0
+730,Tarun,ec15b1148,22,Male,Electronics And Communication,1,8.2,0,1,1
+731,Shreyas,el15b1006,22,Male,Electrical,1,6.34,0,1,0
+732,Maulik,it15b1611,21,Male,Information Technology,1,9.09,1,0,1
+733,Venkata Swamy,ec15b1109,21,Male,Electronics And Communication,0,6.5,0,0,0
+734,Rinjish,cs15b1524,20,Male,Computer Science,1,7.25,0,0,0
+735,Neeraj,it15b1245,22,Male,Information Technology,1,8.45,0,0,1
+736,Shekhar,it15b1015,22,Male,Information Technology,0,9.09,0,0,1
+737,Arhaan,it15b1430,21,Male,Information Technology,1,6.15,0,0,0
+738,Lakshman,cs15b1494,21,Male,Computer Science,1,8.31,1,0,1
+739,Ishita,me15b1364,21,Female,Mechanical,1,8.16,1,0,1
+740,Raghu,cs15b1721,21,Male,Computer Science,1,6.24,0,0,0
+741,Amaya,me15b1120,21,Female,Mechanical,0,8.37,1,0,1
+742,Ajinkya,cv15b1214,19,Male,Civil,0,7.22,1,0,0
+743,Pankaj,ec15b1247,23,Male,Electronics And Communication,0,7.5,0,0,0
+744,Sara,el15b1303,20,Female,Electrical,0,9.28,0,1,1
+745,Elangovan,cs15b1260,21,Male,Computer Science,1,6.35,0,0,1
+746,Sara,ec15b1384,20,Female,Electronics And Communication,1,8.4,0,1,1
+747,Gurcharan,el15b1111,22,Male,Electrical,0,8.48,1,1,1
+748,Ramakant,it15b1125,22,Male,Information Technology,0,7.5,0,0,0
+749,Tanisha,me15b1206,22,Female,Mechanical,0,6.13,1,0,0
+750,Sandipan,cs15b1132,21,Male,Computer Science,1,8.47,1,0,1
+751,Mallikarjuna Rao,cs15b1219,21,Male,Computer Science,0,7.13,0,0,1
+752,Anirban,it15b1026,24,Male,Information Technology,0,6.15,0,0,1
+753,Rianka,it15b1562,20,Female,Information Technology,0,8.04,0,1,1
+754,Venkata Swamy,cv15b1199,21,Male,Civil,0,8.46,1,0,1
+755,Avisha,cs15b1295,21,Female,Computer Science,1,9.22,0,0,1
+756,Ammar,ec15b1037,22,Male,Electronics And Communication,0,8.06,0,0,1
+757,Thoiba,cs15b1052,21,Male,Computer Science,0,5.36,0,0,0
+758,Shreya,cs15b1760,23,Female,Computer Science,0,8.2,0,0,1
+759,Arushi,it15b1032,23,Female,Information Technology,1,7.06,1,0,1
+760,Ajay,me15b1303,21,Male,Mechanical,0,6.17,1,0,1
+761,Kripesh,cs15b1116,22,Male,Computer Science,0,7.24,0,1,0
+762,Jitendra,ec15b1299,21,Male,Electronics And Communication,0,7.31,0,0,0
+763,Harilal,el15b1326,21,Male,Electrical,0,7.38,0,0,0
+764,Adesh,it15b1003,21,Male,Information Technology,1,7.23,0,0,0
+765,Anshi,cv15b1082,26,Female,Civil,0,6.0,0,0,1
+766,Kripesh,it15b1194,22,Male,Information Technology,0,6.24,0,0,0
+767,Keshav,ec15b1414,21,Male,Electronics And Communication,0,8.06,0,1,1
+768,Ishita,el15b1236,21,Female,Electrical,1,9.29,0,0,1
+769,Anirban,cs15b1512,22,Male,Computer Science,1,8.0,0,0,1
+770,Adesh,ec15b1417,21,Male,Electronics And Communication,0,8.32,0,0,1
+771,Harjit,it15b1244,22,Male,Information Technology,2,8.26,0,0,1
+772,Apoorva,me15b1219,23,Male,Mechanical,0,6.38,1,0,0
+773,Ramesh,cs15b1413,24,Male,Computer Science,1,5.02,0,0,0
+774,Biju,cs15b1529,22,Male,Computer Science,0,7.36,0,0,0
+775,Debaprasad,ec15b1088,21,Male,Electronics And Communication,1,7.35,0,0,0
+776,Diya,cv15b1220,19,Female,Civil,2,6.42,1,0,1
+777,Aahana,me15b1285,21,Female,Mechanical,0,8.39,1,0,1
+778,Sachin,me15b1212,22,Male,Mechanical,0,6.09,1,0,0
+779,Prakash,it15b1232,22,Male,Information Technology,1,8.1,1,0,1
+780,Anshita,me15b1205,22,Female,Mechanical,0,7.12,1,1,0
+781,Kiara,el15b1329,21,Female,Electrical,0,8.0,0,0,1
+782,Sarit,cs15b1498,22,Male,Computer Science,0,8.05,1,0,1
+783,Bali,cs15b1481,23,Male,Computer Science,0,6.35,0,0,0
+784,Diyara,it15b1601,20,Female,Information Technology,1,8.36,1,0,1
+785,Upendra,me15b1195,25,Male,Mechanical,0,7.24,1,0,0
+786,Shekhar,cs15b1047,22,Male,Computer Science,2,6.36,0,0,1
+787,Sadanand,el15b1325,21,Male,Electrical,0,7.28,1,0,0
+788,Vasudevan,el15b1030,21,Male,Electrical,2,6.22,0,0,1
+789,Sekar,ec15b1032,22,Male,Electronics And Communication,1,6.34,0,0,0
+790,Harjit,cs15b1257,21,Male,Computer Science,1,6.13,0,1,0
+791,Aadhya,cs15b1500,19,Female,Computer Science,1,7.17,0,1,1
+792,Namik,cs15b1300,22,Male,Computer Science,2,8.36,0,0,1
+793,Shivani,el15b1165,22,Female,Electrical,1,8.3,0,0,1
+794,Faizal,cs15b1590,20,Male,Computer Science,0,7.34,0,0,0
+795,Tanisha,me15b1177,22,Female,Mechanical,0,9.07,1,1,1
+796,Jayachandran,it15b1380,21,Male,Information Technology,1,7.49,0,0,1
+797,Vriti,it15b1488,22,Female,Information Technology,1,6.18,0,0,0
+798,Navya,it15b1365,21,Female,Information Technology,0,6.34,0,0,0
+799,Adarsh,el15b1191,21,Male,Electrical,0,6.39,0,0,0
+800,Anvi,cs15b1232,21,Female,Computer Science,0,7.14,0,0,1
+801,Pitamber,cs15b1126,21,Male,Computer Science,0,8.21,0,1,1
+802,Jawahar,ec15b1151,21,Male,Electronics And Communication,1,8.36,0,0,1
+803,Ishita,ec15b1375,20,Female,Electronics And Communication,2,7.2,0,0,1
+804,Abhijit,it15b1526,22,Male,Information Technology,1,5.21,0,0,0
+805,Sachin,it15b1504,22,Male,Information Technology,0,6.11,0,1,0
+806,Kavya,it15b1301,21,Female,Information Technology,1,7.15,1,0,0
+807,Aaira,cs15b1123,22,Female,Computer Science,0,6.07,0,0,1
+808,Anaisha,cs15b1329,25,Female,Computer Science,0,6.46,0,0,1
+809,Anshi,cs15b1672,21,Female,Computer Science,1,6.32,0,0,0
+810,Anaisha,me15b1022,21,Female,Mechanical,0,7.02,1,0,0
+811,Anurag,el15b1064,22,Male,Electrical,1,7.15,0,0,0
+812,Aarchi,cs15b1454,23,Female,Computer Science,1,8.31,1,0,1
+813,Avira,cs15b1399,23,Female,Computer Science,1,7.25,0,0,0
+814,Kalpesh,cs15b1736,21,Male,Computer Science,1,8.08,0,0,1
+815,Tithira,cv15b1084,23,Female,Civil,1,7.22,0,0,0
+816,Sudip,it15b1527,21,Male,Information Technology,3,9.05,1,0,1
+817,Satyajit,ec15b1422,22,Male,Electronics And Communication,0,7.15,0,0,0
+818,Elangovan,ec15b1190,22,Male,Electronics And Communication,1,7.47,0,0,0
+819,Muthuswamy,cs15b1610,22,Male,Computer Science,0,8.09,0,0,1
+820,Pratapsinh,cs15b1738,23,Male,Computer Science,1,8.38,0,0,1
+821,Vineet,ec15b1133,21,Male,Electronics And Communication,1,7.1,0,1,1
+822,Surendra,cs15b1703,21,Male,Computer Science,2,8.39,0,0,1
+823,Shreyas,cv15b1117,22,Male,Civil,2,8.18,1,1,1
+824,Dnyandeo,cs15b1675,20,Male,Computer Science,0,6.23,0,1,0
+825,Anushka,cs15b1227,22,Female,Computer Science,0,6.31,0,1,1
+826,Dhinakaran,it15b1464,22,Male,Information Technology,1,7.45,0,0,1
+827,Neeraj,cs15b1583,20,Male,Computer Science,1,8.23,0,0,1
+828,Shridhar,el15b1261,20,Male,Electrical,0,6.05,0,0,0
+829,Bharat,cs15b1640,21,Male,Computer Science,1,6.12,0,0,0
+830,Ajay,ec15b1369,21,Male,Electronics And Communication,3,9.46,0,0,1
+831,Subrata,cs15b1196,24,Male,Computer Science,1,6.48,0,0,1
+832,Ambika,cv15b1178,21,Male,Civil,0,8.16,1,0,1
+833,Umesh,it15b1290,21,Male,Information Technology,1,8.37,1,0,1
+834,Pankaj,it15b1503,19,Male,Information Technology,3,7.03,0,0,1
+835,Jahangir,cs15b1143,21,Male,Computer Science,0,6.49,0,0,0
+836,Radhanath,it15b1069,21,Male,Information Technology,1,6.35,0,0,0
+837,Arhaan,cs15b1491,21,Male,Computer Science,1,7.21,0,0,1
+838,Miraya,el15b1153,24,Female,Electrical,1,7.33,0,0,1
+839,Ajish,cv15b1104,21,Male,Civil,0,6.26,0,0,0
+840,Hiten,ec15b1019,23,Male,Electronics And Communication,0,7.49,0,0,1
+841,Shivani,el15b1268,22,Female,Electrical,1,7.19,1,1,0
+842,Gam,me15b1166,21,Male,Mechanical,0,7.43,1,0,0
+843,Vidhi,it15b1468,22,Female,Information Technology,0,7.45,0,0,0
+844,Avni,it15b1664,21,Female,Information Technology,1,8.46,1,0,1
+845,Anshika,cs15b1560,20,Female,Computer Science,3,6.35,0,0,1
+846,Krishnadev,el15b1321,20,Male,Electrical,0,8.35,0,0,1
+847,Saanvi,it15b1214,21,Female,Information Technology,1,6.03,0,0,0
+848,Anika,cs15b1294,21,Female,Computer Science,1,9.02,0,0,1
+849,Prannoy,it15b1648,20,Male,Information Technology,1,8.29,0,1,1
+850,Hitesh,me15b1012,23,Male,Mechanical,1,5.1,0,0,0
+851,Ramesh,it15b1074,22,Male,Information Technology,0,7.01,0,0,0
+852,Sneha,it15b1123,21,Female,Information Technology,0,7.05,0,0,0
+853,Vanya,it15b1063,22,Female,Information Technology,1,7.31,0,0,0
+854,Anvi,it15b1337,22,Female,Information Technology,3,7.25,1,1,0
+855,Amaira,cs15b1064,21,Female,Computer Science,2,7.24,0,0,1
+856,Krishnayya,ec15b1202,22,Male,Electronics And Communication,1,6.3,0,0,0
+857,Bhavesh,el15b1203,23,Male,Electrical,0,6.42,0,0,0
+858,Utkarsh,cs15b1694,20,Male,Computer Science,1,9.14,0,0,1
+859,Kaustubh,ec15b1066,22,Male,Electronics And Communication,2,6.4,0,0,1
+860,Kaushal,cs15b1411,23,Male,Computer Science,1,7.38,0,0,0
+861,Sukhbir,cs15b1183,25,Male,Computer Science,2,6.23,0,0,1
+862,Anshi,ec15b1321,21,Female,Electronics And Communication,0,7.37,0,0,0
+863,Dheeraj,ec15b1145,22,Male,Electronics And Communication,2,7.34,0,0,0
+864,Amaya,it15b1150,22,Female,Information Technology,1,6.45,0,0,1
+865,Namik,me15b1381,21,Male,Mechanical,0,8.24,1,0,1
+866,Hansraj,cs15b1665,20,Male,Computer Science,1,8.49,0,0,1
+867,Saisha,it15b1473,19,Female,Information Technology,0,8.5,0,0,1
+868,Arvind,cs15b1103,21,Male,Computer Science,0,6.1,0,0,0
+869,Ahaana,ec15b1053,22,Female,Electronics And Communication,0,8.39,0,0,1
+870,Utkarsh,cs15b1613,22,Male,Computer Science,1,7.48,1,0,0
+871,Samira,ec15b1041,21,Male,Electronics And Communication,0,7.18,0,0,0
+872,Virat,cv15b1298,20,Male,Civil,0,9.33,0,0,1
+873,Nilesh,it15b1270,22,Male,Information Technology,1,9.27,0,0,1
+874,Arya,cs15b1031,23,Female,Computer Science,0,6.45,0,0,0
+875,Pratul,cs15b1189,24,Male,Computer Science,0,7.23,0,1,1
+876,Vani,ec15b1249,24,Female,Electronics And Communication,1,7.13,1,1,0
+877,Ishi,it15b1002,21,Female,Information Technology,0,8.32,0,1,1
+878,Hemant,me15b1130,22,Male,Mechanical,1,7.28,1,1,0
+879,Utkarsh,cs15b1576,21,Male,Computer Science,0,5.31,0,0,0
+880,Akasha,cs15b1285,22,Male,Computer Science,1,9.46,0,0,1
+881,Sneha,me15b1273,22,Female,Mechanical,0,6.46,1,0,0
+882,Anushka,it15b1674,23,Female,Information Technology,0,6.35,0,1,0
+883,Samira,ec15b1227,21,Male,Electronics And Communication,0,8.27,0,1,1
+884,Nana,it15b1579,22,Male,Information Technology,1,8.39,0,0,1
+885,Kiara,cv15b1217,19,Female,Civil,0,7.18,0,0,0
+886,Ammar,it15b1437,22,Male,Information Technology,1,6.37,0,0,0
+887,Neeraj,me15b1046,22,Male,Mechanical,0,7.3,1,0,1
+888,Manmohan,el15b1230,20,Male,Electrical,0,6.32,1,1,0
+889,Amaira,ec15b1081,22,Female,Electronics And Communication,0,8.33,0,0,1
+890,Aanvi,cs15b1542,19,Female,Computer Science,0,6.47,0,0,0
+891,Anshika,cv15b1256,22,Female,Civil,0,8.45,1,0,1
+892,Shreyas,cs15b1325,26,Male,Computer Science,1,7.39,0,0,0
+893,Kavya,it15b1471,22,Female,Information Technology,0,7.21,0,0,0
+894,Karthik,el15b1269,21,Male,Electrical,1,8.38,0,0,1
+895,Sudip,ec15b1008,21,Male,Electronics And Communication,1,7.3,0,1,1
+896,Paridhi,ec15b1278,21,Male,Electronics And Communication,0,6.46,0,1,0
+897,Hemant,ec15b1209,21,Male,Electronics And Communication,1,6.06,0,0,0
+898,Anvi,el15b1312,20,Female,Electrical,1,7.03,0,1,1
+899,Anika,it15b1110,22,Female,Information Technology,1,8.36,0,0,1
+900,Bibin,cs15b1743,21,Male,Computer Science,1,7.0,0,0,0
+901,Ayaz,me15b1280,20,Male,Mechanical,1,8.34,1,0,1
+902,Anaya,me15b1144,22,Female,Mechanical,2,6.28,1,0,1
+903,Amaira,cs15b1444,22,Female,Computer Science,2,6.07,0,0,1
+904,Abhinav,cs15b1160,21,Male,Computer Science,2,7.33,0,0,1
+905,Dinesh,el15b1227,20,Male,Electrical,0,8.17,1,1,1
+906,Chandrajit,cv15b1165,20,Male,Civil,1,6.07,0,0,0
+907,Kishor,it15b1632,21,Male,Information Technology,1,9.49,0,0,1
+908,Kaira,it15b1247,22,Female,Information Technology,2,7.09,0,1,1
+909,Anaya,it15b1505,20,Female,Information Technology,1,8.28,0,0,1
+910,Prabodh Chandra,cs15b1290,21,Male,Computer Science,1,9.31,1,0,1
+911,Pallav,it15b1670,22,Male,Information Technology,2,6.15,0,0,1
+912,Angad,el15b1035,22,Male,Electrical,1,8.33,0,0,1
+913,Anika,ec15b1170,21,Female,Electronics And Communication,0,8.4,0,0,1
+914,Anvi,it15b1498,19,Female,Information Technology,1,7.34,1,0,0
+915,Manabendra,cs15b1530,19,Male,Computer Science,2,8.02,0,0,1
+916,Naranbhai,el15b1319,21,Male,Electrical,1,6.43,0,0,0
+917,Amrik,me15b1106,22,Male,Mechanical,0,7.4,1,0,0
+918,Dheeraj,it15b1653,22,Male,Information Technology,0,7.48,0,1,0
+919,Ramesh,cs15b1194,23,Male,Computer Science,1,6.17,0,0,1
+920,Nathuram,cv15b1072,22,Male,Civil,1,8.35,0,0,1
+921,Venkata Swamy,ec15b1121,21,Male,Electronics And Communication,0,6.42,0,0,0
+922,Khakhar,me15b1163,21,Male,Mechanical,1,8.48,1,1,1
+923,Anjali,cs15b1717,21,Female,Computer Science,1,9.33,0,0,1
+924,Aadhira,cs15b1487,21,Female,Computer Science,1,6.18,1,0,0
+925,Narendra,it15b1402,23,Male,Information Technology,2,7.26,0,0,1
+926,Ziva,me15b1055,22,Female,Mechanical,0,6.08,1,0,0
+927,Ambika,cs15b1350,21,Male,Computer Science,1,7.29,0,0,0
+928,Krishnayya,me15b1071,22,Male,Mechanical,2,7.38,1,0,1
+929,Sekar,cs15b1075,21,Male,Computer Science,1,7.47,0,0,0
+930,Maira,it15b1619,20,Female,Information Technology,1,7.18,0,0,0
+931,Alisha,it15b1017,22,Female,Information Technology,1,9.5,0,0,1
+932,Nida,el15b1023,21,Male,Electrical,2,5.46,0,1,0
+933,Nana,ec15b1370,20,Male,Electronics And Communication,3,8.04,1,1,1
+934,Anushka,el15b1079,21,Female,Electrical,0,8.08,0,0,1
+935,Ajinkya,cs15b1616,22,Male,Computer Science,1,6.38,0,0,0
+936,Keshav,it15b1364,22,Male,Information Technology,1,8.3,0,0,1
+937,Shreyas,cs15b1297,22,Male,Computer Science,1,9.06,0,0,1
+938,Aaira,me15b1335,21,Female,Mechanical,0,6.17,1,1,0
+939,Anaya,cs15b1776,22,Female,Computer Science,1,7.18,0,0,0
+940,Aarohi,it15b1071,22,Female,Information Technology,2,6.49,0,0,1
+941,Nana,me15b1291,19,Male,Mechanical,0,6.11,1,1,0
+942,Shanaya,ec15b1218,24,Female,Electronics And Communication,0,8.41,0,0,1
+943,Girish,cs15b1427,23,Male,Computer Science,1,7.33,1,0,0
+944,Nitin,me15b1397,23,Male,Mechanical,0,7.2,1,0,0
+945,Anaya,it15b1283,22,Female,Information Technology,1,8.32,1,0,1
+946,Pari,el15b1134,21,Female,Electrical,0,7.38,0,0,0
+947,Miraya,cv15b1203,24,Female,Civil,0,7.41,1,1,0
+948,Birendra,ec15b1311,20,Male,Electronics And Communication,1,7.06,0,0,1
+949,Kyra,me15b1088,21,Female,Mechanical,1,7.06,1,0,0
+950,Ankit,me15b1136,22,Male,Mechanical,0,7.19,1,0,0
+951,Ramesh,cv15b1112,21,Male,Civil,0,8.45,1,0,1
+952,Surendranath,cs15b1104,21,Male,Computer Science,1,8.14,0,0,1
+953,Rahil,cv15b1169,20,Male,Civil,2,5.01,0,0,0
+954,Upendra,it15b1686,23,Male,Information Technology,1,7.03,0,1,0
+955,Nagaraj,el15b1105,21,Male,Electrical,1,6.34,1,1,0
+956,Kazi,it15b1626,20,Male,Information Technology,0,9.28,0,0,1
+957,Ishani,cs15b1188,25,Female,Computer Science,0,8.48,0,0,1
+958,Ishani,it15b1412,24,Female,Information Technology,2,8.5,0,0,1
+959,Krishnappa,cv15b1101,21,Male,Civil,2,7.09,0,0,0
+960,Ajay,ec15b1244,22,Male,Electronics And Communication,0,8.36,0,0,1
+961,Rajinder,it15b1276,22,Male,Information Technology,2,7.31,0,0,0
+962,Puran,it15b1174,25,Male,Information Technology,1,8.09,0,0,1
+963,Sara,cs15b1002,21,Female,Computer Science,0,7.45,0,1,0
+964,Nitish,el15b1176,22,Male,Electrical,1,7.05,0,0,0
+965,Abhay,it15b1391,23,Male,Information Technology,0,7.4,0,0,0
+966,Chandrajit,ec15b1359,20,Male,Electronics And Communication,0,6.4,0,0,0
+967,Saina,it15b1193,22,Female,Information Technology,0,8.0,0,1,1
+968,Abhinav,cs15b1557,19,Male,Computer Science,1,9.1,0,0,1
+969,Chamaraja,cs15b1586,19,Male,Computer Science,1,7.19,1,0,1
+970,Viara,cs15b1421,22,Female,Computer Science,1,8.22,0,0,1
+971,Tithira,me15b1271,22,Female,Mechanical,1,7.22,1,1,0
+972,Anil,el15b1267,21,Male,Electrical,1,6.07,0,0,0
+973,Surendranath,ec15b1401,22,Male,Electronics And Communication,2,8.32,0,0,1
+974,Harpreet,it15b1101,21,Male,Information Technology,2,6.27,1,0,1
+975,Hitendra,cs15b1438,20,Male,Computer Science,0,5.29,1,1,0
+976,Satish,cs15b1253,22,Male,Computer Science,2,7.44,0,0,1
+977,Anaisha,it15b1295,21,Female,Information Technology,0,9.35,0,0,1
+978,Kazi,cv15b1234,22,Male,Civil,0,8.06,0,0,1
+979,Chakrapani,cv15b1058,21,Male,Civil,1,8.26,0,0,1
+980,Ramesh,el15b1198,21,Male,Electrical,0,6.44,0,0,0
+981,Inaaya,ec15b1262,22,Female,Electronics And Communication,0,7.13,0,0,0
+982,Subbiah,cs15b1539,20,Male,Computer Science,0,7.02,0,0,0
+983,Anushka,it15b1285,21,Female,Information Technology,1,8.29,0,0,1
+984,Ananya,cs15b1202,22,Female,Computer Science,2,8.17,1,0,1
+985,Amaira,it15b1383,23,Female,Information Technology,1,6.31,1,0,0
+986,Anushka,cs15b1604,20,Female,Computer Science,2,7.42,0,0,1
+987,Yash,it15b1099,21,Male,Information Technology,1,5.04,1,0,0
+988,Shreya,it15b1220,22,Female,Information Technology,2,6.14,0,0,1
+989,Bhagwant,me15b1262,21,Male,Mechanical,0,8.35,1,1,1
+990,Yashi,me15b1228,24,Female,Mechanical,0,5.13,0,1,0
+991,Anusha,cv15b1231,20,Female,Civil,2,9.43,1,0,1
+992,Rajinder,cs15b1570,21,Male,Computer Science,0,9.22,0,0,1
+993,Satyadev,cs15b1065,22,Male,Computer Science,1,8.28,0,0,1
+994,Samaira,cv15b1078,22,Female,Civil,1,6.37,0,0,0
+995,Diyara,cv15b1309,21,Female,Civil,0,6.28,0,0,0
+996,Thoiba,ec15b1027,21,Male,Electronics And Communication,1,7.4,0,0,0
+997,Sachin,cs15b1381,24,Male,Computer Science,1,6.01,1,1,1
+998,Tara,it15b1249,22,Female,Information Technology,2,6.06,0,1,1
+999,Ranbir,me15b1048,21,Male,Mechanical,0,8.28,1,0,1
+1000,Avisha,me15b1261,20,Female,Mechanical,1,6.25,1,0,0
+1001,Myra,me15b1150,22,Female,Mechanical,1,6.47,1,0,0
+1002,Aadhira,cv15b1224,19,Female,Civil,0,7.17,0,0,0
+1003,Tanuj,cv15b1278,20,Male,Civil,1,6.26,0,0,0
+1004,Chandrajit,cs15b1581,20,Male,Computer Science,0,6.38,0,0,0
+1005,Rahul,me15b1158,21,Male,Mechanical,1,9.02,1,1,1
+1006,Ganesh,me15b1314,19,Male,Mechanical,0,8.13,1,1,1
+1007,Kripesh,me15b1053,22,Male,Mechanical,1,6.32,0,0,0
+1008,Inaya,el15b1228,19,Female,Electrical,0,8.31,0,0,1
+1009,Ramesh,me15b1307,20,Male,Mechanical,1,9.31,1,0,1
+1010,Hitendra,me15b1115,21,Male,Mechanical,0,6.26,1,0,0
+1011,Suresh,cs15b1489,22,Male,Computer Science,2,8.43,0,1,1
+1012,Angad,cv15b1013,24,Male,Civil,1,7.02,0,1,1
+1013,Suneet,me15b1396,23,Male,Mechanical,1,6.2,1,0,0
+1014,Pramod,it15b1384,23,Male,Information Technology,0,5.03,0,1,0
+1015,Maulik,it15b1121,21,Male,Information Technology,0,7.35,0,1,1
+1016,Gurcharan,it15b1317,26,Male,Information Technology,2,7.35,0,0,1
+1017,Manmohan,cv15b1095,21,Male,Civil,0,6.01,0,0,0
+1018,Aamna,cv15b1241,20,Female,Civil,1,8.41,0,0,1
+1019,Harilal,cs15b1318,22,Male,Computer Science,0,7.36,0,0,0
+1020,Amrutlal,ec15b1184,22,Male,Electronics And Communication,1,6.1,0,1,0
+1021,Samira,it15b1265,22,Male,Information Technology,1,6.47,0,0,0
+1022,Karthikeyan,me15b1359,21,Male,Mechanical,0,7.38,0,0,0
+1023,Anvi,me15b1277,22,Female,Mechanical,1,8.22,1,0,1
+1024,Dheeraj,cv15b1133,22,Male,Civil,2,9.24,0,1,1
+1025,Vidyut,cs15b1655,21,Male,Computer Science,0,6.23,0,1,0
+1026,Pitamber,cs15b1559,21,Male,Computer Science,0,5.44,0,1,0
+1027,Ayaz,cv15b1317,23,Male,Civil,0,8.17,0,0,1
+1028,Bali,ec15b1017,23,Male,Electronics And Communication,1,7.0,0,0,0
+1029,Tanisha,it15b1262,21,Female,Information Technology,1,7.4,0,0,0
+1030,Karthikeyan,cs15b1109,22,Male,Computer Science,2,6.02,0,0,1
+1031,Amaira,it15b1095,21,Female,Information Technology,0,6.28,0,0,0
+1032,Karan,cs15b1169,22,Male,Computer Science,1,6.37,1,0,1
+1033,Jahangir,me15b1175,22,Male,Mechanical,0,7.0,1,0,0
+1034,Ashwin,cs15b1558,20,Male,Computer Science,1,6.28,1,1,1
+1035,Randhir,me15b1251,21,Male,Mechanical,0,5.04,1,1,0
+1036,Diya,ec15b1078,21,Female,Electronics And Communication,0,8.08,0,0,1
+1037,Debabrata,cs15b1593,21,Male,Computer Science,0,8.22,0,0,1
+1038,Sriram,me15b1368,20,Male,Mechanical,0,7.01,1,0,0
+1039,Manmohan,it15b1470,21,Male,Information Technology,0,7.03,0,0,0
+1040,Paridhi,cs15b1012,21,Male,Computer Science,1,6.24,0,0,1
+1041,Amaya,cs15b1437,22,Female,Computer Science,1,5.49,1,0,0
+1042,Yogesh,cs15b1105,22,Male,Computer Science,1,6.24,0,0,0
+1043,Ashwin,ec15b1279,22,Male,Electronics And Communication,0,7.03,0,0,0
+1044,Akhil,ec15b1189,22,Male,Electronics And Communication,1,8.33,0,0,1
+1045,Ajit,cs15b1574,22,Male,Computer Science,1,9.01,0,0,1
+1046,Amisha,me15b1354,21,Female,Mechanical,1,8.15,1,0,1
+1047,Saina,ec15b1343,20,Female,Electronics And Communication,1,7.45,0,0,0
+1048,Gurcharan,ec15b1093,21,Male,Electronics And Communication,2,8.06,0,0,1
+1049,Ranbir,ec15b1304,19,Male,Electronics And Communication,0,7.12,0,0,1
+1050,Kiara,cs15b1735,21,Female,Computer Science,1,7.37,0,0,0
+1051,Maulik,me15b1029,21,Male,Mechanical,1,8.3,1,0,1
+1052,Satyadev,it15b1267,21,Male,Information Technology,1,7.43,0,1,0
+1053,Zara,cv15b1291,21,Female,Civil,1,8.24,0,0,1
+1054,Nikhil,cv15b1089,22,Male,Civil,0,8.32,1,0,1
+1055,Anvi,it15b1398,24,Female,Information Technology,1,8.13,0,0,1
+1056,Nikhil,it15b1495,22,Male,Information Technology,0,6.22,0,0,0
+1057,Sadanand,cs15b1753,21,Male,Computer Science,1,7.45,0,0,0
+1058,Kishor,ec15b1077,22,Male,Electronics And Communication,1,7.42,0,0,0
+1059,Anvi,it15b1649,20,Female,Information Technology,0,8.42,0,0,1
+1060,Navya,me15b1141,22,Female,Mechanical,0,7.45,1,0,0
+1061,Umesh,cs15b1287,22,Male,Computer Science,1,8.44,0,0,1
+1062,Kiran,cv15b1221,19,Female,Civil,0,8.09,1,0,1
+1063,Prannoy,me15b1284,21,Male,Mechanical,1,8.15,1,0,1
+1064,Bhushan,cs15b1069,22,Male,Computer Science,0,6.44,1,0,0
+1065,Anika,me15b1342,20,Female,Mechanical,1,8.36,1,0,1
+1066,Kalpesh,it15b1436,23,Male,Information Technology,0,7.13,0,0,0
+1067,Ariya,it15b1292,21,Female,Information Technology,0,7.18,0,0,1
+1068,Surendranath,cv15b1175,20,Male,Civil,0,7.47,1,1,0
+1069,Risha,it15b1679,21,Female,Information Technology,1,7.14,1,0,0
+1070,Naveen,el15b1118,21,Male,Electrical,2,7.49,0,0,1
+1071,Ishita,ec15b1044,22,Female,Electronics And Communication,1,6.06,1,1,0
+1072,Ira,cs15b1671,20,Female,Computer Science,0,7.26,0,0,0
+1073,Mukesh,ec15b1035,21,Male,Electronics And Communication,1,7.17,0,0,0
+1074,Aritra,cs15b1082,22,Male,Computer Science,1,6.47,1,0,1
+1075,Abhijit,el15b1136,21,Male,Electrical,0,8.37,0,0,1
+1076,Anshika,it15b1263,21,Female,Information Technology,2,7.41,0,1,0
+1077,Venkataraman,cs15b1527,19,Male,Computer Science,0,8.1,0,0,1
+1078,Anupam,cv15b1180,22,Male,Civil,0,6.09,0,0,0
+1079,Gam,me15b1005,21,Male,Mechanical,0,8.48,1,1,1
+1080,Yashi,cs15b1210,21,Female,Computer Science,1,7.29,0,0,1
+1081,Narendra,me15b1248,22,Male,Mechanical,1,5.03,0,0,0
+1082,Narendra,ec15b1366,20,Male,Electronics And Communication,1,7.1,0,1,1
+1083,Shekhar,it15b1442,22,Male,Information Technology,0,6.07,0,0,0
+1084,Karan,el15b1166,21,Male,Electrical,0,6.32,0,0,0
+1085,Sriram,cs15b1306,21,Male,Computer Science,0,9.29,0,0,1
+1086,Bharat,el15b1159,22,Male,Electrical,0,8.41,0,1,1
+1087,Avisha,cv15b1262,22,Female,Civil,0,6.04,0,0,0
+1088,Dinesh,cs15b1450,23,Male,Computer Science,1,5.18,1,0,0
+1089,Amaira,it15b1636,20,Female,Information Technology,1,7.07,0,1,0
+1090,Krishnappa,cs15b1429,24,Male,Computer Science,1,8.05,0,0,1
+1091,Suresh,cv15b1289,20,Male,Civil,2,9.34,0,0,1
+1092,Avya,me15b1236,24,Female,Mechanical,0,6.3,1,0,1
+1093,Aahana,el15b1334,22,Female,Electrical,1,6.23,0,1,0
+1094,Myra,el15b1262,20,Female,Electrical,0,6.05,0,0,0
+1095,Anika,cs15b1184,25,Female,Computer Science,1,8.04,0,0,1
+1096,Nana,cs15b1432,23,Male,Computer Science,1,8.37,0,0,1
+1097,Maulik,me15b1145,22,Male,Mechanical,1,6.41,1,0,0
+1098,Myra,it15b1306,21,Female,Information Technology,0,8.34,0,0,1
+1099,Saiya,cv15b1134,22,Female,Civil,2,8.46,0,0,1
+1100,Mahboob,el15b1197,21,Male,Electrical,0,7.44,0,0,0
+1101,Shreyas,it15b1201,21,Male,Information Technology,2,6.05,0,0,1
+1102,Amrutlal,cs15b1642,19,Male,Computer Science,1,6.31,0,0,0
+1103,Manmohan,cv15b1021,22,Male,Civil,1,7.25,0,0,0
+1104,Aaria,cs15b1575,20,Female,Computer Science,2,7.02,0,1,1
+1105,Jalaj,cs15b1221,21,Male,Computer Science,1,8.15,0,0,1
+1106,Surendra,cs15b1361,22,Male,Computer Science,1,6.25,1,0,0
+1107,Keshav,cv15b1246,22,Male,Civil,0,7.4,0,0,0
+1108,Viara,it15b1203,22,Female,Information Technology,0,8.02,0,0,1
+1109,Prataprao,me15b1250,23,Male,Mechanical,1,5.19,1,0,0
+1110,Sriram,me15b1288,22,Male,Mechanical,1,6.37,1,0,0
+1111,Angad,el15b1282,20,Male,Electrical,2,7.08,0,0,1
+1112,Tanvi,cv15b1242,20,Female,Civil,1,6.1,0,1,0
+1113,Navya,el15b1131,22,Female,Electrical,2,8.18,0,0,1
+1114,Kaustubh,me15b1192,22,Male,Mechanical,0,9.06,1,0,1
+1115,Aarini,it15b1381,21,Female,Information Technology,0,8.41,0,0,1
+1116,Anuj,cs15b1076,22,Male,Computer Science,0,8.34,0,0,1
+1117,Saina,el15b1284,21,Female,Electrical,0,8.17,0,0,1
+1118,Arya,cs15b1759,21,Female,Computer Science,1,8.36,1,0,1
+1119,Yashvi,it15b1406,21,Female,Information Technology,1,6.32,1,0,0
+1120,Harsh,cs15b1207,22,Male,Computer Science,1,8.48,0,0,1
+1121,Aadhira,ec15b1135,21,Female,Electronics And Communication,1,6.36,1,1,0
+1122,Hiten,me15b1325,21,Male,Mechanical,0,8.42,1,0,1
+1123,Jalaj,ec15b1350,21,Male,Electronics And Communication,1,6.48,1,1,0
+1124,Yashika,el15b1184,23,Female,Electrical,0,7.1,0,0,1
+1125,Prataprao,cv15b1201,24,Male,Civil,0,6.43,1,0,1
+1126,Diyara,ec15b1178,24,Female,Electronics And Communication,1,7.44,0,1,0
+1127,Aniruddha,cs15b1749,22,Male,Computer Science,0,8.28,0,0,1
+1128,Pratapsinh,it15b1050,22,Male,Information Technology,1,6.11,1,0,0
+1129,Tarsem,it15b1141,21,Male,Information Technology,2,8.45,0,0,1
+1130,Bibek,cv15b1296,21,Male,Civil,3,9.28,0,0,1
+1131,Amaira,cs15b1668,20,Female,Computer Science,0,6.32,1,1,0
+1132,Abhijit,el15b1151,26,Male,Electrical,0,7.02,1,0,0
+1133,Virat,ec15b1253,20,Male,Electronics And Communication,1,8.33,1,1,1
+1134,Ajinkya,ec15b1064,22,Male,Electronics And Communication,1,8.14,0,1,1
+1135,Krishnappa,el15b1012,22,Male,Electrical,1,8.19,0,0,1
+1136,Shridhar,cs15b1621,21,Male,Computer Science,0,7.19,0,1,0
+1137,Angad,it15b1409,22,Male,Information Technology,0,6.09,0,0,0
+1138,Oommen,me15b1318,19,Male,Mechanical,0,7.28,1,0,0
+1139,Aadhira,it15b1570,21,Female,Information Technology,0,6.28,0,0,0
+1140,Jalaj,ec15b1108,22,Male,Electronics And Communication,1,8.45,0,0,1
+1141,Ishita,el15b1315,21,Female,Electrical,0,8.15,0,0,1
+1142,Venkata Swamy,cv15b1096,22,Male,Civil,0,7.23,0,1,0
+1143,Sneha,it15b1560,20,Female,Information Technology,1,6.0,0,0,0
+1144,Abhishek,it15b1669,21,Male,Information Technology,1,7.44,0,0,0
+1145,Ganpatrao,el15b1073,22,Male,Electrical,2,8.26,0,0,1
+1146,Ziva,it15b1031,23,Female,Information Technology,1,7.25,1,0,1
+1147,Amaira,el15b1287,21,Female,Electrical,1,8.42,0,0,1
+1148,Sahil,ec15b1005,22,Male,Electronics And Communication,0,7.22,0,0,0
+1149,Arushi,ec15b1051,21,Female,Electronics And Communication,1,7.04,0,0,0
+1150,Amrik,cs15b1226,21,Male,Computer Science,0,8.32,0,1,1
+1151,Amaya,it15b1389,23,Female,Information Technology,0,7.47,0,1,0
+1152,Tara,el15b1256,19,Female,Electrical,2,7.05,0,1,1
+1153,Yogesh,cs15b1732,21,Male,Computer Science,1,8.12,1,0,1
+1154,Binu,el15b1299,20,Male,Electrical,1,7.28,0,1,1
+1155,Tanuj,cs15b1762,22,Male,Computer Science,1,8.17,1,0,1
+1156,Avni,it15b1215,21,Female,Information Technology,1,8.03,0,0,1
+1157,Uday,it15b1115,21,Male,Information Technology,1,8.11,0,1,1
+1158,Prakash,cs15b1334,25,Male,Computer Science,2,6.03,0,0,1
+1159,Anshika,me15b1181,22,Female,Mechanical,0,8.47,1,0,1
+1160,Saanvi,el15b1109,22,Female,Electrical,0,8.13,0,1,1
+1161,Varghese,it15b1154,22,Male,Information Technology,0,7.23,0,0,0
+1162,Avisha,ec15b1293,19,Female,Electronics And Communication,0,9.25,0,0,1
+1163,Saina,cv15b1225,21,Female,Civil,1,8.22,0,0,1
+1164,Avya,cv15b1294,21,Female,Civil,0,9.27,1,0,1
+1165,Birendra,it15b1175,21,Male,Information Technology,0,6.44,0,0,1
+1166,Saiya,it15b1133,21,Female,Information Technology,0,6.13,0,0,0
+1167,Avni,me15b1365,21,Female,Mechanical,0,6.11,1,0,0
+1168,Sundar,cs15b1179,22,Male,Computer Science,1,8.31,0,0,1
+1169,Arvind,cs15b1391,24,Male,Computer Science,0,6.14,0,0,1
+1170,Paridhi,it15b1323,24,Male,Information Technology,1,7.33,0,0,0
+1171,Alisha,ec15b1158,21,Female,Electronics And Communication,1,8.16,0,0,1
+1172,Krishnappa,cs15b1404,22,Male,Computer Science,0,7.36,0,0,0
+1173,Vineet,ec15b1320,20,Male,Electronics And Communication,0,6.49,0,0,0
+1174,Kulbhushan,cs15b1550,22,Male,Computer Science,2,8.27,0,0,1
+1175,Aairah,cs15b1036,24,Female,Computer Science,2,5.06,0,0,1
+1176,Sanjay,el15b1044,21,Male,Electrical,0,6.2,0,0,0
+1177,Aritra,it15b1196,21,Male,Information Technology,1,6.29,0,0,1
+1178,Hitendra,cs15b1407,21,Male,Computer Science,0,8.28,1,1,1
+1179,Rajan,it15b1525,19,Male,Information Technology,1,9.36,1,0,1
+1180,Govindrao,ec15b1146,22,Male,Electronics And Communication,2,7.01,0,1,0
+1181,Giridhar,el15b1331,23,Male,Electrical,1,8.02,0,0,1
+1182,Jalaj,it15b1367,22,Male,Information Technology,1,8.34,1,0,1
+1183,Binu,it15b1156,22,Male,Information Technology,1,7.42,0,0,0
+1184,Anupam,it15b1520,20,Male,Information Technology,1,7.44,0,0,1
+1185,Aradhya,it15b1557,21,Female,Information Technology,0,7.31,0,0,0
+1186,Vallathol,ec15b1098,22,Male,Electronics And Communication,0,7.19,0,0,0
+1187,Hitendra,cs15b1518,21,Male,Computer Science,1,8.23,0,0,1
+1188,Phani,it15b1213,21,Male,Information Technology,1,6.07,1,0,0
+1189,Chamaraja,el15b1224,21,Male,Electrical,1,8.02,0,0,1
+1190,Giridhar,it15b1343,21,Male,Information Technology,2,6.1,0,0,1
+1191,Upendra,cs15b1577,20,Male,Computer Science,0,9.45,1,1,1
+1192,Riva,it15b1530,19,Female,Information Technology,1,7.24,0,0,0
+1193,Kulbhushan,cs15b1360,22,Male,Computer Science,0,6.18,0,0,0
+1194,Ashu,cs15b1114,21,Male,Computer Science,0,7.22,0,0,0
+1195,Mahendra,el15b1025,21,Male,Electrical,1,7.29,0,0,1
+1196,Ananya,cv15b1073,21,Female,Civil,1,6.09,0,0,0
+1197,Shanaya,cs15b1243,22,Female,Computer Science,0,8.29,0,0,1
+1198,Anshi,cv15b1008,21,Female,Civil,0,8.46,0,0,1
+1199,Prakash,el15b1318,20,Male,Electrical,0,6.32,0,0,0
+1200,Ishita,cs15b1447,23,Female,Computer Science,3,6.31,0,0,1
+1201,Srinivas,it15b1655,21,Male,Information Technology,0,6.5,0,1,0
+1202,Arun,me15b1149,21,Male,Mechanical,2,8.28,1,1,1
+1203,Kiara,cs15b1138,21,Female,Computer Science,2,7.46,0,0,1
+1204,Aadhya,me15b1298,20,Female,Mechanical,0,6.2,1,0,0
+1205,Inaaya,it15b1094,21,Female,Information Technology,1,6.33,1,0,0
+1206,Suneet,cs15b1392,24,Male,Computer Science,2,6.01,0,0,1
+1207,Anika,ec15b1197,22,Female,Electronics And Communication,0,6.07,0,0,0
+1208,Amarjit,me15b1089,21,Male,Mechanical,1,6.33,1,1,0
+1209,Aadhya,cv15b1025,21,Female,Civil,0,6.02,1,0,0
+1210,Utkarsh,cs15b1520,21,Male,Computer Science,1,7.28,0,1,0
+1211,Anvi,el15b1175,20,Female,Electrical,1,8.37,0,0,1
+1212,Dhriti,cs15b1408,22,Female,Computer Science,0,6.29,0,1,0
+1213,Aaria,cs15b1688,21,Female,Computer Science,1,7.05,1,0,0
+1214,Anaya,cv15b1196,23,Female,Civil,0,6.13,0,1,0
+1215,Kia,ec15b1015,22,Female,Electronics And Communication,0,6.38,0,0,0
+1216,Mohindra,it15b1351,21,Male,Information Technology,1,6.19,0,0,0
+1217,Eswar,cs15b1565,19,Male,Computer Science,0,9.44,0,1,1
+1218,Srinivas,cs15b1699,20,Male,Computer Science,1,7.25,0,0,0
+1219,Rianka,it15b1147,22,Female,Information Technology,1,8.16,0,0,1
+1220,Alisha,cv15b1176,24,Female,Civil,0,8.41,1,0,1
+1221,Anvi,cv15b1255,20,Female,Civil,1,7.37,0,0,0
+1222,Pratul,el15b1046,21,Male,Electrical,3,7.16,0,0,1
+1223,Aadya,ec15b1057,21,Female,Electronics And Communication,0,8.14,0,0,1
+1224,Vanya,cs15b1159,21,Female,Computer Science,2,7.3,0,0,1
+1225,Hitesh,me15b1309,21,Male,Mechanical,1,6.11,1,1,0
+1226,Sambhunath,el15b1239,21,Male,Electrical,0,5.12,1,0,0
+1227,Anshita,ec15b1269,22,Female,Electronics And Communication,1,8.48,1,1,1
+1228,Kalanidhi,it15b1054,21,Male,Information Technology,2,6.34,1,0,1
+1229,Abhijit,it15b1572,22,Male,Information Technology,2,8.39,0,0,1
+1230,Dhriti,cs15b1765,21,Female,Computer Science,2,8.12,0,0,1
+1231,Ritwik,me15b1132,22,Male,Mechanical,0,7.14,1,0,0
+1232,Munish,cv15b1017,21,Male,Civil,1,6.1,0,0,1
+1233,Aniket,cv15b1174,20,Male,Civil,1,6.45,1,0,1
+1234,Hiten,me15b1135,22,Male,Mechanical,1,8.35,1,0,1
+1235,Vallabhbhai,me15b1207,22,Male,Mechanical,0,6.29,1,0,0
+1236,Satish,cs15b1435,22,Male,Computer Science,0,6.26,0,0,0
+1237,Tarsem,it15b1059,21,Male,Information Technology,0,8.19,0,0,1
+1238,Pankaj,cv15b1304,20,Male,Civil,1,8.03,0,0,1
+1239,Eswar,me15b1382,21,Male,Mechanical,1,7.02,1,0,0
+1240,Rahul,ec15b1142,21,Male,Electronics And Communication,1,8.41,0,0,1
+1241,Surinder,cs15b1303,22,Male,Computer Science,1,9.11,0,0,1
+1242,Dileesh,me15b1164,21,Male,Mechanical,0,9.38,1,1,1
+1243,Rajendra,it15b1521,21,Male,Information Technology,0,7.22,0,0,0
+1244,Nagaraj,cs15b1701,20,Male,Computer Science,1,8.12,0,0,1
+1245,Aanvi,cs15b1496,22,Female,Computer Science,0,7.32,0,0,0
+1246,Tara,cs15b1061,22,Female,Computer Science,2,8.19,0,0,1
+1247,Aria,ec15b1067,22,Female,Electronics And Communication,0,8.02,0,0,1
+1248,Naveen,it15b1294,21,Male,Information Technology,0,9.06,0,0,1
+1249,Arnab,it15b1610,21,Male,Information Technology,1,8.46,0,0,1
+1250,Aanvi,cv15b1222,22,Female,Civil,1,7.08,0,0,0
+1251,Rahil,me15b1214,21,Male,Mechanical,0,7.14,1,0,0
+1252,Aairah,it15b1602,20,Female,Information Technology,2,6.34,0,0,1
+1253,Ranganath,it15b1045,21,Male,Information Technology,1,6.09,0,0,0
+1254,Keshav,el15b1215,21,Male,Electrical,1,7.38,1,1,1
+1255,Niyati,it15b1079,22,Female,Information Technology,0,6.48,0,0,1
+1256,Vallabhbhai,cv15b1306,23,Male,Civil,0,7.49,0,0,0
+1257,Harilal,me15b1074,22,Male,Mechanical,0,8.2,1,0,1
+1258,Aarya,me15b1138,21,Female,Mechanical,1,6.17,1,0,0
+1259,Nadeem,ec15b1117,21,Male,Electronics And Communication,2,6.43,0,0,1
+1260,Debabrata,el15b1220,19,Male,Electrical,2,6.16,0,1,0
+1261,Ajit,el15b1231,21,Male,Electrical,0,7.28,0,0,0
+1262,Anjali,it15b1001,22,Female,Information Technology,1,6.37,0,0,1
+1263,Srinivas,cv15b1030,21,Male,Civil,1,7.49,0,0,0
+1264,Kalpesh,it15b1042,24,Male,Information Technology,1,6.49,0,0,1
+1265,Narendra,el15b1277,20,Male,Electrical,0,8.32,0,1,1
+1266,Amara,cs15b1645,20,Female,Computer Science,1,6.32,0,0,0
+1267,Namik,ec15b1264,22,Male,Electronics And Communication,1,7.1,0,0,0
+1268,Neeraj,me15b1345,22,Male,Mechanical,1,6.34,0,0,0
+1269,Inaya,it15b1363,22,Female,Information Technology,0,7.38,0,0,0
+1270,Manmohan,it15b1225,22,Male,Information Technology,1,7.25,0,1,1
+1271,Anusha,el15b1123,21,Female,Electrical,1,6.19,0,0,0
+1272,Tanisha,it15b1039,24,Female,Information Technology,1,7.31,0,0,1
+1273,Bhavesh,it15b1145,21,Male,Information Technology,2,6.26,0,0,1
+1274,Aadhira,me15b1369,21,Female,Mechanical,1,6.08,1,0,0
+1275,Muthuswamy,el15b1252,21,Male,Electrical,1,7.25,0,0,1
+1276,Sarit,me15b1178,21,Male,Mechanical,1,7.43,1,0,0
+1277,Yashi,cs15b1692,20,Female,Computer Science,0,7.46,1,0,0
+1278,Amara,it15b1305,22,Female,Information Technology,0,7.02,0,0,0
+1279,Vidyut,cs15b1264,21,Male,Computer Science,2,8.24,0,1,1
+1280,Jadunath,it15b1396,20,Male,Information Technology,1,7.36,0,0,1
+1281,Anvi,ec15b1341,19,Female,Electronics And Communication,0,8.22,0,0,1
+1282,Ananya,it15b1563,19,Female,Information Technology,2,7.02,0,0,1
+1283,Aarushi,cs15b1172,22,Female,Computer Science,0,6.16,0,0,0
+1284,Anvi,it15b1235,22,Female,Information Technology,2,8.44,0,0,1
+1285,Varghese,it15b1617,21,Male,Information Technology,0,7.37,0,0,0
+1286,Pramod,ec15b1339,22,Male,Electronics And Communication,1,6.08,0,0,0
+1287,Eswar,it15b1127,22,Male,Information Technology,0,8.36,0,1,1
+1288,Yogesh,el15b1185,20,Male,Electrical,0,7.42,0,0,0
+1289,Jayachandran,cs15b1543,20,Male,Computer Science,1,6.03,0,0,0
+1290,Rahul,el15b1156,22,Male,Electrical,0,6.1,0,0,0
+1291,Nitesh,ec15b1107,23,Male,Electronics And Communication,1,6.32,1,1,0
+1292,Anvika,el15b1264,21,Female,Electrical,0,8.13,0,0,1
+1293,Anisha,it15b1111,21,Female,Information Technology,1,8.04,0,0,1
+1294,Riva,ec15b1390,20,Female,Electronics And Communication,0,8.08,0,0,1
+1295,Maulik,ec15b1056,22,Male,Electronics And Communication,0,7.15,0,0,0
+1296,Kaushal,it15b1428,20,Male,Information Technology,0,8.08,0,0,1
+1297,Anvi,el15b1216,20,Female,Electrical,0,8.45,0,1,1
+1298,Kavya,ec15b1415,21,Female,Electronics And Communication,0,7.44,0,0,1
+1299,Prataprao,cs15b1458,20,Male,Computer Science,1,6.24,0,0,0
+1300,Bhagwant,cv15b1092,22,Male,Civil,0,6.11,0,0,0
+1301,Aditya,el15b1128,22,Male,Electrical,2,8.27,0,0,1
+1302,Uday,cs15b1768,21,Male,Computer Science,0,7.46,0,1,0
+1303,Ramakant,cs15b1010,22,Male,Computer Science,1,7.29,0,0,0
+1304,Harsh,cs15b1578,21,Male,Computer Science,1,6.08,0,0,1
+1305,Aanya,ec15b1160,22,Female,Electronics And Communication,1,7.44,1,1,0
+1306,Anusha,cv15b1189,23,Female,Civil,1,6.13,0,1,0
+1307,Amara,it15b1312,22,Female,Information Technology,1,9.18,1,0,1
+1308,Ranbir,it15b1219,22,Male,Information Technology,1,6.24,0,0,1
+1309,Upendra,it15b1487,22,Male,Information Technology,1,8.32,0,0,1
+1310,Ishani,el15b1293,21,Female,Electrical,1,9.12,0,0,1
+1311,Mohindra,it15b1080,22,Male,Information Technology,0,8.31,0,0,1
+1312,Aarna,el15b1244,19,Female,Electrical,0,7.49,0,0,0
+1313,Kazi,ec15b1305,22,Male,Electronics And Communication,1,6.24,0,0,0
+1314,Anusha,ec15b1076,22,Female,Electronics And Communication,1,7.12,0,1,0
+1315,Avni,it15b1565,19,Female,Information Technology,2,8.14,0,0,1
+1316,Ramesh,cs15b1400,23,Male,Computer Science,0,7.44,1,1,0
+1317,Dnyandeo,cv15b1247,21,Male,Civil,0,7.38,0,0,0
+1318,Suneet,cs15b1020,22,Male,Computer Science,2,9.2,0,0,1
+1319,Jaipal,el15b1113,22,Male,Electrical,0,6.43,0,0,0
+1320,Tarsem,it15b1456,22,Male,Information Technology,2,6.28,0,0,1
+1321,Dnyandeo,it15b1374,21,Male,Information Technology,1,8.03,0,0,1
+1322,Dhriti,ec15b1162,21,Female,Electronics And Communication,1,8.36,1,1,1
+1323,Aadhira,it15b1639,20,Female,Information Technology,2,8.44,0,0,1
+1324,Akhil,it15b1184,21,Male,Information Technology,0,6.32,0,0,1
+1325,Thoiba,cs15b1606,21,Male,Computer Science,0,6.02,0,0,0
+1326,Arun,cs15b1092,22,Male,Computer Science,2,7.1,1,0,1
+1327,Debabrata,me15b1229,24,Male,Mechanical,1,7.37,0,0,1
+1328,Muthuswamy,it15b1491,21,Male,Information Technology,0,6.39,0,1,0
+1329,Sivaprasad,cs15b1466,24,Male,Computer Science,0,6.47,0,0,1
+1330,Rohit,cs15b1017,21,Male,Computer Science,2,9.16,0,1,1
+1331,Ananya,cs15b1333,25,Female,Computer Science,0,7.21,1,0,0
+1332,Navya,it15b1569,22,Female,Information Technology,0,6.41,0,0,0
+1333,Pankaj,cs15b1042,22,Male,Computer Science,1,5.25,0,0,0
+1334,Devang,ec15b1016,24,Male,Electronics And Communication,1,6.37,0,1,1
+1335,Aadya,it15b1583,22,Female,Information Technology,0,6.19,0,1,0
+1336,Amrutlal,it15b1330,21,Male,Information Technology,0,7.46,0,1,0
+1337,Araina,me15b1035,21,Female,Mechanical,0,6.21,1,1,1
+1338,Phani,ec15b1127,22,Male,Electronics And Communication,0,8.46,0,0,1
+1339,Myra,el15b1305,21,Female,Electrical,0,8.16,0,0,1
+1340,Narendra,ec15b1228,21,Male,Electronics And Communication,0,8.41,0,0,1
+1341,Anurag,cs15b1211,22,Male,Computer Science,1,8.1,0,0,1
+1342,Nysa,cs15b1046,22,Female,Computer Science,1,5.34,0,0,0
+1343,Devendra,el15b1219,20,Male,Electrical,1,6.23,0,0,0
+1344,Amaya,cs15b1745,21,Female,Computer Science,1,7.25,0,0,0
+1345,Dipankar,el15b1003,22,Male,Electrical,1,8.16,0,0,1
+1346,Adhar,me15b1049,21,Male,Mechanical,1,6.28,1,1,0
+1347,Anaisha,it15b1657,23,Female,Information Technology,0,7.31,0,1,0
+1348,Kiara,cs15b1155,21,Female,Computer Science,0,7.38,0,1,0
+1349,Ankit,cs15b1151,21,Male,Computer Science,1,7.24,0,0,0
+1350,Hitendra,el15b1270,21,Male,Electrical,1,6.41,0,0,0
+1351,Tanisha,me15b1225,23,Female,Mechanical,1,7.34,1,0,1
+1352,Harish,cv15b1056,21,Male,Civil,2,6.23,1,0,1
+1353,Amara,cv15b1162,22,Female,Civil,1,8.23,0,1,1
+1354,Aadya,ec15b1006,22,Female,Electronics And Communication,0,8.0,0,1,1
+1355,Ajit,cs15b1037,24,Male,Computer Science,1,7.31,0,0,1
+1356,Girish,it15b1218,22,Male,Information Technology,0,6.22,0,0,1
+1357,Ammar,cs15b1089,22,Male,Computer Science,0,8.41,0,0,1
+1358,Aiza,me15b1104,23,Female,Mechanical,0,7.03,1,0,0
+1359,Ankit,ec15b1060,21,Male,Electronics And Communication,2,7.28,0,0,1
+1360,Karthikeyan,cs15b1258,22,Male,Computer Science,2,6.07,1,0,1
+1361,Pratik,cv15b1270,22,Male,Civil,1,8.4,0,0,1
+1362,Nana,it15b1395,22,Male,Information Technology,0,7.38,0,0,1
+1363,Jadunath,cs15b1669,20,Male,Computer Science,1,8.08,0,0,1
+1364,Nitesh,cs15b1310,21,Male,Computer Science,0,9.29,0,0,1
+1365,Navya,it15b1666,22,Female,Information Technology,0,6.11,0,0,0
+1366,Vinay,ec15b1302,22,Male,Electronics And Communication,1,7.43,1,1,1
+1367,Harjit,el15b1026,22,Male,Electrical,1,7.03,0,0,0
+1368,Satyadev,it15b1426,22,Male,Information Technology,0,5.31,0,0,0
+1369,Sundar,me15b1108,22,Male,Mechanical,0,8.21,1,0,1
+1370,Anaisha,it15b1405,21,Female,Information Technology,1,8.11,0,0,1
+1371,Anupam,cs15b1190,26,Male,Computer Science,1,9.07,0,0,1
+1372,Mohindra,me15b1216,23,Male,Mechanical,0,7.02,0,0,0
+1373,Anushka,it15b1461,23,Female,Information Technology,0,7.44,0,0,0
+1374,Bellamkonda,me15b1047,22,Male,Mechanical,0,7.31,0,0,0
+1375,Sunil,me15b1286,20,Male,Mechanical,0,8.36,1,0,1
+1376,Aniket,ec15b1138,21,Male,Electronics And Communication,2,6.39,0,0,1
+1377,Ahaana,el15b1091,22,Female,Electrical,1,6.25,0,0,0
+1378,Tithira,me15b1025,21,Female,Mechanical,0,8.11,0,0,1
+1379,Mansukh,el15b1257,19,Male,Electrical,0,6.31,0,0,0
+1380,Sourav,cs15b1734,21,Male,Computer Science,2,6.14,1,0,1
+1381,Shekhar,el15b1060,22,Male,Electrical,1,6.01,1,1,0
+1382,Tithira,it15b1256,22,Female,Information Technology,1,7.18,0,1,1
+1383,Sara,me15b1081,22,Female,Mechanical,0,7.37,1,0,0
+1384,Ayaz,ec15b1087,21,Male,Electronics And Communication,0,8.47,0,0,1
+1385,Nitish,cv15b1281,21,Male,Civil,1,6.32,0,0,0
+1386,Araya,cv15b1097,21,Female,Civil,0,8.3,1,0,1
+1387,Yogeshwar,me15b1343,22,Male,Mechanical,0,8.2,0,0,1
+1388,Birendra,cs15b1750,23,Male,Computer Science,1,8.4,1,0,1
+1389,Tara,ec15b1222,20,Female,Electronics And Communication,0,8.39,0,0,1
+1390,Jalaj,it15b1028,23,Male,Information Technology,1,7.18,0,0,1
+1391,Saisha,cs15b1448,22,Female,Computer Science,0,6.11,0,0,0
+1392,Srinivas,it15b1176,22,Male,Information Technology,1,6.08,0,0,1
+1393,Inaya,cs15b1402,20,Female,Computer Science,2,7.26,0,0,0
+1394,Sambhunath,ec15b1389,20,Male,Electronics And Communication,1,7.08,1,1,0
+1395,Nia,it15b1348,22,Female,Information Technology,0,7.08,0,1,0
+1396,Pratik,me15b1194,26,Male,Mechanical,0,6.4,1,0,1
+1397,Anaya,cs15b1380,24,Female,Computer Science,1,8.18,0,0,1
+1398,Amaya,cv15b1047,22,Female,Civil,1,8.3,0,0,1
+1399,Riva,it15b1010,21,Female,Information Technology,2,7.09,0,0,1
+1400,Aniruddha,me15b1168,22,Male,Mechanical,2,9.21,1,0,1
+1401,Anisha,cs15b1521,22,Female,Computer Science,0,8.35,0,0,1
+1402,Naranbhai,it15b1400,22,Male,Information Technology,1,7.3,0,0,1
+1403,Yash,it15b1349,21,Male,Information Technology,2,8.39,0,0,1
+1404,Riya,cv15b1185,21,Female,Civil,0,7.07,1,1,0
+1405,Ganesh,ec15b1101,21,Male,Electronics And Communication,0,6.47,0,0,0
+1406,Ajinkya,it15b1229,22,Male,Information Technology,0,7.43,0,0,1
+1407,Yashika,cs15b1044,21,Female,Computer Science,0,6.29,0,1,1
+1408,Naveen,el15b1126,21,Male,Electrical,1,8.19,0,1,1
+1409,Aisha,it15b1469,20,Female,Information Technology,1,8.04,0,0,1
+1410,Samaira,ec15b1331,20,Female,Electronics And Communication,1,6.41,1,1,0
+1411,Amaira,me15b1247,21,Female,Mechanical,1,5.5,1,0,0
+1412,Bali,cv15b1164,22,Male,Civil,1,6.34,0,0,0
+1413,Ashu,cs15b1173,22,Male,Computer Science,2,7.49,0,0,0
+1414,Saina,cs15b1460,24,Female,Computer Science,2,6.25,0,0,1
+1415,Rajiv,me15b1336,22,Male,Mechanical,1,7.44,1,0,0
+1416,Aseem,cs15b1598,20,Male,Computer Science,0,7.27,1,0,0
+1417,Avisha,cs15b1423,24,Female,Computer Science,1,7.15,0,0,0
+1418,Hitesh,it15b1490,21,Male,Information Technology,0,8.39,0,0,1
+1419,Ranbir,it15b1549,19,Male,Information Technology,1,7.22,0,0,0
+1420,Pranay,el15b1255,19,Male,Electrical,1,7.5,0,0,1
+1421,Aaria,cs15b1331,26,Female,Computer Science,1,7.17,0,0,0
+1422,Ariya,cs15b1346,26,Female,Computer Science,1,6.49,0,0,1
+1423,Jawahar,me15b1338,22,Male,Mechanical,0,6.26,1,1,0
+1424,Mehar,me15b1267,21,Male,Mechanical,0,7.24,1,0,0
+1425,Maira,ec15b1012,21,Female,Electronics And Communication,0,8.28,0,0,1
+1426,Surinder,cs15b1503,19,Male,Computer Science,1,8.16,0,0,1
+1427,Biju,cs15b1317,21,Male,Computer Science,1,9.09,0,0,1
+1428,Venkata Swamy,it15b1623,20,Male,Information Technology,0,8.02,0,0,1
+1429,Srinivas,cs15b1420,23,Male,Computer Science,1,8.28,0,0,1
+1430,Krishnappa,el15b1164,21,Male,Electrical,0,8.49,0,0,1
+1431,Anvi,it15b1055,22,Female,Information Technology,1,6.37,0,0,0
+1432,Anika,it15b1593,21,Female,Information Technology,0,7.19,0,0,0
+1433,Aniruddha,ec15b1377,20,Male,Electronics And Communication,2,7.11,0,0,1
+1434,Baltej,it15b1502,22,Male,Information Technology,2,6.18,0,0,1
+1435,Nibaran,cs15b1597,21,Male,Computer Science,1,8.33,0,0,1
+1436,Amaira,el15b1317,21,Female,Electrical,1,8.2,0,0,1
+1437,Ganesh,it15b1424,24,Male,Information Technology,0,6.49,0,0,1
+1438,Aniruddha,me15b1367,21,Male,Mechanical,0,7.25,1,0,0
+1439,Rinjish,me15b1380,20,Male,Mechanical,0,9.39,1,1,1
+1440,Hitendra,el15b1117,21,Male,Electrical,1,6.1,0,0,0
+1441,Viara,me15b1075,22,Female,Mechanical,0,8.47,1,0,1
+1442,Nitish,cs15b1368,21,Male,Computer Science,1,6.02,0,0,0
+1443,Satyadev,it15b1385,23,Male,Information Technology,0,5.38,0,0,0
+1444,Kulasekhara,ec15b1336,22,Male,Electronics And Communication,1,6.24,0,0,0
+1445,Ranganath,ec15b1385,20,Male,Electronics And Communication,0,7.06,0,0,1
+1446,Prakash,cs15b1725,20,Male,Computer Science,1,7.37,0,0,0
+1447,Vinay,cs15b1580,22,Male,Computer Science,1,6.23,1,0,0
+1448,Dhriti,it15b1103,22,Female,Information Technology,0,7.01,0,0,0
+1449,Amaira,cs15b1554,21,Female,Computer Science,0,6.49,0,0,0
+1450,Eswar,it15b1040,24,Male,Information Technology,0,5.11,0,0,1
+1451,Sriram,it15b1475,20,Male,Information Technology,1,7.17,1,0,1
+1452,Kirpa,ec15b1105,23,Male,Electronics And Communication,0,9.32,0,0,1
+1453,Bibek,it15b1185,22,Male,Information Technology,0,8.39,0,0,1
+1454,Amarsinh,cs15b1434,24,Male,Computer Science,1,7.2,1,0,1
+1455,Shanaya,cs15b1700,20,Female,Computer Science,1,8.1,0,0,1
+1456,Pari,cs15b1625,22,Female,Computer Science,1,8.2,1,0,1
+1457,Dipankar,ec15b1263,20,Male,Electronics And Communication,0,8.03,0,0,1
+1458,Rajiv,ec15b1205,23,Male,Electronics And Communication,1,6.44,0,1,1
+1459,Aamna,cs15b1472,21,Female,Computer Science,2,6.27,0,0,1
+1460,Ishani,it15b1620,21,Female,Information Technology,2,9.15,0,0,1
+1461,Diti,cs15b1379,21,Female,Computer Science,1,7.38,1,0,0
+1462,Ishi,me15b1146,22,Female,Mechanical,1,6.49,1,0,0
+1463,Venkataraman,me15b1293,19,Male,Mechanical,0,6.14,1,0,0
+1464,Prabodh Chandra,me15b1198,26,Male,Mechanical,0,7.43,1,0,0
+1465,Anvika,el15b1085,26,Female,Electrical,2,8.07,1,0,1
+1466,Rakesh,ec15b1061,21,Male,Electronics And Communication,1,6.41,0,1,0
+1467,Amara,el15b1259,19,Female,Electrical,1,7.47,0,1,1
+1468,Diya,cs15b1175,21,Female,Computer Science,1,6.48,0,0,0
+1469,Ravinder,cs15b1556,19,Male,Computer Science,1,7.18,0,0,0
+1470,Jawahar,cs15b1629,20,Male,Computer Science,1,8.06,0,0,1
+1471,Arya,cs15b1163,21,Female,Computer Science,1,7.36,0,0,0
+1472,Anvi,el15b1180,21,Female,Electrical,2,6.12,1,1,1
+1473,Harshit,it15b1158,22,Male,Information Technology,0,8.42,0,0,1
+1474,Dileesh,cv15b1267,19,Male,Civil,0,8.29,1,1,1
+1475,Virat,ec15b1194,21,Male,Electronics And Communication,2,7.34,0,0,1
+1476,Akshat,it15b1554,20,Male,Information Technology,0,6.16,0,0,0
+1477,Zara,cs15b1696,21,Female,Computer Science,1,8.35,0,0,1
+1478,Anupam,it15b1018,22,Male,Information Technology,0,8.11,0,0,1
+1479,Rakesh,me15b1423,23,Male,Mechanical,1,7.39,1,0,0
+1480,Mahendra,me15b1357,20,Male,Mechanical,0,6.1,1,1,0
+1481,Birendra,it15b1149,21,Male,Information Technology,1,7.16,0,1,1
+1482,Muthuswamy,me15b1122,22,Male,Mechanical,1,7.36,1,0,0
+1483,Aarchi,cv15b1109,22,Female,Civil,0,8.24,0,0,1
+1484,Aarchi,cv15b1181,20,Female,Civil,0,8.23,0,0,1
+1485,Suresh,el15b1087,23,Male,Electrical,0,8.01,0,0,1
+1486,Bali,cs15b1757,22,Male,Computer Science,0,7.23,0,1,0
+1487,Kyra,cs15b1740,21,Female,Computer Science,2,6.46,0,0,1
+1488,Chakrapani,it15b1507,20,Male,Information Technology,2,7.15,0,0,1
+1489,Navya,ec15b1281,22,Female,Electronics And Communication,1,8.27,0,1,1
+1490,Ranbir,cs15b1162,22,Male,Computer Science,1,8.19,0,1,1
+1491,Harshit,el15b1237,19,Male,Electrical,3,9.16,0,1,1
+1492,Sriram,me15b1125,22,Male,Mechanical,0,7.37,1,1,0
+1493,Vidhi,it15b1501,21,Female,Information Technology,2,6.25,0,0,1
+1494,Tanvi,cs15b1752,23,Female,Computer Science,2,6.01,0,0,1
+1495,Adesh,me15b1002,22,Male,Mechanical,0,8.49,1,0,1
+1496,Aaira,me15b1395,22,Female,Mechanical,0,7.33,1,0,0
+1497,Naranbhai,cs15b1602,20,Male,Computer Science,0,6.03,1,1,0
+1498,Amisha,it15b1575,20,Female,Information Technology,1,8.42,0,0,1
+1499,Kripa,it15b1532,19,Male,Information Technology,0,8.18,0,0,1
+1500,Bhagwant,cs15b1551,19,Male,Computer Science,1,6.43,0,0,0
+1501,Kripa,ec15b1270,19,Male,Electronics And Communication,0,8.29,0,0,1
+1502,Krishnappa,cv15b1050,22,Male,Civil,0,8.26,0,0,1
+1503,Lakshan,cv15b1039,22,Male,Civil,1,6.32,0,0,1
+1504,Gurcharan,it15b1251,22,Male,Information Technology,1,8.33,0,0,1
+1505,Aarohi,me15b1201,25,Female,Mechanical,1,6.3,1,0,1
+1506,Deepak,it15b1076,21,Male,Information Technology,0,7.34,0,0,1
+1507,Hitesh,cv15b1098,22,Male,Civil,0,8.37,0,1,1
+1508,Aahana,cs15b1098,21,Female,Computer Science,0,8.26,0,1,1
+1509,Amisha,cs15b1326,26,Female,Computer Science,0,6.28,0,0,1
+1510,Sarit,cs15b1340,25,Male,Computer Science,2,7.21,0,1,1
+1511,Abhinav,it15b1112,21,Male,Information Technology,1,6.2,0,1,1
+1512,Amarjit,cs15b1456,21,Male,Computer Science,0,7.39,1,0,0
+1513,Nirupam,ec15b1312,21,Male,Electronics And Communication,2,8.12,0,0,1
+1514,Ishi,ec15b1255,22,Female,Electronics And Communication,0,8.03,0,0,1
+1515,Anvika,el15b1332,21,Female,Electrical,0,7.08,0,0,0
+1516,Vineet,me15b1036,21,Male,Mechanical,2,6.32,1,0,0
+1517,Aiza,el15b1313,20,Female,Electrical,0,8.02,0,0,1
+1518,Ranjitsinh,cs15b1372,22,Male,Computer Science,3,6.49,0,0,1
+1519,Rajendra,it15b1608,20,Male,Information Technology,1,7.41,0,1,0
+1520,Avisha,it15b1016,21,Female,Information Technology,0,8.45,0,0,1
+1521,Anika,cs15b1149,21,Female,Computer Science,0,7.28,0,0,0
+1522,Upendra,cs15b1299,22,Male,Computer Science,0,9.25,1,1,1
+1523,Diti,it15b1253,22,Female,Information Technology,2,6.25,0,0,1
+1524,Ganesh,me15b1245,20,Male,Mechanical,0,5.21,1,0,0
+1525,Mohindra,cv15b1293,20,Male,Civil,1,9.17,0,0,1
+1526,Maulik,cs15b1111,22,Male,Computer Science,1,6.2,0,0,0
+1527,Tanmay,cs15b1643,21,Male,Computer Science,1,6.26,0,0,0
+1528,Aiza,ec15b1080,22,Female,Electronics And Communication,0,7.42,0,0,0
+1529,Nihal,cs15b1094,22,Male,Computer Science,0,6.04,0,0,1
+1530,Surendra,ec15b1418,22,Male,Electronics And Communication,2,7.33,0,0,0
+1531,Sabyasachi,cs15b1081,22,Male,Computer Science,0,6.04,0,1,0
+1532,Navya,cs15b1425,22,Female,Computer Science,3,8.14,0,0,1
+1533,Sundar,it15b1547,20,Male,Information Technology,0,6.21,0,0,0
+1534,Dhriti,it15b1446,21,Female,Information Technology,2,8.01,0,0,1
+1535,Anvika,cs15b1101,22,Female,Computer Science,0,7.04,0,1,0
+1536,Pramod,cs15b1631,20,Male,Computer Science,0,6.47,0,0,0
+1537,Bishamber,cv15b1016,21,Male,Civil,3,6.35,1,0,1
+1538,Ziya,cs15b1054,22,Female,Computer Science,2,7.19,1,0,0
+1539,Inaaya,it15b1254,22,Female,Information Technology,2,6.37,0,0,1
+1540,Navya,el15b1067,22,Female,Electrical,1,8.09,0,0,1
+1541,Arya,cv15b1085,26,Female,Civil,0,7.28,0,0,0
+1542,Kalanidhi,cs15b1624,20,Male,Computer Science,0,8.13,0,0,1
+1543,Chamaraja,cs15b1048,21,Male,Computer Science,1,7.34,1,0,0
+1544,Bellamkonda,cs15b1302,22,Male,Computer Science,1,8.12,0,1,1
+1545,Arun,it15b1159,22,Male,Information Technology,0,8.5,0,0,1
+1546,Amaya,cs15b1658,19,Female,Computer Science,0,6.33,0,1,0
+1547,Rianka,it15b1516,22,Female,Information Technology,1,9.17,0,1,1
+1548,Apoorva,ec15b1335,22,Male,Electronics And Communication,0,6.05,0,0,0
+1549,Anshika,cs15b1508,22,Female,Computer Science,3,8.31,1,0,1
+1550,Kalpesh,el15b1005,21,Male,Electrical,0,7.04,0,0,0
+1551,Lakshman,cv15b1290,20,Male,Civil,2,9.34,0,0,1
+1552,Diyara,it15b1068,21,Female,Information Technology,1,8.03,0,0,1
+1553,Amaira,it15b1647,20,Female,Information Technology,1,7.32,0,0,0
+1554,Harshit,el15b1205,20,Male,Electrical,2,7.47,1,0,1
+1555,Subbiah,it15b1120,21,Male,Information Technology,3,8.05,1,0,1
+1556,Nripendra,it15b1004,22,Male,Information Technology,1,8.21,0,0,1
+1557,Yogesh,cv15b1184,21,Male,Civil,0,6.36,1,1,0
+1558,Amaira,it15b1198,22,Female,Information Technology,1,6.14,0,0,1
+1559,Kavya,cv15b1108,21,Female,Civil,1,8.13,0,1,1
+1560,Jahangir,cs15b1639,19,Male,Computer Science,1,8.48,0,0,1
+1561,Vallabhbhai,it15b1431,24,Male,Information Technology,0,7.05,0,0,0
+1562,Hitesh,cs15b1545,21,Male,Computer Science,0,8.2,0,0,1
+1563,Anuj,el15b1157,21,Male,Electrical,1,7.18,0,0,1
+1564,Ayaz,el15b1100,22,Male,Electrical,0,8.03,1,0,1
+1565,Ariya,me15b1235,24,Female,Mechanical,0,6.46,1,1,1
+1566,Vriti,it15b1346,22,Female,Information Technology,0,8.16,0,1,1
+1567,Tithira,ec15b1085,21,Female,Electronics And Communication,0,7.29,0,0,1
+1568,Ranbir,el15b1258,19,Male,Electrical,0,8.33,0,0,1
+1569,Ajish,el15b1229,20,Male,Electrical,1,7.19,0,0,1
+1570,Byramjee,cs15b1713,20,Male,Computer Science,1,7.22,0,0,0
+1571,Ajish,el15b1119,22,Male,Electrical,2,7.05,0,0,0
+1572,Nitesh,cs15b1670,20,Male,Computer Science,0,8.35,0,0,1
+1573,Rohit,me15b1253,23,Male,Mechanical,0,5.44,1,0,0
+1574,Elangovan,cs15b1233,21,Male,Computer Science,1,8.1,0,0,1
+1575,Ranbir,ec15b1007,21,Male,Electronics And Communication,3,6.27,0,0,1
+1576,Nikhil,it15b1172,26,Male,Information Technology,1,6.23,0,1,1
+1577,Amrutlal,it15b1455,22,Male,Information Technology,0,8.06,0,1,1
+1578,Nysa,el15b1009,21,Female,Electrical,1,8.05,0,0,1
+1579,Sara,cs15b1338,25,Female,Computer Science,1,7.31,0,0,1
+1580,Anil,me15b1304,19,Male,Mechanical,3,7.01,1,0,1
+1581,Inaaya,cs15b1203,22,Female,Computer Science,1,8.27,0,0,1
+1582,Bhavesh,ec15b1352,20,Male,Electronics And Communication,1,6.47,0,0,0
+1583,Avira,ec15b1068,22,Female,Electronics And Communication,1,6.23,1,1,0
+1584,Kaushal,el15b1049,21,Male,Electrical,0,6.35,0,0,0
+1585,Kyra,me15b1043,21,Female,Mechanical,0,6.46,1,0,1
+1586,Kiara,cs15b1245,21,Female,Computer Science,1,7.06,0,0,1
+1587,Aarna,cv15b1080,23,Female,Civil,0,7.42,0,0,0
+1588,Karthik,cs15b1088,21,Male,Computer Science,2,8.23,0,0,1
+1589,Amaira,it15b1689,23,Female,Information Technology,0,7.23,0,0,0
+1590,Pranay,it15b1477,22,Male,Information Technology,0,8.42,0,1,1
+1591,Shekhar,ec15b1277,19,Male,Electronics And Communication,0,7.45,0,0,1
+1592,Nihal,cs15b1269,22,Male,Computer Science,1,6.06,0,1,0
+1593,Bharat,ec15b1129,22,Male,Electronics And Communication,0,7.21,0,0,0
+1594,Inaaya,it15b1138,22,Female,Information Technology,1,7.02,0,0,0
+1595,Utkarsh,cs15b1711,20,Male,Computer Science,3,8.18,1,0,1
+1596,Ranbir,me15b1119,22,Male,Mechanical,1,7.26,1,0,0
+1597,Sadanand,it15b1656,23,Male,Information Technology,1,6.03,0,0,0
+1598,Jaipal,it15b1053,21,Male,Information Technology,1,5.38,1,1,0
+1599,Akshat,it15b1057,22,Male,Information Technology,0,6.31,0,1,0
+1600,Dinesh,ec15b1036,21,Male,Electronics And Communication,2,7.18,0,0,1
+1601,Kiran,it15b1052,21,Female,Information Technology,0,5.3,0,1,0
+1602,Sambhunath,el15b1098,22,Male,Electrical,0,7.39,0,0,0
+1603,Dharanidhar,ec15b1276,21,Male,Electronics And Communication,0,8.42,0,0,1
+1604,Ishani,cs15b1147,21,Female,Computer Science,0,7.13,0,0,0
+1605,Virat,it15b1559,20,Male,Information Technology,0,6.41,0,0,0
+1606,Varghese,cs15b1157,22,Male,Computer Science,1,6.47,0,0,1
+1607,Debaprasad,me15b1333,20,Male,Mechanical,2,6.4,1,0,1
+1608,Arushi,cs15b1166,21,Female,Computer Science,2,6.07,0,0,1
+1609,Kavya,me15b1090,21,Female,Mechanical,2,6.06,1,0,1
+1610,Umesh,me15b1054,21,Male,Mechanical,1,5.29,1,1,0
+1611,Pari,cs15b1535,21,Female,Computer Science,1,8.49,0,0,1
+1612,Sanjay,me15b1221,21,Male,Mechanical,0,6.31,1,0,0
+1613,Rajiv,cs15b1405,22,Male,Computer Science,0,7.47,0,0,1
+1614,Dileesh,cs15b1446,21,Male,Computer Science,2,5.22,0,0,0
+1615,Manmohan,cs15b1034,23,Male,Computer Science,1,5.2,0,0,1
+1616,Inaaya,ec15b1136,21,Female,Electronics And Communication,1,7.47,0,0,1
+1617,Aaira,ec15b1086,21,Female,Electronics And Communication,0,7.45,0,0,1
+1618,Sarit,me15b1031,22,Male,Mechanical,1,8.31,1,0,1
+1619,Sara,me15b1317,19,Female,Mechanical,1,8.04,1,1,1
+1620,Sandipan,cv15b1193,24,Male,Civil,1,6.28,0,0,1
+1621,Satish,it15b1544,21,Male,Information Technology,0,6.49,0,0,0
+1622,Avisha,el15b1053,22,Female,Electrical,0,6.33,0,0,0
+1623,Abhay,cs15b1686,21,Male,Computer Science,1,8.45,0,0,1
+1624,Kulasekhara,ec15b1285,20,Male,Electronics And Communication,2,6.45,0,0,1
+1625,Gurunath,cs15b1136,21,Male,Computer Science,1,6.16,0,0,0
+1626,Raghu,cs15b1176,22,Male,Computer Science,0,7.37,0,0,0
+1627,Aseem,cs15b1623,19,Male,Computer Science,0,7.24,0,1,0
+1628,Arya,cs15b1060,21,Male,Computer Science,3,6.2,0,0,1
+1629,Hitendra,me15b1127,21,Male,Mechanical,0,8.43,1,0,1
+1630,Abhinav,ec15b1116,21,Male,Electronics And Communication,0,7.36,0,0,0
+1631,Nitin,el15b1278,21,Male,Electrical,1,7.21,0,1,1
+1632,Ashwin,el15b1314,21,Male,Electrical,0,8.39,0,0,1
+1633,Ishita,ec15b1208,24,Female,Electronics And Communication,1,7.16,0,0,0
+1634,Bellamkonda,it15b1627,20,Male,Information Technology,2,8.26,0,0,1
+1635,Kiara,el15b1021,21,Female,Electrical,0,5.41,0,0,0
+1636,Mohindra,ec15b1319,20,Male,Electronics And Communication,1,6.13,0,0,0
+1637,Bali,me15b1319,19,Male,Mechanical,0,7.42,0,0,0
+1638,Harish,ec15b1381,20,Male,Electronics And Communication,0,9.2,0,0,1
+1639,Jitendra,cv15b1310,23,Male,Civil,1,8.21,0,0,1
+1640,Bibek,it15b1615,21,Male,Information Technology,0,8.01,0,0,1
+1641,Harish,me15b1348,19,Male,Mechanical,1,8.35,1,0,1
+1642,Ziva,it15b1064,21,Female,Information Technology,2,8.2,1,0,1
+1643,Suresh,me15b1156,22,Male,Mechanical,1,9.33,1,0,1
+1644,Maulik,cs15b1568,22,Male,Computer Science,0,6.07,0,0,1
+1645,Amaira,el15b1132,22,Female,Electrical,1,8.06,0,1,1
+1646,Inaaya,cs15b1495,21,Female,Computer Science,0,8.42,0,0,1
+1647,Sara,ec15b1069,21,Female,Electronics And Communication,0,6.16,0,0,0
+1648,Riva,cv15b1003,22,Female,Civil,0,7.06,0,0,0
+1649,Anika,cs15b1006,21,Female,Computer Science,2,6.41,1,1,0
+1650,Harmeet,me15b1087,21,Male,Mechanical,1,8.16,1,0,1
+1651,Rajan,cv15b1041,22,Male,Civil,0,7.03,0,0,0
+1652,Ranjitsinh,cv15b1136,21,Male,Civil,2,7.35,1,0,1
+1653,Amarsinh,cv15b1259,21,Male,Civil,0,7.28,0,1,0
+1654,Anand,cs15b1231,21,Male,Computer Science,0,8.46,0,1,1
+1655,Avni,cs15b1305,22,Female,Computer Science,3,9.03,0,0,1
+1656,Kirpa,ec15b1419,21,Male,Electronics And Communication,0,7.21,0,0,1
+1657,Ashwin,el15b1043,21,Male,Electrical,0,7.01,0,1,0
+1658,Nia,cs15b1394,22,Female,Computer Science,1,6.32,0,0,0
+1659,Nitesh,it15b1556,21,Male,Information Technology,1,8.09,0,0,1
+1660,Pankaj,it15b1081,21,Male,Information Technology,0,8.47,0,0,1
+1661,Hiten,cs15b1473,23,Male,Computer Science,1,8.27,0,0,1
+1662,Subbiah,it15b1336,21,Male,Information Technology,0,7.19,0,0,0
+1663,Aairah,it15b1388,24,Female,Information Technology,1,7.1,0,0,0
+1664,Kia,it15b1319,25,Female,Information Technology,1,7.23,0,0,0
+1665,Kalpesh,ec15b1176,21,Male,Electronics And Communication,0,9.18,0,0,1
+1666,Surendra,cs15b1426,21,Male,Computer Science,0,6.23,0,1,1
+1667,Raghu,ec15b1288,19,Male,Electronics And Communication,0,6.47,0,0,0
+1668,Amaya,it15b1036,23,Female,Information Technology,1,7.16,0,0,1
+1669,Sabyasachi,ec15b1082,22,Male,Electronics And Communication,1,7.07,0,0,0
+1670,Mahboob,it15b1379,21,Male,Information Technology,0,8.15,0,1,1
+1671,Nia,cs15b1742,21,Female,Computer Science,1,7.19,0,0,0
+1672,Avira,it15b1360,21,Female,Information Technology,1,8.14,0,0,1
+1673,Aarvi,it15b1413,22,Female,Information Technology,1,6.16,0,0,0
+1674,Miraya,cs15b1502,22,Female,Computer Science,3,7.41,0,0,0
+1675,Munish,cs15b1283,21,Male,Computer Science,2,9.32,0,0,1
+1676,Sana,ec15b1195,21,Female,Electronics And Communication,0,7.35,0,0,0
+1677,Pari,el15b1144,22,Female,Electrical,1,9.15,0,0,1
+1678,Sundar,ec15b1115,21,Male,Electronics And Communication,1,8.13,1,0,1
+1679,Anvika,cs15b1141,22,Female,Computer Science,1,7.25,1,0,0
+1680,Yashvi,me15b1347,20,Female,Mechanical,0,7.18,1,1,0
+1681,Gopinathan,cs15b1307,21,Male,Computer Science,1,9.08,0,0,1
+1682,Nirupam,cs15b1139,22,Male,Computer Science,1,6.2,0,0,0
+1683,Kalanidhi,it15b1261,22,Male,Information Technology,1,7.38,0,0,0
+1684,Srinivas,cs15b1273,21,Male,Computer Science,1,8.31,0,0,1
+1685,Kyra,cv15b1279,20,Female,Civil,1,8.43,0,0,1
+1686,Rianka,me15b1326,19,Female,Mechanical,1,6.42,1,0,0
+1687,Varghese,it15b1678,23,Male,Information Technology,1,8.27,0,0,1
+1688,Faizal,cv15b1087,26,Male,Civil,0,8.16,1,0,1
+1689,Devesh,cv15b1146,21,Male,Civil,0,7.25,0,0,0
+1690,Shekhar,el15b1120,21,Male,Electrical,2,8.04,0,0,1
+1691,Alisha,it15b1631,20,Female,Information Technology,0,9.06,0,0,1
+1692,Aahana,cs15b1134,21,Female,Computer Science,1,8.2,1,0,1
+1693,Jadunath,it15b1576,22,Male,Information Technology,0,6.09,0,0,0
+1694,Ajish,it15b1248,22,Male,Information Technology,1,8.12,1,0,1
+1695,Mukesh,cv15b1215,19,Male,Civil,0,8.02,0,1,1
+1696,Myra,cs15b1509,22,Female,Computer Science,1,7.26,1,0,0
+1697,Rahil,me15b1211,22,Male,Mechanical,0,8.05,1,0,1
+1698,Faizal,cs15b1763,22,Male,Computer Science,0,6.24,1,0,0
+1699,Yashi,it15b1434,22,Female,Information Technology,1,8.23,1,0,1
+1700,Pratul,me15b1094,21,Male,Mechanical,0,7.23,1,0,0
+1701,Kaushal,cs15b1348,22,Male,Computer Science,1,7.38,0,0,0
+1702,Bhagwant,me15b1018,24,Male,Mechanical,0,6.25,0,0,1
+1703,Ira,ec15b1159,22,Female,Electronics And Communication,0,9.27,0,0,1
+1704,Raja,me15b1376,20,Male,Mechanical,1,8.29,1,0,1
+1705,Vidyut,me15b1275,23,Male,Mechanical,1,8.19,1,0,1
+1706,Saanvi,it15b1061,21,Female,Information Technology,0,8.02,0,1,1
+1707,Anshita,ec15b1084,21,Female,Electronics And Communication,1,7.33,0,0,1
+1708,Amaya,me15b1306,22,Female,Mechanical,0,8.41,1,0,1
+1709,Harish,cs15b1552,21,Male,Computer Science,0,8.49,0,1,1
+1710,Anvita,cs15b1030,24,Female,Computer Science,2,7.27,0,0,1
+1711,Nadeem,cs15b1716,20,Male,Computer Science,0,8.01,1,0,1
+1712,Abhinav,el15b1057,21,Male,Electrical,0,7.17,0,0,0
+1713,Chamaraja,ec15b1386,20,Male,Electronics And Communication,0,8.18,0,0,1
+1714,Amrik,me15b1017,23,Male,Mechanical,1,6.35,1,1,1
+1715,Narayan,cv15b1263,21,Male,Civil,0,6.1,1,0,0
+1716,Vallathol,it15b1331,21,Male,Information Technology,1,7.45,0,0,0
+1717,Pallav,cs15b1079,22,Male,Computer Science,2,6.02,0,0,1
+1718,Ramakant,it15b1035,23,Male,Information Technology,1,5.24,0,0,1
+1719,Anvi,ec15b1246,24,Female,Electronics And Communication,1,8.04,0,1,1
+1720,Aditya,cv15b1067,21,Male,Civil,1,8.32,0,0,1
+1721,Anvika,cs15b1666,20,Female,Computer Science,2,6.11,0,0,1
+1722,Arya,me15b1179,22,Male,Mechanical,1,7.27,1,0,0
+1723,Jahangir,cs15b1751,23,Male,Computer Science,0,6.15,0,0,1
+1724,Nitesh,ec15b1396,20,Male,Electronics And Communication,1,6.13,0,1,0
+1725,Nana,cs15b1130,22,Male,Computer Science,1,7.02,0,0,1
+1726,Shanaya,cs15b1359,22,Female,Computer Science,2,7.05,0,0,0
+1727,Ammar,ec15b1272,19,Male,Electronics And Communication,0,8.02,0,0,1
+1728,Ishita,it15b1169,24,Female,Information Technology,1,6.1,0,0,1
+1729,Hitesh,it15b1340,21,Male,Information Technology,1,6.39,0,0,0
+1730,Kulasekhara,cv15b1043,21,Male,Civil,0,7.33,0,0,0
+1731,Dinesh,el15b1051,21,Male,Electrical,0,6.32,0,0,0
+1732,Inaaya,it15b1591,20,Female,Information Technology,0,6.08,0,0,0
+1733,Nana,cs15b1600,19,Male,Computer Science,0,7.09,0,1,1
+1734,Sunil,el15b1078,22,Male,Electrical,0,7.28,0,0,0
+1735,Ashu,cv15b1316,22,Male,Civil,0,8.25,0,0,1
+1736,Aritra,cs15b1533,19,Male,Computer Science,0,7.38,0,0,0
+1737,Anshi,cs15b1156,22,Female,Computer Science,1,6.4,0,0,0
+1738,Anshi,el15b1233,21,Female,Electrical,1,5.37,0,0,0
+1739,Prataprao,me15b1028,22,Male,Mechanical,0,6.06,1,0,0
+1740,Kalpesh,it15b1272,22,Male,Information Technology,2,8.34,0,0,1
+1741,Mahboob,me15b1180,22,Male,Mechanical,0,9.26,1,0,1
+1742,Raghu,me15b1341,22,Male,Mechanical,0,6.09,1,0,0
+1743,Vritika,it15b1117,21,Female,Information Technology,1,8.06,1,0,1
+1744,Sarabjit,cv15b1244,20,Male,Civil,0,8.11,0,0,1
+1745,Ariya,cv15b1157,22,Female,Civil,0,7.36,0,1,0
+1746,Dhriti,ec15b1114,22,Female,Electronics And Communication,1,6.11,0,0,0
+1747,Vani,el15b1161,21,Female,Electrical,0,7.49,0,0,0
+1748,Sunil,me15b1282,19,Male,Mechanical,1,8.18,1,0,1
+1749,Aarna,ec15b1183,22,Female,Electronics And Communication,1,7.13,0,0,0
+1750,Harilal,it15b1047,21,Male,Information Technology,1,6.03,0,0,1
+1751,Kavya,cs15b1634,20,Female,Computer Science,1,8.16,0,0,1
+1752,Aarushi,el15b1306,20,Female,Electrical,1,7.39,0,0,1
+1753,Krishnayya,me15b1148,22,Male,Mechanical,1,7.45,1,0,0
+1754,Diya,cs15b1650,19,Female,Computer Science,0,7.31,0,1,0
+1755,Inaya,me15b1109,22,Female,Mechanical,1,8.18,1,0,1
+1756,Anaya,el15b1084,25,Female,Electrical,0,8.15,0,0,1
+1757,Sudhir,it15b1414,23,Male,Information Technology,1,5.16,0,0,0
+1758,Ramakant,me15b1361,20,Male,Mechanical,3,8.32,1,0,1
+1759,Aarohi,cs15b1648,19,Female,Computer Science,1,7.2,0,0,0
+1760,Diya,el15b1171,20,Female,Electrical,1,7.14,0,1,0
+1761,Devesh,ec15b1248,22,Male,Electronics And Communication,0,7.13,0,0,0
+1762,Inaya,el15b1316,20,Female,Electrical,0,8.11,0,0,1
+1763,Krishnadev,el15b1243,19,Male,Electrical,0,6.41,0,1,0
+1764,Shridhar,cv15b1114,22,Male,Civil,0,6.16,0,1,0
+1765,Harmeet,cs15b1622,20,Male,Computer Science,0,6.09,0,0,0
+1766,Aarna,it15b1139,21,Female,Information Technology,2,6.31,1,0,1
+1767,Oommen,cs15b1657,22,Male,Computer Science,2,7.44,0,0,0
+1768,Ira,it15b1021,22,Female,Information Technology,2,7.44,0,0,0
+1769,Sriram,me15b1374,21,Male,Mechanical,0,7.04,1,1,0
+1770,Tanvi,it15b1096,22,Female,Information Technology,0,7.39,0,1,0
+1771,Araina,ec15b1294,21,Female,Electronics And Communication,0,9.36,0,0,1
+1772,Shanaya,me15b1232,20,Female,Mechanical,1,8.0,0,0,1
+1773,Saanvi,cs15b1284,22,Female,Computer Science,1,9.46,0,0,1
+1774,Kaira,cs15b1275,21,Female,Computer Science,2,8.4,0,0,1
+1775,Navya,cv15b1145,22,Female,Civil,0,7.16,0,0,0
+1776,Binu,cs15b1682,20,Male,Computer Science,1,7.38,1,0,0
+1777,Gurunath,me15b1027,21,Male,Mechanical,1,6.17,1,0,0
+1778,Phani,cs15b1540,20,Male,Computer Science,2,7.16,0,0,1
+1779,Chakrapani,it15b1584,20,Male,Information Technology,0,7.14,0,0,0
+1780,Vriti,me15b1016,23,Female,Mechanical,1,7.27,1,0,0
+1781,Aaradhya,it15b1077,22,Female,Information Technology,0,6.24,0,1,1
+1782,Pari,cs15b1607,20,Female,Computer Science,1,8.31,1,0,1
+1783,Sana,cv15b1216,20,Female,Civil,1,8.13,0,0,1
+1784,Harjit,cs15b1152,21,Male,Computer Science,2,7.37,0,1,0
+1785,Amisha,me15b1256,20,Female,Mechanical,0,6.5,1,1,0
+1786,Dayanidhi,it15b1137,22,Male,Information Technology,0,8.35,0,0,1
+1787,Surendranath,cs15b1708,21,Male,Computer Science,1,9.47,1,0,1
+1788,Kyra,el15b1010,21,Female,Electrical,3,6.36,1,1,0
+1789,Krishnappa,cv15b1110,21,Male,Civil,1,8.48,0,0,1
+1790,Kishor,cs15b1204,22,Male,Computer Science,1,8.05,0,0,1
+1791,Sahil,me15b1078,22,Male,Mechanical,1,7.18,1,0,0
+1792,Kavya,cv15b1172,22,Female,Civil,0,6.37,0,0,1
+1793,Amaira,cs15b1501,22,Female,Computer Science,0,8.04,0,1,1
+1794,Anjali,it15b1362,21,Female,Information Technology,0,7.23,0,0,0
+1795,Inaya,cs15b1475,21,Female,Computer Science,1,6.42,0,0,0
+1796,Anaisha,cs15b1270,22,Female,Computer Science,2,8.12,0,0,1
+1797,Anvi,ec15b1405,23,Female,Electronics And Communication,1,7.23,0,1,1
+1798,Anvi,cs15b1090,21,Female,Computer Science,1,8.18,0,0,1
+1799,Amaira,cs15b1125,22,Female,Computer Science,0,6.27,0,0,1
+1800,Govindrao,it15b1401,24,Male,Information Technology,0,6.3,0,0,1
+1801,Maira,it15b1432,20,Female,Information Technology,1,6.39,0,0,0
+1802,Aadhira,me15b1386,21,Female,Mechanical,0,7.13,1,1,0
+1803,Nida,cs15b1415,24,Male,Computer Science,1,6.2,0,0,1
+1804,Maulik,it15b1157,21,Male,Information Technology,2,8.36,0,1,1
+1805,Pitamber,cv15b1107,21,Male,Civil,1,6.23,0,0,0
+1806,Avisha,el15b1209,19,Female,Electrical,1,8.43,0,1,1
+1807,Zoya,ec15b1364,21,Female,Electronics And Communication,1,9.08,0,1,1
+1808,Naveen,cv15b1173,24,Male,Civil,0,5.08,0,0,0
+1809,Sabyasachi,el15b1272,21,Male,Electrical,0,7.02,0,0,0
+1810,Aarna,it15b1284,22,Female,Information Technology,1,7.16,0,0,0
+1811,Inaaya,cs15b1336,26,Female,Computer Science,0,7.23,1,0,1
+1812,Adesh,cs15b1689,21,Male,Computer Science,2,8.43,0,0,1
+1813,Namik,me15b1076,22,Male,Mechanical,2,7.48,1,0,0
+1814,Hitendra,cs15b1324,26,Male,Computer Science,0,6.35,0,1,1
+1815,Pratik,cs15b1005,22,Male,Computer Science,1,7.45,0,0,0
+1816,Gnanasekaran,ec15b1387,21,Male,Electronics And Communication,1,6.35,1,1,0
+1817,Diyara,me15b1350,21,Female,Mechanical,1,6.41,1,1,0
+1818,Aaira,cs15b1546,21,Female,Computer Science,0,8.3,1,0,1
+1819,Manmohan,it15b1646,21,Male,Information Technology,0,8.34,0,0,1
+1820,Aarini,cs15b1107,21,Female,Computer Science,2,5.46,0,1,0
+1821,Aadhira,cs15b1477,23,Female,Computer Science,2,8.06,0,0,1
+1822,Anshika,ec15b1328,20,Female,Electronics And Communication,1,7.36,0,0,0
+1823,Ashwin,cs15b1756,21,Male,Computer Science,1,6.43,0,0,0
+1824,Neelan,it15b1255,21,Male,Information Technology,2,8.03,0,0,1
+1825,Myra,it15b1084,21,Female,Information Technology,0,8.14,0,0,1
+1826,Sara,it15b1075,21,Female,Information Technology,2,7.42,0,0,1
+1827,Jaipal,it15b1685,23,Male,Information Technology,0,6.32,0,0,0
+1828,Myra,cs15b1587,20,Female,Computer Science,0,6.39,0,1,1
+1829,Binu,ec15b1187,21,Male,Electronics And Communication,1,7.32,0,1,0
+1830,Maira,cs15b1246,22,Female,Computer Science,1,7.4,0,0,1
+1831,Dipankar,ec15b1104,24,Male,Electronics And Communication,0,6.35,0,0,1
+1832,Birendra,cs15b1248,21,Male,Computer Science,0,7.23,1,0,0
+1833,Dnyandeo,it15b1482,22,Male,Information Technology,0,8.08,0,0,1
+1834,Nikhil,ec15b1014,21,Male,Electronics And Communication,2,7.16,0,0,1
+1835,Bharat,cs15b1008,22,Male,Computer Science,1,7.33,1,0,0
+1836,Ravichandran,ec15b1140,21,Male,Electronics And Communication,1,8.02,1,1,1
+1837,Sukhbir,cs15b1347,22,Male,Computer Science,1,7.02,0,0,0
+1838,Rohit,it15b1478,20,Male,Information Technology,1,8.43,1,1,1
+1839,Vasudevan,me15b1371,21,Male,Mechanical,0,6.4,1,0,0
+1840,Aaradhya,it15b1242,21,Female,Information Technology,2,8.06,0,1,1
+1841,Dhriti,cs15b1476,22,Female,Computer Science,1,6.02,0,0,0
+1842,Anshi,cs15b1254,22,Female,Computer Science,1,7.31,0,0,1
+1843,Anup,cv15b1271,19,Male,Civil,0,6.07,1,0,0
+1844,Araya,el15b1235,19,Female,Electrical,0,5.49,0,0,0
+1845,Risha,ec15b1274,21,Female,Electronics And Communication,0,7.45,0,0,1
+1846,Nathuram,el15b1265,19,Male,Electrical,1,7.26,0,0,1
+1847,Shekhar,el15b1095,21,Male,Electrical,1,7.02,0,1,1
+1848,Kazi,ec15b1013,21,Male,Electronics And Communication,0,8.23,0,0,1
+1849,Jawahar,it15b1387,21,Male,Information Technology,0,5.12,0,0,0
+1850,Amaira,el15b1081,21,Female,Electrical,1,8.23,0,0,1
+1851,Harshit,el15b1036,22,Male,Electrical,0,6.04,0,0,1
+1852,Gopinathan,cs15b1029,24,Male,Computer Science,0,6.21,0,0,1
+1853,Aanvi,it15b1092,21,Female,Information Technology,0,6.23,0,0,0
+1854,Venkata Swamy,cs15b1584,19,Male,Computer Science,1,6.41,0,0,1
+1855,Aarna,cs15b1063,21,Female,Computer Science,1,7.01,1,0,0
+1856,Vinay,it15b1122,21,Male,Information Technology,0,7.43,0,0,0
+1857,Yogeshwar,cs15b1376,21,Male,Computer Science,1,7.29,0,0,0
+1858,Jaipal,cs15b1281,21,Male,Computer Science,2,7.03,1,0,1
+1859,Sudhir,cv15b1094,21,Male,Civil,1,8.05,0,0,1
+1860,Kiran,el15b1077,22,Female,Electrical,1,7.37,1,1,0
+1861,Maira,ec15b1231,24,Female,Electronics And Communication,1,6.16,1,1,1
+1862,Tarsem,it15b1304,22,Male,Information Technology,0,7.47,0,1,0
+1863,Kiara,el15b1107,22,Female,Electrical,1,7.28,0,0,0
+1864,Devendra,cv15b1127,22,Male,Civil,1,6.37,0,0,0
+1865,Pallav,cs15b1507,20,Male,Computer Science,1,7.19,0,0,0
+1866,Sanjay,el15b1295,20,Male,Electrical,1,8.23,0,0,1
+1867,Kulbhushan,it15b1167,23,Male,Information Technology,1,7.37,0,0,0
+1868,Krishnadev,it15b1202,22,Male,Information Technology,0,8.02,0,0,1
+1869,Amrutlal,it15b1580,21,Male,Information Technology,0,6.46,0,1,0
+1870,Krishnayya,ec15b1423,23,Male,Electronics And Communication,0,8.15,0,0,1
+1871,Thoiba,ec15b1286,21,Male,Electronics And Communication,0,8.15,0,0,1
+1872,Sabyasachi,cv15b1150,26,Male,Civil,1,6.1,0,1,1
+1873,Amisha,cs15b1239,22,Female,Computer Science,1,6.27,0,0,1
+1874,Anshika,it15b1277,21,Female,Information Technology,1,9.31,1,0,1
+1875,Amaira,cs15b1720,20,Female,Computer Science,0,6.21,0,0,0
+1876,Tarun,cs15b1033,24,Male,Computer Science,0,6.2,0,0,1
+1877,Myra,it15b1023,22,Female,Information Technology,0,7.5,0,0,0
+1878,Girish,me15b1358,21,Male,Mechanical,3,6.2,1,0,1
+1879,Avisha,cv15b1238,22,Female,Civil,1,6.19,0,0,0
+1880,Anushka,cv15b1113,22,Female,Civil,0,8.42,0,0,1
+1881,Bishamber,cs15b1384,24,Male,Computer Science,1,7.4,0,0,1
+1882,Upendra,cs15b1222,21,Male,Computer Science,2,7.17,0,0,1
+1883,Arvind,me15b1004,22,Male,Mechanical,0,9.31,0,0,1
+1884,Nitin,cv15b1258,19,Male,Civil,1,7.34,0,0,0
+1885,Kyra,cs15b1553,21,Female,Computer Science,2,7.48,1,0,1
+1886,Dinesh,it15b1445,24,Male,Information Technology,1,7.02,0,0,0
+1887,Nia,ec15b1376,21,Female,Electronics And Communication,0,7.12,0,0,1
+1888,Rajiv,cs15b1417,20,Male,Computer Science,2,5.44,0,0,0
+1889,Mansukh,ec15b1168,22,Male,Electronics And Communication,1,8.01,1,1,1
+1890,Aradhya,cs15b1145,21,Female,Computer Science,1,7.39,0,0,0
+1891,Anvi,el15b1020,23,Female,Electrical,0,5.4,0,0,0
+1892,Sachin,it15b1315,25,Male,Information Technology,0,7.12,0,0,1
+1893,Ishani,me15b1328,20,Female,Mechanical,1,7.27,0,0,0
+1894,Kiara,me15b1239,22,Female,Mechanical,0,8.04,1,0,1
+1895,Rajendra,cs15b1414,23,Male,Computer Science,0,5.29,1,1,0
+1896,Amisha,cv15b1115,21,Female,Civil,0,6.34,0,0,0
+1897,Ajish,cs15b1697,21,Male,Computer Science,2,9.38,1,1,1
+1898,Biju,it15b1598,20,Male,Information Technology,0,8.39,0,1,1
+1899,Jalaj,me15b1131,22,Male,Mechanical,0,7.17,1,0,0
+1900,Diyara,me15b1312,20,Female,Mechanical,0,6.15,1,1,0
+1901,Myra,ec15b1315,22,Female,Electronics And Communication,1,7.05,0,0,0
+1902,Rajendra,cs15b1043,21,Male,Computer Science,1,6.43,0,0,1
+1903,Aseem,cs15b1397,20,Male,Computer Science,0,8.19,0,1,1
+1904,Phani,ec15b1295,22,Male,Electronics And Communication,0,5.45,0,0,0
+1905,Neeraj,ec15b1383,20,Male,Electronics And Communication,1,8.0,1,1,1
+1906,Nagaraj,it15b1460,21,Male,Information Technology,1,8.3,0,0,1
+1907,Sara,it15b1654,22,Female,Information Technology,1,8.2,0,0,1
+1908,Mohindra,it15b1168,23,Male,Information Technology,1,8.28,0,0,1
+1909,Ayaz,cv15b1038,22,Male,Civil,0,6.35,0,0,0
+1910,Aarohi,it15b1356,21,Female,Information Technology,2,8.43,0,0,1
+1911,Ajit,cv15b1264,22,Male,Civil,0,6.1,1,0,0
+1912,Ambika,el15b1158,22,Male,Electrical,1,6.09,1,1,0
+1913,Anvi,ec15b1003,21,Female,Electronics And Communication,2,8.25,0,0,1
+1914,Anisha,ec15b1379,20,Female,Electronics And Communication,1,7.05,0,0,0
+1915,Satish,el15b1213,21,Male,Electrical,1,8.05,0,0,1
+1916,Akshat,cs15b1660,22,Male,Computer Science,2,6.18,0,0,1
+1917,Nana,cs15b1095,21,Male,Computer Science,1,8.0,0,0,1
+1918,Aarya,ec15b1363,21,Female,Electronics And Communication,2,7.02,1,1,1
+1919,Sukhbir,it15b1108,21,Male,Information Technology,1,6.46,0,0,0
+1920,Arushi,ec15b1326,20,Female,Electronics And Communication,0,6.47,0,0,0
+1921,Hriday,cs15b1026,22,Male,Computer Science,1,8.04,0,0,1
+1922,Arjun,it15b1479,21,Male,Information Technology,0,8.46,0,0,1
+1923,Vani,ec15b1001,22,Female,Electronics And Communication,1,8.4,1,1,1
+1924,Akshat,cv15b1068,22,Male,Civil,0,7.34,1,0,0
+1925,Aadhya,ec15b1290,19,Female,Electronics And Communication,0,8.47,0,0,1
+1926,Tanvi,el15b1029,22,Female,Electrical,1,6.23,0,0,0
+1927,Ajish,cv15b1001,21,Male,Civil,0,6.39,0,0,0
+1928,Arjun,it15b1568,21,Male,Information Technology,0,8.09,0,0,1
+1929,Ajit,cs15b1087,21,Male,Computer Science,0,8.13,0,0,1
+1930,Mallikarjuna Rao,me15b1182,21,Male,Mechanical,1,8.07,1,0,1
+1931,Kyra,me15b1257,21,Female,Mechanical,1,5.22,1,0,0
+1932,Ravish,ec15b1163,22,Male,Electronics And Communication,0,7.29,0,0,0
+1933,Anand,cs15b1225,22,Male,Computer Science,1,7.08,0,0,1
+1934,Pranay,me15b1242,21,Male,Mechanical,0,6.34,1,0,0
+1935,Aarohi,cv15b1198,22,Female,Civil,0,8.13,1,0,1
+1936,Pitamber,el15b1327,22,Male,Electrical,2,8.06,0,1,1
+1937,Hitendra,it15b1009,22,Male,Information Technology,2,8.33,0,0,1
+1938,Saina,cs15b1428,22,Female,Computer Science,0,6.39,0,1,0
+1939,Sana,ec15b1118,21,Female,Electronics And Communication,0,7.1,0,0,1
+1940,Nagaraj,cv15b1208,24,Male,Civil,1,6.37,0,0,1
+1941,Karthik,it15b1421,22,Male,Information Technology,0,6.31,0,0,0
+1942,Amaya,el15b1014,23,Female,Electrical,0,5.48,1,0,0
+1943,Arushi,cv15b1059,21,Female,Civil,0,7.16,0,0,0
+1944,Samira,me15b1199,26,Male,Mechanical,1,6.14,1,1,1
+1945,Debabrata,it15b1603,20,Male,Information Technology,1,7.06,0,0,0
+1946,Anjali,me15b1270,22,Female,Mechanical,0,8.13,1,0,1
+1947,Shanaya,it15b1600,21,Female,Information Technology,1,8.17,1,0,1
+1948,Manabendra,cs15b1234,22,Male,Computer Science,1,7.33,0,0,1
+1949,Surendranath,it15b1186,22,Male,Information Technology,1,7.11,1,0,1
+1950,Miraya,cv15b1212,19,Female,Civil,1,7.13,0,0,0
+1951,Narendra,cs15b1068,21,Male,Computer Science,1,6.16,1,0,0
+1952,Ishani,me15b1330,19,Female,Mechanical,1,8.32,1,0,1
+1953,Prataprao,it15b1257,21,Male,Information Technology,2,7.33,0,0,1
+1954,Karthikeyan,cs15b1041,24,Male,Computer Science,0,7.11,0,1,1
+1955,Amaira,cs15b1627,22,Female,Computer Science,1,6.05,0,0,0
+1956,Muthuswamy,it15b1136,22,Male,Information Technology,2,6.44,0,0,1
+1957,Tara,el15b1281,21,Female,Electrical,1,7.18,0,0,1
+1958,Anshi,me15b1410,22,Female,Mechanical,0,6.29,1,0,0
+1959,Lakshan,cv15b1249,22,Male,Civil,1,8.04,0,0,1
+1960,Tanvi,me15b1073,21,Female,Mechanical,2,6.34,1,0,1
+1961,Aaria,cs15b1493,20,Female,Computer Science,0,8.38,1,0,1
+1962,Anika,el15b1195,23,Female,Electrical,1,8.46,0,0,1
+1963,Aarini,el15b1033,22,Female,Electrical,2,8.16,0,1,1
+1964,Humayun,cs15b1588,21,Male,Computer Science,1,8.33,1,0,1
+1965,Giridhar,cs15b1276,21,Male,Computer Science,2,8.01,1,0,1
+1966,Pramod,el15b1013,21,Male,Electrical,1,6.01,0,0,1
+1967,Amara,el15b1007,21,Female,Electrical,1,7.33,1,1,1
+1968,Amrik,cv15b1206,22,Male,Civil,0,7.44,0,0,0
+1969,Nysa,cs15b1182,25,Female,Computer Science,0,7.41,0,0,0
+1970,Araya,it15b1286,22,Female,Information Technology,1,9.42,0,0,1
+1971,Sudhir,it15b1191,22,Male,Information Technology,0,6.32,0,0,1
+1972,Aarna,it15b1535,19,Female,Information Technology,2,8.2,0,0,1
+1973,Ashwin,ec15b1400,23,Male,Electronics And Communication,1,6.33,1,1,0
+1974,Narendra,cs15b1263,21,Male,Computer Science,1,8.5,0,1,1
+1975,Aaria,el15b1065,22,Female,Electrical,0,7.27,0,1,0
+1976,Miraya,it15b1279,21,Female,Information Technology,0,9.07,0,0,1
+1977,Hansraj,cs15b1022,21,Male,Computer Science,1,8.07,0,0,1
+1978,Srikanta,it15b1443,22,Male,Information Technology,1,6.46,1,0,0
+1979,Bali,it15b1628,20,Male,Information Technology,1,9.3,0,0,1
+1980,Arushi,it15b1161,22,Female,Information Technology,1,7.08,0,0,0
+1981,Birendra,it15b1207,21,Male,Information Technology,0,8.35,0,0,1
+1982,Anika,it15b1143,21,Female,Information Technology,2,7.41,0,1,0
+1983,Anushka,ec15b1166,21,Female,Electronics And Communication,1,8.13,0,0,1
+1984,Raghu,cs15b1538,20,Male,Computer Science,0,6.14,0,1,0
+1985,Dnyandeo,it15b1273,21,Male,Information Technology,2,9.02,0,0,1
+1986,Dhinakaran,it15b1463,20,Male,Information Technology,0,8.23,0,0,1
+1987,Tithira,cs15b1124,21,Female,Computer Science,3,8.13,0,0,1
+1988,Ramakant,cs15b1453,21,Male,Computer Science,0,6.06,0,1,0
+1989,Vriti,it15b1645,20,Female,Information Technology,0,6.05,0,0,0
+1990,Rahil,ec15b1199,21,Male,Electronics And Communication,0,6.2,0,0,0
+1991,Pranav,cs15b1137,21,Male,Computer Science,0,7.07,0,1,0
+1992,Ziya,ec15b1241,21,Female,Electronics And Communication,0,6.31,0,0,0
+1993,Anaya,ec15b1180,26,Female,Electronics And Communication,1,7.23,1,1,0
+1994,Vallathol,el15b1103,21,Male,Electrical,0,7.3,0,0,1
+1995,Abhay,ec15b1266,19,Male,Electronics And Communication,1,7.12,0,0,1
+1996,Bellamkonda,cs15b1482,20,Male,Computer Science,0,7.17,0,0,0
+1997,Humayun,el15b1307,20,Male,Electrical,0,8.2,1,0,1
+1998,Vinay,it15b1447,24,Male,Information Technology,2,8.4,0,0,1
+1999,Hitesh,ec15b1025,22,Male,Electronics And Communication,1,5.38,1,0,0
+2000,Anika,cs15b1236,22,Female,Computer Science,1,7.42,1,0,0
+2001,Aadya,me15b1003,22,Female,Mechanical,1,8.01,1,0,1
+2002,Maira,me15b1042,22,Female,Mechanical,0,8.14,1,1,1
+2003,Aairah,cv15b1023,21,Female,Civil,1,7.21,1,0,0
+2004,Sudhir,cv15b1035,22,Male,Civil,1,6.11,1,0,0
+2005,Yash,me15b1339,19,Male,Mechanical,1,6.47,1,0,0
+2006,Manmohan,ec15b1174,21,Male,Electronics And Communication,0,8.19,0,0,1
+2007,Kiara,ec15b1344,22,Female,Electronics And Communication,2,7.09,0,0,0
+2008,Manabendra,it15b1472,20,Male,Information Technology,1,8.02,1,0,1
+2009,Ishita,cs15b1140,21,Female,Computer Science,1,6.34,0,0,0
+2010,Tarun,cs15b1200,21,Male,Computer Science,1,6.3,1,0,1
+2011,Avni,cs15b1110,21,Female,Computer Science,0,6.0,0,1,0
+2012,Anika,me15b1340,22,Female,Mechanical,0,6.25,1,0,0
+2013,Anika,it15b1480,21,Female,Information Technology,1,8.07,1,0,1
+2014,Subbiah,ec15b1214,24,Male,Electronics And Communication,0,5.47,0,0,0
+2015,Virat,cs15b1073,22,Male,Computer Science,1,7.19,1,0,0
+2016,Adesh,cs15b1255,21,Male,Computer Science,1,8.09,1,1,1
+2017,Prataprao,me15b1020,22,Male,Mechanical,0,5.11,1,0,0
+2018,Sundar,ec15b1317,20,Male,Electronics And Communication,0,7.41,0,0,1
+2019,Rajinder,cs15b1298,21,Male,Computer Science,2,9.22,0,0,1
+2020,Anshika,cv15b1167,23,Female,Civil,0,8.03,0,0,1
+2021,Vinay,it15b1377,21,Male,Information Technology,0,8.41,0,0,1
+2022,Prabodh Chandra,cs15b1023,21,Male,Computer Science,1,9.34,0,0,1
+2023,Nitin,cv15b1253,22,Male,Civil,0,8.34,1,0,1
+2024,Anurag,it15b1577,22,Male,Information Technology,0,6.24,0,0,0
+2025,Mehul,ec15b1181,25,Male,Electronics And Communication,1,6.31,0,0,1
+2026,Binu,cv15b1125,21,Male,Civil,2,7.01,0,0,0
+2027,Nitesh,cs15b1702,21,Male,Computer Science,0,7.46,1,0,0
+2028,Diya,cv15b1081,23,Female,Civil,1,7.16,0,1,0
+2029,Yashika,it15b1459,23,Female,Information Technology,0,8.15,0,0,1
+2030,Yash,it15b1129,22,Male,Information Technology,1,8.15,1,0,1
+2031,Uday,cs15b1510,20,Male,Computer Science,1,8.0,0,0,1
+2032,Aarohi,cs15b1363,21,Female,Computer Science,0,7.38,0,1,0
+2033,Mansukh,cs15b1180,21,Male,Computer Science,0,8.07,0,0,1
+2034,Samaira,cv15b1210,21,Female,Civil,1,7.42,0,0,0
+2035,Arun,me15b1310,19,Male,Mechanical,0,7.04,1,0,0
+2036,Prannoy,ec15b1368,21,Male,Electronics And Communication,0,8.22,0,0,1
+2037,Miraya,it15b1189,21,Female,Information Technology,1,8.35,0,0,1
+2038,Chamaraja,cs15b1115,21,Male,Computer Science,1,6.47,0,0,0
+2039,Mansukh,cv15b1307,21,Male,Civil,1,8.15,0,0,1
+2040,Birendra,me15b1155,21,Male,Mechanical,2,8.11,1,0,1
+2041,Nana,cs15b1286,22,Male,Computer Science,2,7.15,0,1,0
+2042,Myra,cs15b1319,22,Female,Computer Science,1,8.1,0,0,1
+2043,Amarsinh,me15b1302,19,Male,Mechanical,0,7.28,1,0,0
+2044,Akshat,it15b1316,24,Male,Information Technology,1,6.43,0,1,1
+2045,Anshita,ec15b1273,19,Female,Electronics And Communication,0,8.46,0,0,1
+2046,Randhir,cv15b1074,22,Male,Civil,0,6.18,0,0,0
+2047,Satish,me15b1301,20,Male,Mechanical,0,7.13,1,1,1
+2048,Nitish,cs15b1471,22,Male,Computer Science,0,7.48,0,0,0
+2049,Diya,cs15b1096,21,Female,Computer Science,0,8.3,0,1,1
+2050,Aadya,me15b1351,20,Female,Mechanical,1,8.11,1,0,1
+2051,Aritra,el15b1054,22,Male,Electrical,1,7.31,0,0,0
+2052,Amisha,cv15b1268,22,Female,Civil,0,7.32,0,0,0
+2053,Myra,cs15b1262,21,Female,Computer Science,2,7.35,0,0,1
+2054,Aaradhya,cs15b1636,20,Female,Computer Science,1,7.45,0,0,0
+2055,Aarchi,cs15b1679,21,Female,Computer Science,2,6.45,0,0,1
+2056,Hriday,el15b1238,22,Male,Electrical,0,8.27,0,0,1
+2057,Deepak,el15b1083,24,Male,Electrical,1,7.22,0,0,1
+2058,Ajay,el15b1135,21,Male,Electrical,0,8.14,1,0,1
+2059,Hansraj,me15b1321,22,Male,Mechanical,0,8.42,0,0,1
+2060,Sambhunath,cv15b1191,20,Male,Civil,0,6.26,0,1,0
+2061,Aniket,el15b1048,21,Male,Electrical,1,6.34,0,0,0
+2062,Ajit,cs15b1555,22,Male,Computer Science,2,7.32,0,0,0
+2063,Navya,ec15b1123,22,Female,Electronics And Communication,0,7.18,0,0,0
+2064,Rajendra,cs15b1170,21,Male,Computer Science,1,8.34,1,0,1
+2065,Kiara,cs15b1080,22,Female,Computer Science,2,7.14,0,0,1
+2066,Dinesh,cs15b1490,20,Male,Computer Science,1,8.35,0,0,1
+2067,Saiya,me15b1174,22,Female,Mechanical,0,9.4,1,0,1
+2068,Tarun,me15b1099,23,Male,Mechanical,1,8.13,1,0,1
+2069,Prannoy,it15b1118,22,Male,Information Technology,0,6.47,0,1,1
+2070,Chakrapani,me15b1082,21,Male,Mechanical,1,8.16,1,0,1
+2071,Yashika,it15b1260,22,Female,Information Technology,2,8.02,0,0,1
+2072,Aseem,me15b1356,20,Male,Mechanical,0,7.23,1,0,0
+2073,Araina,cv15b1020,22,Female,Civil,0,5.07,0,0,0
+2074,Gurunath,cv15b1062,22,Male,Civil,1,6.1,0,0,0
+2075,Anvita,ec15b1022,22,Female,Electronics And Communication,0,7.36,0,0,1
+2076,Lakshan,it15b1091,22,Male,Information Technology,0,6.47,0,0,0
+2077,Saisha,cs15b1371,22,Female,Computer Science,1,8.22,0,0,1
+2078,Rohit,cs15b1516,20,Male,Computer Science,1,8.2,1,0,1
+2079,Narendra,it15b1291,22,Male,Information Technology,1,8.28,0,0,1
+2080,Myra,me15b1086,22,Female,Mechanical,2,6.27,1,0,1
+2081,Tanmay,cs15b1468,22,Male,Computer Science,1,8.23,0,0,1
+2082,Kiran,me15b1021,21,Female,Mechanical,1,5.05,1,0,0
+2083,Ramakant,it15b1239,21,Male,Information Technology,1,6.06,1,1,1
+2084,Harsh,it15b1342,22,Male,Information Technology,2,8.49,0,0,1
+2085,Aniruddha,me15b1210,21,Male,Mechanical,0,6.15,1,1,0
+2086,Kalanidhi,it15b1338,22,Male,Information Technology,0,8.24,0,0,1
+2087,Dayanidhi,it15b1022,22,Male,Information Technology,0,8.26,0,0,1
+2088,Utkarsh,ec15b1230,24,Male,Electronics And Communication,0,8.45,0,0,1
+2089,Shanaya,cs15b1618,19,Female,Computer Science,0,8.09,1,0,1
+2090,Chakrapani,ec15b1229,23,Male,Electronics And Communication,0,8.38,0,0,1
+2091,Munish,cv15b1006,22,Male,Civil,0,8.08,1,0,1
+2092,Kalimuthu,cs15b1673,21,Male,Computer Science,1,7.24,1,0,0
+2093,Puran,el15b1106,21,Male,Electrical,0,6.23,0,0,0
+2094,Aarna,el15b1031,21,Female,Electrical,1,7.05,0,0,1
+2095,Tanvi,it15b1190,21,Female,Information Technology,0,6.36,0,0,1
+2096,Aashi,it15b1415,22,Female,Information Technology,1,6.35,0,0,0
+2097,Amit,it15b1581,22,Male,Information Technology,1,7.16,0,0,0
+2098,Aarohi,cs15b1355,21,Female,Computer Science,2,6.32,0,0,1
+2099,Nitin,cv15b1187,23,Male,Civil,0,5.22,0,0,0
+2100,Faizal,me15b1162,21,Male,Mechanical,1,7.01,1,0,0
+2101,Abhinav,it15b1375,20,Male,Information Technology,0,6.4,0,0,0
+2102,Navya,it15b1011,21,Female,Information Technology,0,8.02,0,0,1
+2103,Tanmay,me15b1100,24,Male,Mechanical,0,9.28,0,1,1
+2104,Pihu,ec15b1280,22,Female,Electronics And Communication,0,6.46,0,0,0
+2105,Ishika,me15b1121,22,Female,Mechanical,1,6.26,0,0,0
+2106,Arya,ec15b1354,21,Female,Electronics And Communication,1,7.44,0,1,1
+2107,Lakshman,cs15b1062,22,Male,Computer Science,0,7.34,0,0,0
+2108,Kalanidhi,cs15b1617,19,Male,Computer Science,0,6.45,0,0,0
+2109,Amrutlal,it15b1537,20,Male,Information Technology,1,6.41,0,1,0
+2110,Diyara,cs15b1369,21,Female,Computer Science,0,7.29,0,0,0
+2111,Aarvi,ec15b1351,20,Female,Electronics And Communication,1,6.42,0,1,0
+2112,Surendranath,cs15b1177,21,Male,Computer Science,1,8.46,0,0,1
+2113,Neeraj,it15b1144,21,Male,Information Technology,1,8.08,0,1,1
+2114,Sivaprasad,me15b1124,22,Male,Mechanical,0,6.14,1,0,0
+2115,Pratik,el15b1130,21,Male,Electrical,1,7.29,1,0,1
+2116,Vallathol,cv15b1269,22,Male,Civil,1,6.07,1,0,0
+2117,Ishita,cv15b1132,21,Female,Civil,1,7.32,1,0,0
+2118,Jalaj,cs15b1396,22,Male,Computer Science,1,8.39,0,0,1
+2119,Byramjee,cs15b1683,20,Male,Computer Science,0,7.04,1,0,0
+2120,Aniket,ec15b1395,20,Male,Electronics And Communication,0,6.45,0,0,0
+2121,Anshita,el15b1181,23,Female,Electrical,1,6.49,0,1,0
+2122,Paridhi,el15b1253,20,Male,Electrical,0,8.18,0,1,1
+2123,Anusha,cv15b1083,26,Female,Civil,0,9.46,0,0,1
+2124,Sarabjit,it15b1589,20,Male,Information Technology,0,7.22,0,1,0
+2125,Satyajit,cv15b1142,21,Male,Civil,1,7.03,0,0,0
+2126,Gurunath,cs15b1410,22,Male,Computer Science,1,8.02,0,0,1
+2127,Vineet,me15b1065,21,Male,Mechanical,1,6.0,1,0,0
+2128,Bhavesh,me15b1103,23,Male,Mechanical,0,9.25,1,1,1
+2129,Aarchi,cs15b1148,22,Female,Computer Science,2,6.01,0,0,1
+2130,Arjun,me15b1411,23,Male,Mechanical,0,8.5,1,1,1
+2131,Kyra,cv15b1102,22,Female,Civil,1,8.49,0,0,1
+2132,Anaya,cv15b1063,21,Female,Civil,1,8.39,0,0,1
+2133,Tarsem,el15b1027,22,Male,Electrical,1,8.43,0,1,1
+2134,Anshita,ec15b1065,21,Female,Electronics And Communication,0,6.49,0,0,0
+2135,Prataprao,ec15b1307,20,Male,Electronics And Communication,1,8.36,0,0,1
+2136,Dnyandeo,me15b1084,22,Male,Mechanical,2,7.4,1,0,0
+2137,Kavya,cs15b1497,21,Female,Computer Science,1,8.38,0,0,1
+2138,Samira,it15b1126,22,Male,Information Technology,1,7.3,0,0,0
+2139,Nitin,cs15b1758,23,Male,Computer Science,0,7.23,1,1,0
+2140,Aarvi,cv15b1119,22,Female,Civil,2,7.08,0,0,0
+2141,Araya,cs15b1505,21,Female,Computer Science,1,8.29,0,0,1
+2142,Ganpatrao,cs15b1220,22,Male,Computer Science,1,7.34,0,0,1
+2143,Joglekar,cs15b1224,21,Male,Computer Science,0,6.12,1,0,1
+2144,Ahaana,it15b1179,21,Female,Information Technology,2,8.32,0,0,1
+2145,Venkataraman,cs15b1649,21,Male,Computer Science,0,7.09,0,0,0
+2146,Yogeshwar,cs15b1342,24,Male,Computer Science,0,6.33,0,0,1
+2147,Angad,cs15b1656,19,Male,Computer Science,1,6.31,0,0,0
+2148,Varghese,me15b1051,22,Male,Mechanical,0,8.11,1,0,1
+2149,Aanvi,me15b1110,21,Female,Mechanical,0,8.42,1,0,1
+2150,Yash,ec15b1371,20,Male,Electronics And Communication,0,8.44,0,0,1
+2151,Rahil,it15b1182,22,Male,Information Technology,1,7.19,1,0,1
+2152,Rohit,el15b1133,22,Male,Electrical,0,9.43,0,0,1
+2153,Kishor,it15b1078,22,Male,Information Technology,2,7.47,0,1,1
+2154,Kazi,me15b1015,23,Male,Mechanical,0,6.36,1,1,1
+2155,Byramjee,me15b1422,23,Male,Mechanical,0,8.12,1,0,1
+2156,Tithira,it15b1324,24,Female,Information Technology,0,7.24,0,0,1
+2157,Surendranath,ec15b1147,22,Male,Electronics And Communication,1,7.06,0,1,0
+2158,Krishnadev,el15b1141,22,Male,Electrical,0,9.3,0,0,1
+2159,Aarchi,it15b1452,20,Female,Information Technology,0,6.08,0,0,0
+2160,Anaisha,cv15b1022,21,Female,Civil,1,6.49,0,0,0
+2161,Sekar,cs15b1609,22,Male,Computer Science,2,8.39,1,0,1
+2162,Ishani,ec15b1346,19,Female,Electronics And Communication,1,8.03,0,1,1
+2163,Dhinakaran,me15b1007,22,Male,Mechanical,0,8.05,1,1,1
+2164,Khakhar,cs15b1119,21,Male,Computer Science,2,7.02,0,0,1
+2165,Vineet,el15b1301,20,Male,Electrical,1,7.39,0,0,1
+2166,Ishani,it15b1417,21,Female,Information Technology,0,6.09,0,0,0
+2167,Gopinathan,me15b1324,22,Male,Mechanical,1,6.29,1,0,0
+2168,Sandipan,it15b1635,20,Male,Information Technology,0,9.45,0,0,1
+2169,Satish,el15b1208,21,Male,Electrical,0,8.39,0,0,1
+2170,Krishnadev,ec15b1073,22,Male,Electronics And Communication,3,8.06,1,1,1
+2171,Aradhya,ec15b1234,22,Female,Electronics And Communication,0,7.47,0,0,0
+2172,Ziva,el15b1146,21,Female,Electrical,1,8.21,1,1,1
+2173,Vriti,me15b1197,25,Female,Mechanical,0,7.12,1,0,0
+2174,Srinivas,it15b1614,20,Male,Information Technology,0,8.28,0,0,1
+2175,Aarchi,ec15b1329,21,Female,Electronics And Communication,0,7.16,0,0,1
+2176,Yashika,cs15b1332,26,Female,Computer Science,0,6.08,0,1,1
+2177,Pramod,el15b1189,22,Male,Electrical,1,6.03,1,1,0
+2178,Ziya,it15b1605,21,Female,Information Technology,1,8.36,1,0,1
+2179,Anushka,ec15b1284,21,Female,Electronics And Communication,2,8.38,1,1,1
+2180,Harish,cs15b1240,22,Male,Computer Science,2,7.5,0,0,1
+2181,Bhushan,it15b1677,23,Male,Information Technology,1,8.01,1,0,1
+2182,Venkata Swamy,cs15b1528,19,Male,Computer Science,1,8.24,0,0,1
+2183,Ziya,cs15b1267,21,Female,Computer Science,2,7.35,0,0,1
+2184,Nida,cs15b1093,22,Male,Computer Science,1,8.41,1,0,1
+2185,Sarabjit,ec15b1079,22,Male,Electronics And Communication,0,8.17,0,0,1
+2186,Bali,cs15b1455,20,Male,Computer Science,3,7.31,0,1,0
+2187,Shekhar,cs15b1021,22,Male,Computer Science,3,9.03,0,0,1
+2188,Sasha,cs15b1192,24,Female,Computer Science,1,8.29,1,0,1
+2189,Kiara,cs15b1378,22,Female,Computer Science,1,6.45,1,0,0
+2190,Kulasekhara,it15b1539,19,Male,Information Technology,0,6.26,0,0,0
+2191,Arun,cv15b1123,22,Male,Civil,2,8.44,0,1,1
+2192,Mehul,it15b1100,22,Male,Information Technology,1,5.24,0,0,0
+2193,Anusha,cv15b1288,20,Female,Civil,0,7.27,0,1,0
+2194,Shanaya,cs15b1280,22,Female,Computer Science,1,7.41,0,1,0
+2195,Dhriti,me15b1283,20,Female,Mechanical,0,8.08,1,1,1
+2196,Anurag,me15b1072,22,Male,Mechanical,0,7.13,1,0,1
+2197,Abhay,ec15b1292,19,Male,Electronics And Communication,2,8.45,1,1,1
+2198,Viara,ec15b1212,22,Female,Electronics And Communication,0,6.0,0,0,1
+2199,Satish,me15b1226,24,Male,Mechanical,1,8.06,1,0,1
+2200,Adesh,cv15b1033,21,Male,Civil,0,7.1,1,0,1
+2201,Sara,it15b1271,21,Female,Information Technology,1,9.49,0,0,1
+2202,Arun,ec15b1348,22,Male,Electronics And Communication,1,6.03,0,0,0
+2203,Ishani,el15b1045,22,Female,Electrical,2,6.31,0,1,0
+2204,Shanaya,cs15b1251,22,Female,Computer Science,1,8.25,1,0,1
+2205,Manmohan,cs15b1561,22,Male,Computer Science,1,9.02,0,0,1
+2206,Saiya,ec15b1297,19,Female,Electronics And Communication,1,8.02,0,1,1
+2207,Amaira,cs15b1488,21,Female,Computer Science,0,6.41,0,0,0
+2208,Paridhi,me15b1154,22,Male,Mechanical,1,8.31,1,0,1
+2209,Abhijit,cs15b1727,20,Male,Computer Science,0,6.29,0,0,0
+2210,Anvi,cs15b1288,21,Female,Computer Science,2,8.18,1,0,1
+2211,Rahil,el15b1092,21,Male,Electrical,0,8.35,0,0,1
+2212,Saina,ec15b1047,22,Female,Electronics And Communication,0,7.13,0,0,0
+2213,Nia,it15b1493,20,Female,Information Technology,1,8.3,0,0,1
+2214,Harilal,ec15b1196,22,Male,Electronics And Communication,0,8.04,0,0,1
+2215,Ravichandran,me15b1170,21,Male,Mechanical,1,9.44,1,0,1
+2216,Girish,cs15b1451,23,Male,Computer Science,1,6.46,0,0,0
+2217,Srikanta,ec15b1410,23,Male,Electronics And Communication,0,7.23,0,0,1
+2218,Aaria,me15b1063,22,Female,Mechanical,0,7.48,1,0,0
+2219,Jadunath,cs15b1070,22,Male,Computer Science,0,8.29,0,0,1
+2220,Kaustubh,el15b1310,21,Male,Electrical,0,6.12,0,1,0
+2221,Ravinder,it15b1170,26,Male,Information Technology,1,7.22,0,0,1
+2222,Navya,it15b1585,21,Female,Information Technology,0,6.17,0,0,0
+2223,Anvi,me15b1014,23,Female,Mechanical,2,7.11,1,0,1
+2224,Humayun,it15b1152,22,Male,Information Technology,1,8.33,0,0,1
+2225,Sambhunath,me15b1032,22,Male,Mechanical,0,8.06,1,1,1
+2226,Diya,it15b1293,22,Female,Information Technology,1,9.23,0,0,1
+2227,Neelan,ec15b1260,21,Male,Electronics And Communication,0,8.25,0,0,1
+2228,Bibek,it15b1613,21,Male,Information Technology,1,7.33,0,0,0
+2229,Anvi,el15b1115,21,Female,Electrical,2,8.17,0,0,1
+2230,Uday,cv15b1040,22,Male,Civil,0,6.05,0,0,1
+2231,Pari,cs15b1097,22,Female,Computer Science,1,6.43,0,0,0
+2232,Arhaan,cv15b1163,22,Male,Civil,0,8.34,0,0,1
+2233,Subbiah,ec15b1357,20,Male,Electronics And Communication,0,6.35,0,0,0
+2234,Ranbir,me15b1044,21,Male,Mechanical,1,6.39,1,0,0
+2235,Sneha,cs15b1049,21,Female,Computer Science,1,6.23,0,0,0
+2236,Jaipal,cs15b1774,22,Male,Computer Science,0,8.22,0,0,1
+2237,Gunda,it15b1341,21,Male,Information Technology,1,8.09,0,0,1
+2238,Aarya,cs15b1296,21,Female,Computer Science,1,7.33,0,0,0
+2239,Mansukh,el15b1247,22,Male,Electrical,0,8.44,0,0,1
+2240,Shreyas,it15b1205,22,Male,Information Technology,1,8.14,0,1,1
+2241,Faizal,it15b1596,20,Male,Information Technology,0,6.15,0,0,0
+2242,Kyra,cs15b1674,21,Female,Computer Science,1,8.06,0,0,1
+2243,Gurcharan,cv15b1036,21,Male,Civil,0,8.43,0,0,1
+2244,Avira,me15b1209,21,Female,Mechanical,0,7.48,1,0,0
+2245,Aadya,ec15b1408,21,Female,Electronics And Communication,0,8.43,0,0,1
+2246,Aadya,cv15b1192,23,Female,Civil,1,6.25,0,1,0
+2247,Kyra,me15b1406,21,Female,Mechanical,0,8.36,1,0,1
+2248,Arjun,el15b1234,20,Male,Electrical,0,5.16,0,0,0
+2249,Araya,it15b1241,22,Female,Information Technology,1,7.04,0,0,1
+2250,Shanaya,cs15b1024,21,Female,Computer Science,0,8.26,0,0,1
+2251,Prataprao,cs15b1562,21,Male,Computer Science,1,7.12,0,1,1
+2252,Vritika,cs15b1563,19,Female,Computer Science,0,8.11,0,0,1
+2253,Suresh,ec15b1029,22,Male,Electronics And Communication,1,8.22,0,0,1
+2254,Sambhunath,me15b1093,22,Male,Mechanical,1,7.2,1,1,0
+2255,Upendra,it15b1282,21,Male,Information Technology,0,8.15,0,0,1
+2256,Neelan,it15b1309,21,Male,Information Technology,0,8.47,0,0,1
+2257,Harmeet,cs15b1312,22,Male,Computer Science,0,7.47,0,1,0
+2258,Kalpesh,it15b1358,21,Male,Information Technology,1,6.18,0,0,0
+2259,Aanvi,el15b1297,21,Female,Electrical,1,9.2,0,0,1
+2260,Aiza,el15b1286,21,Female,Electrical,0,8.09,0,0,1
+2261,Ananya,cv15b1151,26,Male,Civil,0,7.22,0,0,0
+2262,Sumit,it15b1289,21,Male,Information Technology,1,8.44,0,0,1
+2263,Inaya,cs15b1256,22,Female,Computer Science,1,7.14,0,0,1
+2264,Mahboob,ec15b1372,20,Male,Electronics And Communication,1,9.27,1,1,1
+2265,Bibek,cs15b1274,21,Male,Computer Science,2,7.28,1,1,0
+2266,Ahaana,cs15b1128,21,Female,Computer Science,0,7.16,0,0,1
+2267,Rinjish,cs15b1646,28,Male,Computer Science,0,6.09,0,0,1
+2268,Amaira,it15b1134,21,Female,Information Technology,0,7.15,0,0,0
+2269,Shanaya,ec15b1018,24,Female,Electronics And Communication,0,5.18,0,0,0
+2270,Myra,ec15b1355,21,Female,Electronics And Communication,1,8.46,0,0,1
+2271,Uday,cs15b1077,22,Male,Computer Science,0,7.48,0,0,0
+2272,Prataprao,it15b1164,26,Male,Information Technology,0,8.31,0,0,1
+2273,Vritika,cv15b1116,21,Female,Civil,1,7.44,0,0,0
+2274,Gnanasekaran,cs15b1626,19,Male,Computer Science,1,8.28,0,0,1
+2275,Aarohi,el15b1110,21,Female,Electrical,0,6.2,0,0,0
+2276,Jaipal,ec15b1238,21,Male,Electronics And Communication,0,6.47,0,0,0
+2277,Arya,me15b1057,22,Female,Mechanical,0,8.47,1,1,1
+2278,Binu,me15b1008,22,Male,Mechanical,0,8.14,1,0,1
+2279,Manmohan,cs15b1067,22,Male,Computer Science,1,7.07,0,0,0
+2280,Humayun,cs15b1547,19,Male,Computer Science,2,7.4,0,1,0
+2281,Lakshman,it15b1048,21,Male,Information Technology,0,7.41,0,0,1
+2282,Ira,me15b1105,24,Female,Mechanical,0,6.31,1,0,1
+2283,Amaya,cs15b1440,20,Female,Computer Science,1,5.36,0,0,0
+2284,Dipankar,el15b1041,22,Male,Electrical,0,6.45,0,0,0
+2285,Thoiba,cv15b1302,21,Male,Civil,0,8.06,0,0,1
+2286,Avira,it15b1386,24,Female,Information Technology,0,6.25,0,0,1
+2287,Shreya,cs15b1647,22,Female,Computer Science,1,7.35,0,0,0
+2288,Apoorva,it15b1476,20,Male,Information Technology,0,7.05,0,1,1
+2289,Lakshman,it15b1165,24,Male,Information Technology,0,8.46,0,0,1
+2290,Jawahar,cv15b1156,22,Male,Civil,0,8.49,1,1,1
+2291,Paridhi,it15b1119,21,Male,Information Technology,1,8.25,0,0,1
+2292,Manmohan,me15b1143,21,Male,Mechanical,2,6.45,1,0,1
+2293,Amara,cs15b1161,22,Female,Computer Science,2,7.09,0,0,1
+2294,Shekhar,el15b1246,21,Male,Electrical,0,7.11,0,0,0
+2295,Dhinakaran,me15b1243,20,Male,Mechanical,0,6.24,1,0,0
+2296,Nida,it15b1546,19,Male,Information Technology,0,7.18,0,0,0
+2297,Dhriti,cs15b1433,20,Female,Computer Science,0,8.1,0,0,1
+2298,Shanaya,it15b1542,22,Female,Information Technology,1,8.27,1,0,1
+2299,Prataprao,cs15b1301,22,Male,Computer Science,1,8.48,1,0,1
+2300,Akshat,el15b1222,21,Male,Electrical,1,7.24,0,0,1
+2301,Anupam,it15b1188,21,Male,Information Technology,0,8.16,0,0,1
+2302,Aadhira,it15b1281,22,Female,Information Technology,0,7.04,0,0,0
+2303,Hitesh,it15b1087,21,Male,Information Technology,2,8.21,0,0,1
+2304,Anika,el15b1145,21,Female,Electrical,0,8.15,0,0,1
+2305,Ishita,cs15b1406,23,Female,Computer Science,2,7.47,0,1,1
+2306,Anika,me15b1091,22,Female,Mechanical,1,6.13,1,0,0
+2307,Kavya,cs15b1187,23,Female,Computer Science,1,6.06,0,0,1
+2308,Devendra,cv15b1219,21,Male,Civil,0,7.3,0,0,0
+2309,Aaira,ec15b1132,22,Female,Electronics And Communication,1,6.38,0,0,0
+2310,Prataprao,it15b1275,22,Male,Information Technology,2,8.03,0,0,1
+2311,Aarna,it15b1131,22,Female,Information Technology,1,6.38,0,0,0
+2312,Amit,it15b1533,21,Male,Information Technology,1,7.47,0,0,1
+2313,Nibaran,me15b1337,19,Male,Mechanical,0,7.45,1,0,0
+2314,Rajiv,cv15b1154,22,Male,Civil,1,7.24,0,0,0
+2315,Avira,it15b1633,21,Female,Information Technology,0,7.39,0,0,0
+2316,Amarjit,it15b1390,22,Male,Information Technology,0,8.42,0,0,1
+2317,Mehul,me15b1085,21,Male,Mechanical,1,6.15,1,0,0
+2318,Kyra,me15b1238,24,Female,Mechanical,1,8.02,1,1,1
+2319,Dhriti,cv15b1166,20,Female,Civil,0,8.06,0,0,1
+2320,Sarabjit,cv15b1069,21,Male,Civil,2,6.47,0,0,0
+2321,Tara,me15b1408,22,Female,Mechanical,1,8.39,1,1,1
+2322,Pallav,me15b1331,21,Male,Mechanical,0,8.25,1,0,1
+2323,Sundar,ec15b1100,21,Male,Electronics And Communication,1,6.44,0,0,0
+2324,Sundar,el15b1333,21,Male,Electrical,0,7.35,0,0,0
+2325,Shekhar,it15b1644,20,Male,Information Technology,0,6.09,0,0,0
+2326,Amaira,cs15b1158,21,Female,Computer Science,2,8.05,0,0,1
+2327,Miraya,ec15b1070,21,Female,Electronics And Communication,0,8.31,0,1,1
+2328,Rajendra,it15b1300,22,Male,Information Technology,0,9.21,0,0,1
+2329,Nadeem,ec15b1182,25,Male,Electronics And Communication,0,6.37,0,0,1
+2330,Chakrapani,me15b1389,20,Male,Mechanical,0,8.42,1,0,1
+2331,Ravish,ec15b1301,19,Male,Electronics And Communication,1,6.17,0,1,1
+2332,Dileesh,it15b1499,20,Male,Information Technology,0,6.45,0,0,0
+2333,Yash,cs15b1652,19,Male,Computer Science,2,6.31,0,0,1
+2334,Nibaran,el15b1127,21,Male,Electrical,2,7.49,1,1,1
+2335,Nadeem,me15b1188,22,Male,Mechanical,0,8.38,1,0,1
+2336,Deepak,cs15b1393,20,Male,Computer Science,1,6.14,0,0,0
+2337,Jaipal,cs15b1019,22,Male,Computer Science,1,9.02,0,0,1
+2338,Kirpa,ec15b1310,21,Male,Electronics And Communication,0,8.22,0,0,1
+2339,Vasudevan,ec15b1185,21,Male,Electronics And Communication,0,7.21,0,0,1
+2340,Subrata,ec15b1089,22,Male,Electronics And Communication,1,8.22,0,0,1
+2341,Dheeraj,cs15b1213,22,Male,Computer Science,1,7.11,0,0,1
+2342,Shridhar,cs15b1071,21,Male,Computer Science,3,8.49,0,0,1
+2343,Avni,it15b1014,21,Female,Information Technology,0,8.31,0,0,1
+2344,Gunda,cv15b1171,22,Male,Civil,2,6.21,0,0,0
+2345,Sabyasachi,it15b1500,21,Male,Information Technology,2,7.47,0,1,0
+2346,Avni,it15b1573,22,Female,Information Technology,0,8.19,0,1,1
+2347,Riya,ec15b1074,21,Female,Electronics And Communication,1,6.46,0,0,0
+2348,Amaya,ec15b1009,21,Female,Electronics And Communication,0,7.4,0,0,0
+2349,Navya,me15b1231,20,Female,Mechanical,0,8.26,1,1,1
+2350,Sahil,me15b1297,22,Male,Mechanical,0,5.13,1,0,0
+2351,Sahil,cs15b1011,21,Male,Computer Science,1,6.27,0,0,0
+2352,Krishnayya,ec15b1250,22,Male,Electronics And Communication,1,6.46,1,1,0
+2353,Girish,it15b1496,21,Male,Information Technology,0,8.01,0,0,1
+2354,Gam,me15b1092,21,Male,Mechanical,0,7.46,1,0,0
+2355,Nathuram,el15b1273,19,Male,Electrical,0,8.36,0,1,1
+2356,Avisha,it15b1151,22,Female,Information Technology,0,6.15,0,0,1
+2357,Khakhar,cs15b1208,22,Male,Computer Science,2,8.49,0,1,1
+2358,Pihu,ec15b1236,24,Female,Electronics And Communication,0,6.37,0,0,1
+2359,Kiran,el15b1254,22,Female,Electrical,0,7.37,0,0,0
+2360,Varghese,it15b1211,21,Male,Information Technology,2,7.31,0,0,1
+2361,Inaya,me15b1126,22,Female,Mechanical,1,7.34,1,1,0
+2362,Elangovan,cs15b1739,21,Male,Computer Science,1,7.23,0,0,0
+2363,Shreya,el15b1143,21,Female,Electrical,2,8.33,0,1,1
+2364,Aarchi,cs15b1608,21,Female,Computer Science,1,6.13,0,0,0
+2365,Bellamkonda,cv15b1143,21,Male,Civil,0,9.42,0,0,1
+2366,Randhir,me15b1263,23,Male,Mechanical,1,7.31,1,0,0
+2367,Kalanidhi,cv15b1251,22,Male,Civil,1,6.42,0,0,0
+2368,Myra,cs15b1485,21,Female,Computer Science,0,6.06,0,0,0
+2369,Vinay,ec15b1111,22,Male,Electronics And Communication,1,8.43,0,0,1
+2370,Mahboob,ec15b1226,20,Male,Electronics And Communication,0,7.36,0,0,0
+2371,Shridhar,it15b1650,22,Male,Information Technology,1,6.47,1,0,0
+2372,Vallathol,it15b1310,21,Male,Information Technology,0,9.25,0,0,1
+2373,Aadya,it15b1660,23,Female,Information Technology,0,8.13,0,0,1
+2374,Pranav,me15b1296,19,Male,Mechanical,1,5.5,1,0,0
+2375,Diyara,me15b1276,20,Female,Mechanical,0,8.01,1,0,1
+2376,Shikhar,it15b1135,21,Male,Information Technology,1,8.39,0,1,1
+2377,Chakrapani,me15b1208,22,Male,Mechanical,1,8.08,1,0,1
+2378,Sana,me15b1390,21,Female,Mechanical,0,6.19,1,0,0
+2379,Rajan,me15b1372,21,Male,Mechanical,1,7.46,1,0,0
+2380,Mansukh,it15b1423,20,Male,Information Technology,0,6.37,0,0,0
+2381,Ariya,it15b1183,22,Female,Information Technology,0,7.23,0,0,1
+2382,Myra,cs15b1729,21,Female,Computer Science,0,7.11,0,0,0
+2383,Manabendra,cs15b1567,22,Male,Computer Science,1,6.16,0,0,1
+2384,Raja,ec15b1378,21,Male,Electronics And Communication,2,8.42,0,0,1
+2385,Sabyasachi,cv15b1209,21,Male,Civil,1,8.3,0,1,1
+2386,Rajendra,cs15b1709,20,Male,Computer Science,0,8.37,0,1,1
+2387,Sudhir,it15b1197,22,Male,Information Technology,0,8.49,0,0,1
+2388,Kaushal,it15b1512,22,Male,Information Technology,1,6.2,0,0,1
+2389,Ganesh,it15b1024,24,Male,Information Technology,2,6.45,0,0,1
+2390,Diyara,cs15b1511,19,Female,Computer Science,2,7.22,0,0,1
+2391,Mehul,el15b1121,22,Male,Electrical,2,7.47,0,0,0
+2392,Debaprasad,ec15b1141,22,Male,Electronics And Communication,1,7.32,0,0,0
+2393,Pallav,ec15b1149,21,Male,Electronics And Communication,2,7.36,1,1,1
+2394,Vanya,ec15b1137,22,Female,Electronics And Communication,1,7.12,1,1,0
+2395,Pallav,it15b1561,19,Male,Information Technology,0,7.15,0,0,0
+2396,Srikanta,cs15b1007,21,Male,Computer Science,1,8.38,0,1,1
+2397,Aarushi,it15b1058,22,Female,Information Technology,1,8.3,0,0,1
+2398,Pramod,cv15b1211,19,Male,Civil,1,8.49,0,0,1
+2399,Aaria,cs15b1479,21,Female,Computer Science,0,7.22,1,1,0
+2400,Arvind,cs15b1193,26,Male,Computer Science,3,7.29,0,0,1
+2401,Ranganath,it15b1130,21,Male,Information Technology,0,8.45,0,1,1
+2402,Vineet,cs15b1367,22,Male,Computer Science,0,6.01,1,0,0
+2403,Girish,el15b1088,25,Male,Electrical,0,7.15,0,0,0
+2404,Adwita,ec15b1416,23,Female,Electronics And Communication,0,8.48,0,0,1
+2405,Shekhar,ec15b1318,21,Male,Electronics And Communication,1,7.45,0,1,1
+2406,Aarushi,it15b1422,24,Female,Information Technology,0,6.13,0,0,1
+2407,Anusha,cs15b1443,20,Female,Computer Science,0,5.49,0,0,0
+2408,Amisha,cs15b1638,20,Female,Computer Science,0,7.29,0,0,0
+2409,Devesh,cs15b1238,22,Male,Computer Science,1,8.31,0,0,1
+2410,Aaradhya,me15b1203,21,Female,Mechanical,0,7.38,1,0,0
+2411,Amrik,it15b1187,21,Male,Information Technology,0,7.33,0,0,1
+2412,Arjun,me15b1134,21,Male,Mechanical,0,7.38,1,0,0
+2413,Dhriti,cs15b1344,24,Female,Computer Science,1,7.1,0,0,1
+2414,Yogeshwar,it15b1195,22,Male,Information Technology,2,6.32,0,0,1
+2415,Arhaan,el15b1116,22,Male,Electrical,1,7.25,0,1,0
+2416,Anvita,el15b1324,21,Female,Electrical,0,7.43,0,0,0
+2417,Neeraj,cs15b1387,22,Male,Computer Science,1,8.3,1,0,1
+2418,Ziya,el15b1039,22,Female,Electrical,0,8.48,0,0,1
+2419,Avni,me15b1167,22,Female,Mechanical,0,9.26,1,0,1
+2420,Oommen,cv15b1091,22,Male,Civil,1,6.1,0,0,0
+2421,Anusha,me15b1224,24,Female,Mechanical,0,7.1,1,0,1
+2422,Aditya,me15b1069,22,Male,Mechanical,0,6.33,1,0,1
+2423,Aarchi,me15b1414,22,Female,Mechanical,0,8.07,1,0,1
+2424,Ishita,cs15b1205,22,Female,Computer Science,1,6.24,0,0,1
+2425,Akshat,cs15b1150,22,Male,Computer Science,0,6.01,0,0,0
+2426,Diya,el15b1112,21,Female,Electrical,0,7.31,0,0,0
+2427,Pankaj,cv15b1235,19,Male,Civil,1,6.37,0,0,0
+2428,Jawahar,it15b1128,21,Male,Information Technology,1,7.16,0,1,0
+2429,Sarabjit,ec15b1075,22,Male,Electronics And Communication,1,8.16,0,0,1
+2430,Dnyandeo,me15b1011,21,Male,Mechanical,0,7.06,0,0,0
+2431,Eswar,cs15b1680,21,Male,Computer Science,2,7.5,0,1,0
+2432,Bharat,cv15b1129,21,Male,Civil,2,7.15,0,1,0
+2433,Bibek,cv15b1044,22,Male,Civil,1,6.25,1,0,0
+2434,Tanvi,it15b1531,19,Female,Information Technology,2,6.11,0,0,1
+2435,Anaya,ec15b1156,22,Female,Electronics And Communication,2,8.26,0,0,1
+2436,Jitendra,ec15b1407,23,Male,Electronics And Communication,0,6.34,0,0,0
+2437,Abhishek,me15b1173,21,Male,Mechanical,1,9.43,1,0,1
+2438,Namik,it15b1357,22,Male,Information Technology,0,7.5,0,0,0
+2439,Ganesh,cs15b1746,21,Male,Computer Science,1,7.03,0,0,0
+2440,Dharanidhar,ec15b1380,20,Male,Electronics And Communication,1,7.41,0,0,1
+2441,Aarushi,cs15b1661,21,Female,Computer Science,0,7.19,0,0,0
+2442,Sriram,it15b1171,23,Male,Information Technology,0,8.07,0,0,1
+2443,Sriram,me15b1159,22,Male,Mechanical,1,9.21,1,0,1
+2444,Sanjay,el15b1199,23,Male,Electrical,1,7.19,0,0,1
+2445,Ariya,ec15b1216,24,Female,Electronics And Communication,0,7.34,0,0,0
+2446,Anil,cs15b1354,21,Male,Computer Science,0,8.04,1,1,1
+2447,Dhinakaran,cs15b1247,22,Male,Computer Science,0,8.41,1,0,1
+2448,Inaya,el15b1163,21,Female,Electrical,1,7.24,0,0,1
+2449,Aditya,cs15b1382,24,Male,Computer Science,1,7.41,0,0,1
+2450,Aarna,me15b1352,21,Female,Mechanical,0,8.16,1,0,1
+2451,Vikas,el15b1294,21,Male,Electrical,0,9.2,0,0,1
+2452,Jahangir,me15b1040,22,Male,Mechanical,0,8.42,1,1,1
+2453,Aahana,it15b1089,21,Female,Information Technology,0,6.21,0,0,0
+2454,Joglekar,it15b1334,21,Male,Information Technology,0,7.33,0,1,0
+2455,Harsh,ec15b1257,21,Male,Electronics And Communication,1,7.47,1,0,0
+2456,Avni,it15b1107,21,Female,Information Technology,1,8.45,1,0,1
+2457,Hitendra,cs15b1474,22,Male,Computer Science,1,6.01,1,0,0
+2458,Narayan,cs15b1492,19,Male,Computer Science,0,7.15,0,0,1
+2459,Ramesh,me15b1332,20,Male,Mechanical,1,6.26,1,0,0
+2460,Nida,cs15b1724,21,Male,Computer Science,2,8.16,0,0,1
+2461,Amara,it15b1449,21,Female,Information Technology,1,6.03,0,0,0
+2462,Mohindra,cv15b1257,19,Male,Civil,0,6.16,0,0,0
+2463,Ravichandran,el15b1149,21,Male,Electrical,0,9.2,0,0,1
+2464,Kavya,ec15b1113,21,Female,Electronics And Communication,1,6.24,1,1,0
+2465,Sandipan,it15b1237,22,Male,Information Technology,0,8.19,0,0,1
+2466,Ajinkya,me15b1249,23,Male,Mechanical,0,5.36,1,1,0
+2467,Inaya,ec15b1186,21,Female,Electronics And Communication,1,6.36,0,1,0
+2468,Yashi,cv15b1285,20,Female,Civil,0,6.36,1,0,0
+2469,Arjun,cs15b1470,24,Male,Computer Science,0,6.14,0,1,1
+2470,Joglekar,cs15b1364,21,Male,Computer Science,0,6.37,1,0,0
+2471,Samira,el15b1226,21,Male,Electrical,0,7.06,0,0,0
+2472,Ajit,me15b1133,21,Male,Mechanical,0,7.27,1,0,0
+2473,Ashu,cv15b1007,21,Male,Civil,0,8.14,0,0,1
+2474,Shivani,ec15b1211,22,Female,Electronics And Communication,1,7.49,0,0,0
+2475,Aarini,ec15b1204,23,Female,Electronics And Communication,0,7.27,0,0,0
+2476,Jahangir,it15b1209,22,Male,Information Technology,0,7.04,0,0,1
+2477,Kishor,it15b1180,21,Male,Information Technology,0,6.29,0,0,0
+2478,Shanaya,cs15b1278,22,Female,Computer Science,1,6.14,0,0,0
+2479,Sahil,it15b1102,21,Male,Information Technology,0,5.42,0,1,0
+2480,Faizal,el15b1170,21,Male,Electrical,2,8.4,0,1,1
+2481,Rajan,it15b1307,22,Male,Information Technology,1,8.26,0,0,1
+2482,Shanaya,cs15b1633,21,Female,Computer Science,1,8.42,0,0,1
+2483,Anup,el15b1066,21,Male,Electrical,0,7.31,0,0,0
+2484,Pallav,el15b1002,21,Male,Electrical,0,8.37,1,0,1
+2485,Dipankar,cv15b1230,20,Male,Civil,1,9.14,1,0,1
+2486,Zoya,el15b1069,22,Female,Electrical,1,6.14,0,0,0
+2487,Prabodh Chandra,el15b1108,21,Male,Electrical,1,8.13,0,0,1
+2488,Anupam,el15b1042,22,Male,Electrical,0,5.16,0,0,0
+2489,Anvita,cv15b1308,22,Female,Civil,1,7.11,0,1,0
+2490,Inaaya,cv15b1066,21,Female,Civil,0,7.02,1,0,0
+2491,Tarun,me15b1058,21,Male,Mechanical,0,6.07,1,1,0
+2492,Kaustubh,me15b1362,20,Male,Mechanical,0,7.03,1,0,0
+2493,Kavya,ec15b1374,21,Female,Electronics And Communication,1,7.46,0,0,1
+2494,Gnanasekaran,cv15b1024,22,Male,Civil,0,6.32,0,0,0
+2495,Avni,cs15b1388,23,Female,Computer Science,1,7.12,0,0,1
+2496,Anaisha,cv15b1037,21,Female,Civil,0,8.0,0,0,1
+2497,Chandrajit,cs15b1462,24,Male,Computer Science,1,6.44,0,0,1
+2498,Birendra,it15b1411,22,Male,Information Technology,0,6.35,0,0,0
+2499,Pari,cs15b1099,22,Female,Computer Science,2,8.25,0,0,1
+2500,Aarini,ec15b1237,23,Female,Electronics And Communication,0,5.18,0,0,0
+2501,Jadunath,el15b1011,21,Male,Electrical,1,8.07,0,0,1
+2502,Amaya,cs15b1244,22,Female,Computer Science,1,7.41,0,0,1
+2503,Venkata Swamy,me15b1019,23,Male,Mechanical,0,5.07,1,1,0
+2504,Nadeem,el15b1201,24,Male,Electrical,1,7.12,0,0,1
+2505,Naveen,it15b1435,22,Male,Information Technology,1,6.47,0,0,0
+2506,Vallathol,ec15b1298,22,Male,Electronics And Communication,1,9.22,1,1,1
+2507,Prabodh Chandra,it15b1173,25,Male,Information Technology,1,6.35,0,0,1
+2508,Aaradhya,it15b1616,20,Female,Information Technology,0,7.05,0,0,0
+2509,Govindrao,cv15b1276,21,Male,Civil,0,8.34,0,1,1
+2510,Prataprao,cv15b1048,21,Male,Civil,0,8.17,0,0,1
+2511,Kyra,ec15b1233,24,Female,Electronics And Communication,0,6.4,0,0,1
+2512,Avira,cs15b1773,23,Female,Computer Science,1,8.08,0,1,1
+2513,Bibek,cv15b1051,21,Male,Civil,1,8.36,0,1,1
+2514,Harsh,cs15b1356,22,Male,Computer Science,1,8.23,0,0,1
+2515,Ajay,it15b1226,22,Male,Information Technology,2,7.21,0,1,1
+2516,Yashvi,me15b1034,22,Female,Mechanical,1,8.1,1,0,1
+2517,Paridhi,cs15b1531,20,Male,Computer Science,0,8.43,0,1,1
+2518,Khakhar,ec15b1071,22,Male,Electronics And Communication,1,7.4,0,0,0
+2519,Aseem,cv15b1121,22,Male,Civil,2,6.18,1,0,1
+2520,Vinay,el15b1074,22,Male,Electrical,1,7.49,0,0,0
+2521,Amrik,me15b1010,22,Male,Mechanical,1,7.5,0,0,0
+2522,Hriday,cs15b1715,21,Male,Computer Science,2,7.2,0,1,0
+2523,Shikhar,me15b1266,20,Male,Mechanical,0,8.49,1,0,1
+2524,Anaisha,it15b1243,21,Female,Information Technology,0,6.04,0,0,1
+2525,Risha,it15b1296,22,Female,Information Technology,1,9.37,0,0,1
+2526,Rajiv,cs15b1463,21,Male,Computer Science,0,7.03,1,0,0
+2527,Amaira,ec15b1232,22,Female,Electronics And Communication,1,8.37,1,1,1
+2528,Vriti,it15b1043,24,Female,Information Technology,0,5.09,0,0,0
+2529,Ganesh,ec15b1240,24,Male,Electronics And Communication,1,6.47,0,1,1
+2530,Bibin,ec15b1225,21,Male,Electronics And Communication,0,7.07,0,1,0
+2531,Akasha,it15b1320,26,Male,Information Technology,1,6.32,0,0,1
+2532,Hemant,cv15b1228,22,Male,Civil,0,9.18,1,0,1
+2533,Jitendra,me15b1220,22,Male,Mechanical,1,7.04,1,0,0
+2534,Gurcharan,it15b1658,21,Male,Information Technology,0,6.34,0,1,0
+2535,Aadhya,el15b1022,22,Female,Electrical,1,6.25,0,0,1
+2536,Gopinathan,ec15b1210,23,Male,Electronics And Communication,1,6.13,0,0,0
+2537,Phani,cs15b1282,21,Male,Computer Science,1,8.28,0,0,1
+2538,Anaya,cs15b1596,19,Female,Computer Science,0,8.49,0,0,1
+2539,Mohindra,it15b1098,21,Male,Information Technology,0,6.05,0,1,0
+2540,Adwita,ec15b1134,21,Female,Electronics And Communication,1,7.35,0,0,0
+2541,Aiza,it15b1543,21,Female,Information Technology,1,8.16,1,0,1
+2542,Hansraj,me15b1183,21,Male,Mechanical,0,9.41,1,1,1
+2543,Gurunath,me15b1274,22,Male,Mechanical,1,6.16,1,0,0
+2544,Hansraj,it15b1252,21,Male,Information Technology,2,7.06,0,1,1
+2545,Anupam,cv15b1031,21,Male,Civil,0,7.13,0,0,0
+2546,Giridhar,ec15b1112,21,Male,Electronics And Communication,0,8.14,0,1,1
+2547,Diti,cs15b1582,21,Female,Computer Science,1,6.26,0,0,0
+2548,Vallathol,cv15b1122,22,Male,Civil,1,6.35,0,0,0
+2549,Inaya,me15b1060,21,Female,Mechanical,0,8.33,1,0,1
+2550,Yogeshwar,ec15b1362,20,Male,Electronics And Communication,0,7.34,0,0,1
+2551,Aarya,el15b1186,23,Female,Electrical,0,8.09,0,0,1
+2552,Bibin,cs15b1659,21,Male,Computer Science,0,7.11,0,1,0
+2553,Rinjish,it15b1592,20,Male,Information Technology,0,8.26,0,0,1
+2554,Jawahar,ec15b1165,21,Male,Electronics And Communication,1,8.36,1,1,1
+2555,Venkataraman,el15b1266,20,Male,Electrical,3,6.04,0,1,0
+2556,Anaya,cs15b1341,25,Female,Computer Science,2,7.39,0,1,1
+2557,Tara,me15b1316,22,Female,Mechanical,0,8.41,0,0,1
+2558,Vallathol,cs15b1544,22,Male,Computer Science,1,7.32,0,0,0
+2559,Vallathol,cv15b1012,23,Male,Civil,0,6.22,0,0,1
+2560,Vineet,it15b1299,22,Male,Information Technology,0,9.08,0,0,1
+2561,Jayachandran,it15b1259,22,Male,Information Technology,1,8.23,0,0,1
+2562,Arvind,ec15b1361,21,Male,Electronics And Communication,0,7.21,0,0,1
+2563,Maira,it15b1006,21,Female,Information Technology,0,6.49,0,0,1
+2564,Dharanidhar,it15b1643,20,Male,Information Technology,1,7.01,0,0,0
+2565,Aahana,it15b1093,22,Female,Information Technology,0,8.03,0,0,1
+2566,Yashika,it15b1097,21,Female,Information Technology,1,8.47,0,0,1
+2567,Anupam,cs15b1057,22,Male,Computer Science,1,6.11,0,0,0
+2568,Jawahar,ec15b1334,19,Male,Electronics And Communication,1,7.39,0,1,0
+2569,Ranjitsinh,ec15b1399,22,Male,Electronics And Communication,0,6.22,0,1,0
+2570,Inaaya,cs15b1314,22,Female,Computer Science,1,7.46,1,0,0
+2571,Anvika,me15b1117,22,Female,Mechanical,1,8.25,1,0,1
+2572,Ganpatrao,el15b1062,22,Male,Electrical,1,7.28,0,1,0
+2573,Angad,cv15b1090,22,Male,Civil,0,6.29,0,0,0
+2574,Hansraj,me15b1241,23,Male,Mechanical,1,6.16,1,0,0
+2575,Amaira,it15b1060,22,Female,Information Technology,1,7.06,0,0,0
+2576,Nibaran,cv15b1200,24,Male,Civil,1,7.06,1,0,0
+2577,Hriday,ec15b1337,20,Male,Electronics And Communication,0,6.41,0,0,0
+2578,Devendra,cv15b1160,21,Male,Civil,2,8.06,0,0,1
+2579,Uday,cs15b1484,22,Male,Computer Science,0,6.11,0,0,0
+2580,Anup,cs15b1164,22,Male,Computer Science,1,6.06,1,0,1
+2581,Pari,it15b1005,22,Female,Information Technology,1,8.17,0,0,1
+2582,Harjit,me15b1152,21,Male,Mechanical,1,6.23,1,0,0
+2583,Vritika,cs15b1644,20,Female,Computer Science,1,7.23,0,0,0
+2584,Suneet,el15b1179,23,Male,Electrical,0,6.13,0,0,0
+2585,Sambhunath,me15b1064,21,Male,Mechanical,0,8.45,1,0,1
+2586,Abhishek,it15b1371,24,Male,Information Technology,1,6.41,0,0,1
+2587,Ishita,ec15b1303,20,Female,Electronics And Communication,1,6.45,0,0,0
+2588,Aarna,cs15b1127,21,Female,Computer Science,0,8.48,1,1,1
+2589,Girish,it15b1427,21,Male,Information Technology,1,6.12,0,0,0
+2590,Sasha,cv15b1315,21,Female,Civil,0,8.19,0,0,1
+2591,Kripa,el15b1249,21,Male,Electrical,0,6.41,0,0,0
+2592,Bellamkonda,it15b1440,24,Male,Information Technology,1,6.49,0,0,1
+2593,Suneet,cs15b1003,21,Male,Computer Science,2,6.1,0,0,1
+2594,Sanjay,cv15b1266,19,Male,Civil,0,6.4,0,0,0
+2595,Sarit,ec15b1353,21,Male,Electronics And Communication,1,8.01,0,0,1
+2596,Vani,it15b1311,21,Female,Information Technology,1,8.19,0,0,1
+2597,Yogesh,it15b1335,22,Male,Information Technology,0,6.3,0,0,0
+2598,Aarohi,ec15b1063,21,Female,Electronics And Communication,1,6.28,1,1,0
+2599,Bali,me15b1378,21,Male,Mechanical,1,9.14,1,1,1
+2600,Kripesh,cs15b1014,22,Male,Computer Science,1,8.31,0,0,1
+2601,Manmohan,cv15b1287,21,Male,Civil,0,8.07,0,0,1
+2602,Ahaana,el15b1196,21,Female,Electrical,1,6.41,0,0,0
+2603,Gurunath,el15b1154,26,Male,Electrical,0,6.4,0,0,1
+2604,Avya,cs15b1731,20,Female,Computer Science,0,7.4,0,0,0
+2605,Abhay,ec15b1358,21,Male,Electronics And Communication,0,7.25,0,0,0
+2606,Arun,ec15b1397,20,Male,Electronics And Communication,0,7.42,0,0,1
+2607,Anup,ec15b1164,21,Male,Electronics And Communication,1,7.39,0,0,1
+2608,Biju,it15b1481,20,Male,Information Technology,1,8.48,1,0,1
+2609,Aashi,cs15b1058,21,Female,Computer Science,1,7.19,1,0,0
+2610,Pankaj,el15b1248,20,Male,Electrical,0,6.25,0,0,0
+2611,Suresh,me15b1258,22,Male,Mechanical,0,8.31,0,0,1
+2612,Ashu,cs15b1442,23,Male,Computer Science,0,6.44,0,0,1
+2613,Dayanidhi,me15b1394,20,Male,Mechanical,0,8.3,1,0,1
+2614,Ajit,me15b1388,20,Male,Mechanical,0,8.38,1,0,1
+2615,Pankaj,it15b1008,22,Male,Information Technology,1,6.26,0,0,0
+2616,Jayachandran,ec15b1291,19,Male,Electronics And Communication,0,7.4,0,0,0
+2617,Govindrao,me15b1421,23,Male,Mechanical,0,6.42,1,0,0
+2618,Gunda,me15b1315,21,Male,Mechanical,1,6.13,0,0,0
+2619,Diti,ec15b1201,22,Female,Electronics And Communication,0,7.38,0,0,0
+2620,Araya,it15b1567,19,Female,Information Technology,1,8.43,0,0,1
+2621,Ravinder,el15b1210,21,Male,Electrical,0,8.49,0,0,1
+2622,Virat,me15b1308,21,Male,Mechanical,1,8.07,1,0,1
+2623,Shreyas,cs15b1271,22,Male,Computer Science,1,7.4,0,0,0
+2624,Aradhya,cv15b1168,24,Female,Civil,0,8.04,0,0,1
+2625,Suresh,me15b1398,22,Male,Mechanical,0,6.02,1,0,0
+2626,Diya,it15b1634,21,Female,Information Technology,0,8.35,0,0,1
+2627,Kaustubh,cs15b1664,21,Male,Computer Science,0,7.2,0,0,0
+2628,Nripendra,cv15b1099,22,Male,Civil,0,6.2,1,0,0
+2629,Kalimuthu,cs15b1142,30,Male,Computer Science,1,8.02,0,0,1
+2630,Tarsem,cv15b1177,21,Male,Civil,0,8.17,0,0,1
+2631,Kaushal,el15b1311,21,Male,Electrical,0,7.3,0,0,0
+2632,Naranbhai,ec15b1388,20,Male,Electronics And Communication,0,7.33,0,0,0
+2633,Aarvi,cv15b1197,20,Female,Civil,0,7.12,0,0,0
+2634,Birendra,it15b1132,22,Male,Information Technology,0,8.26,0,0,1
+2635,Binu,it15b1465,21,Male,Information Technology,0,7.23,0,0,1
+2636,Amaya,it15b1308,22,Female,Information Technology,0,8.18,0,0,1
+2637,Ziva,ec15b1094,22,Female,Electronics And Communication,2,8.38,0,0,1
+2638,Abhinav,cv15b1226,22,Male,Civil,1,7.22,0,0,0
+2639,Riya,ec15b1314,19,Female,Electronics And Communication,0,6.17,0,0,0
+2640,Vallathol,cs15b1374,21,Male,Computer Science,0,6.31,0,0,0
+2641,Srinivas,el15b1183,23,Male,Electrical,0,8.22,0,0,1
+2642,Radhanath,ec15b1072,22,Male,Electronics And Communication,0,6.08,0,0,1
+2643,Kiara,el15b1193,22,Female,Electrical,1,6.13,1,1,0
+2644,Dhriti,el15b1225,22,Female,Electrical,0,7.18,0,0,0
+2645,Chandrajit,el15b1016,23,Male,Electrical,0,6.21,0,0,0
+2646,Miraya,cs15b1197,25,Female,Computer Science,0,8.11,0,0,1
+2647,Nida,el15b1058,22,Male,Electrical,1,7.06,0,0,0
+2648,Zoya,cv15b1283,21,Female,Civil,1,8.29,0,0,1
+2649,Karthikeyan,me15b1346,19,Male,Mechanical,0,8.38,1,0,1
+2650,Kaira,it15b1407,22,Female,Information Technology,1,8.15,0,1,1
+2651,Munish,cs15b1074,22,Male,Computer Science,0,8.2,0,1,1
+2652,Aarna,cv15b1237,19,Female,Civil,0,8.36,1,1,1
+2653,Anika,it15b1046,21,Female,Information Technology,2,5.36,0,0,0
+2654,Aarna,el15b1089,26,Female,Electrical,1,8.0,0,0,1
+2655,Kiran,it15b1690,23,Female,Information Technology,0,7.04,0,0,0
+2656,Sivaprasad,ec15b1340,19,Male,Electronics And Communication,1,8.44,0,0,1
+2657,Akasha,me15b1215,22,Male,Mechanical,1,8.14,1,0,1
+2658,Paridhi,it15b1027,24,Male,Information Technology,1,7.03,0,0,1
+2659,Deepak,it15b1687,23,Male,Information Technology,1,7.04,1,1,0
+2660,Aisha,cv15b1280,20,Female,Civil,0,6.05,1,1,0
+2661,Anshika,el15b1114,22,Female,Electrical,2,6.01,0,0,1
+2662,Adarsh,me15b1234,23,Male,Mechanical,1,8.37,1,0,1
+2663,Arhaan,ec15b1267,22,Male,Electronics And Communication,0,7.41,0,0,0
+2664,Mukesh,ec15b1406,23,Male,Electronics And Communication,1,8.42,1,1,1
+2665,Anshita,it15b1325,26,Female,Information Technology,0,6.33,0,0,1
+2666,Girish,el15b1104,21,Male,Electrical,2,7.34,1,1,1
+2667,Araya,cv15b1135,22,Female,Civil,1,7.09,0,0,0
+2668,Anisha,cv15b1292,21,Female,Civil,0,7.28,0,0,0
+2669,Anshi,it15b1683,23,Female,Information Technology,0,6.47,0,0,0
+2670,Sahil,ec15b1421,21,Male,Electronics And Communication,0,8.47,0,0,1
+2671,Puran,el15b1162,21,Male,Electrical,0,6.33,0,0,0
+2672,Dhriti,cs15b1018,22,Female,Computer Science,0,8.02,0,0,1
+2673,Naveen,cs15b1386,21,Male,Computer Science,1,7.29,0,0,1
+2674,Uday,el15b1040,21,Male,Electrical,0,6.17,0,0,0
+2675,Sara,el15b1071,21,Female,Electrical,2,8.41,0,0,1
+2676,Anvika,cs15b1579,21,Female,Computer Science,2,7.15,0,0,0
+2677,Ariya,cs15b1769,21,Female,Computer Science,1,7.47,0,0,0
+2678,Devendra,me15b1026,21,Male,Mechanical,1,6.14,1,1,0
+2679,Gurunath,cs15b1357,22,Male,Computer Science,1,7.17,0,0,0
+2680,Amrik,it15b1566,22,Male,Information Technology,1,7.18,0,0,0
+2681,Anurag,it15b1550,20,Male,Information Technology,1,7.42,0,0,0
+2682,Aiza,cv15b1301,20,Female,Civil,1,9.24,0,0,1
+2683,Aarna,it15b1227,21,Female,Information Technology,0,7.27,0,1,1
+2684,Naranbhai,ec15b1330,21,Male,Electronics And Communication,1,8.04,0,1,1
+2685,Rajinder,el15b1206,19,Male,Electrical,1,8.45,0,0,1
+2686,Ariya,cv15b1229,21,Female,Civil,0,6.49,0,0,0
+2687,Kiran,ec15b1265,21,Female,Electronics And Communication,1,8.08,0,1,1
+2688,Gurunath,cs15b1707,20,Male,Computer Science,2,7.17,0,0,1
+2689,Akhil,cv15b1312,23,Male,Civil,2,8.23,0,0,1
+2690,Phani,cs15b1358,21,Male,Computer Science,0,7.38,0,1,0
+2691,Sadanand,cs15b1722,20,Male,Computer Science,1,6.32,0,0,0
+2692,Anika,it15b1140,22,Female,Information Technology,2,7.25,1,0,1
+2693,Aarya,it15b1114,22,Female,Information Technology,2,7.44,0,0,0
+2694,Sriram,ec15b1217,21,Male,Electronics And Communication,1,7.02,0,0,0
+2695,Yashi,it15b1625,21,Female,Information Technology,1,8.48,0,1,1
+2696,Anurag,it15b1116,22,Male,Information Technology,1,6.1,0,0,1
+2697,Aritra,ec15b1224,22,Male,Electronics And Communication,1,8.32,0,0,1
+2698,Anusha,it15b1051,21,Female,Information Technology,0,6.26,0,0,0
+2699,Arya,it15b1066,22,Female,Information Technology,1,8.43,1,1,1
+2700,Lakshman,cv15b1077,21,Male,Civil,0,6.26,0,0,0
+2701,Anuj,me15b1349,19,Male,Mechanical,1,8.2,0,1,1
+2702,Diyara,it15b1073,21,Female,Information Technology,0,6.48,0,1,1
+2703,Aarvi,it15b1590,20,Female,Information Technology,0,8.09,0,1,1
+2704,Kulbhushan,cs15b1352,21,Male,Computer Science,1,8.21,0,0,1
+2705,Zara,it15b1433,20,Female,Information Technology,1,6.39,0,0,0
+2706,Krishnadev,el15b1138,21,Male,Electrical,0,8.16,0,0,1
+2707,Tara,it15b1200,22,Female,Information Technology,0,8.41,0,0,1
+2708,Sara,it15b1318,26,Female,Information Technology,1,7.12,0,0,0
+2709,Nagaraj,ec15b1154,22,Male,Electronics And Communication,1,8.32,0,0,1
+2710,Vikas,cs15b1171,22,Male,Computer Science,0,7.09,0,1,0
+2711,Anusha,me15b1116,21,Female,Mechanical,1,8.25,1,0,1
+2712,Ramesh,el15b1008,21,Male,Electrical,1,7.15,0,0,1
+2713,Nadeem,cs15b1009,21,Male,Computer Science,1,7.24,0,0,0
+2714,Aarya,it15b1595,20,Female,Information Technology,0,7.44,0,0,0
+2715,Birendra,el15b1309,20,Male,Electrical,1,7.43,1,1,1
+2716,Utkarsh,it15b1082,21,Male,Information Technology,1,6.14,0,0,0
+2717,Eswar,cv15b1303,20,Male,Civil,1,6.27,0,0,0
+2718,Mahboob,cs15b1235,22,Male,Computer Science,1,7.23,0,0,1
+2719,Oommen,it15b1483,19,Male,Information Technology,1,7.13,0,0,0
+2720,Ajinkya,ec15b1099,21,Male,Electronics And Communication,1,8.12,1,1,1
+2721,Aaradhya,it15b1485,22,Female,Information Technology,1,7.35,1,0,0
+2722,Nitin,ec15b1323,20,Male,Electronics And Communication,2,8.43,0,0,1
+2723,Aahana,el15b1015,24,Female,Electrical,0,7.14,0,0,0
+2724,Aseem,el15b1075,21,Male,Electrical,0,7.21,0,0,0
+2725,Aniket,it15b1124,21,Male,Information Technology,1,8.1,0,0,1
+2726,Varghese,ec15b1412,23,Male,Electronics And Communication,2,8.06,0,0,1
+2727,Gnanasekaran,el15b1274,21,Male,Electrical,0,8.43,0,0,1
+2728,Vasudevan,me15b1187,21,Male,Mechanical,0,9.39,1,0,1
+2729,Zoya,it15b1462,23,Female,Information Technology,2,6.37,0,0,1
+2730,Chamaraja,ec15b1382,21,Male,Electronics And Communication,1,9.18,0,0,1
+2731,Arya,me15b1254,22,Male,Mechanical,0,6.15,1,0,0
+2732,Avira,me15b1344,20,Female,Mechanical,0,8.02,1,0,1
+2733,Anshi,el15b1177,21,Female,Electrical,0,7.3,0,0,1
+2734,Pratapsinh,cv15b1071,22,Male,Civil,1,6.21,0,0,0
+2735,Umesh,it15b1604,20,Male,Information Technology,0,7.45,0,1,0
+2736,Kaustubh,ec15b1040,22,Male,Electronics And Communication,1,7.26,1,1,1
+2737,Myra,el15b1300,21,Female,Electrical,0,9.11,0,0,1
+2738,Rajinder,ec15b1327,20,Male,Electronics And Communication,1,6.33,0,0,0
+2739,Anshika,me15b1204,22,Female,Mechanical,0,8.44,1,0,1
+2740,Shekhar,me15b1290,20,Male,Mechanical,0,8.47,1,0,1
+2741,Pramod,el15b1155,21,Male,Electrical,0,6.45,0,0,0
+2742,Narayan,it15b1618,20,Male,Information Technology,0,8.48,0,0,1
+2743,Prabodh Chandra,it15b1013,21,Male,Information Technology,1,8.02,1,0,1
+2744,Kripesh,cv15b1314,21,Male,Civil,0,6.38,0,0,0
+2745,Harshit,it15b1224,22,Male,Information Technology,2,7.08,1,0,1
+2746,Anvi,el15b1291,20,Female,Electrical,3,7.27,0,0,1
+2747,Yogesh,me15b1292,20,Male,Mechanical,0,6.25,1,0,0
+2748,Yashi,it15b1641,21,Female,Information Technology,2,8.01,0,0,1
+2749,Surendranath,el15b1090,26,Male,Electrical,1,8.05,0,0,1
+2750,Ashwin,el15b1038,22,Male,Electrical,0,6.27,0,1,0
+2751,Amaira,me15b1186,21,Female,Mechanical,1,8.33,1,0,1
+2752,Mohindra,cs15b1761,23,Male,Computer Science,0,7.48,0,0,0
+2753,Pallav,it15b1067,22,Male,Information Technology,0,8.17,0,0,1
+2754,Pranay,cv15b1286,20,Male,Civil,0,7.43,1,0,0
+2755,Viara,ec15b1130,22,Female,Electronics And Communication,0,8.45,0,0,1
+2756,Kaushal,cs15b1343,26,Male,Computer Science,1,7.31,0,0,1
+2757,Girish,it15b1451,21,Male,Information Technology,1,7.12,1,0,0
+2758,Aadya,el15b1063,22,Female,Electrical,0,8.12,0,0,1
+2759,Vani,it15b1238,22,Female,Information Technology,1,8.05,0,0,1
+2760,Subbiah,ec15b1045,22,Male,Electronics And Communication,0,7.31,0,0,0
+2761,Aadya,ec15b1394,20,Female,Electronics And Communication,0,6.43,0,0,0
+2762,Rajiv,me15b1114,21,Male,Mechanical,0,6.13,1,0,0
+2763,Dipankar,it15b1034,23,Male,Information Technology,2,6.32,0,0,1
+2764,Vallabhbhai,el15b1096,22,Male,Electrical,0,7.03,1,0,0
+2765,Diti,ec15b1392,21,Female,Electronics And Communication,0,8.29,0,0,1
+2766,Tithira,it15b1113,22,Female,Information Technology,0,7.0,0,0,1
+2767,Tanisha,it15b1552,21,Female,Information Technology,0,7.26,0,0,0
+2768,Harmeet,it15b1258,21,Male,Information Technology,1,8.11,0,0,1
+2769,Kia,cs15b1195,24,Female,Computer Science,1,7.31,0,0,1
+2770,Kripesh,it15b1329,22,Male,Information Technology,0,7.32,0,0,0
+2771,Sanjay,cv15b1313,23,Male,Civil,0,8.1,1,1,1
+2772,Aadya,it15b1044,23,Female,Information Technology,0,5.17,0,0,0
+2773,Myra,cv15b1159,21,Female,Civil,2,7.3,1,1,0
+2774,Bibek,cs15b1277,21,Male,Computer Science,2,8.15,1,0,1
+2775,Navya,cs15b1418,21,Female,Computer Science,0,7.0,1,0,1
+2776,Anand,me15b1400,21,Male,Mechanical,1,8.18,1,0,1
+2777,Hitendra,it15b1399,23,Male,Information Technology,0,7.36,0,1,1
+2778,Aseem,cv15b1070,21,Male,Civil,2,8.48,1,1,1
+2779,Amara,it15b1353,21,Female,Information Technology,0,7.18,0,1,0
+2780,Shreya,ec15b1120,22,Female,Electronics And Communication,1,6.29,1,1,0
+2781,Amaira,ec15b1039,22,Female,Electronics And Communication,0,7.2,0,0,1
+2782,Sara,it15b1212,22,Female,Information Technology,3,8.16,0,0,1
+2783,Krishnappa,cs15b1766,21,Male,Computer Science,1,7.32,0,0,0
+2784,Pratapsinh,it15b1268,22,Male,Information Technology,1,9.4,1,0,1
+2785,Sara,ec15b1242,21,Female,Electronics And Communication,2,7.26,0,0,1
+2786,Rajiv,me15b1417,21,Male,Mechanical,1,7.33,1,0,0
+2787,Alisha,it15b1280,22,Female,Information Technology,1,7.16,0,0,0
+2788,Uday,cs15b1304,21,Male,Computer Science,2,9.11,0,1,1
+2789,Surinder,cs15b1641,21,Male,Computer Science,0,8.44,0,1,1
+2790,Munish,it15b1376,23,Male,Information Technology,0,8.31,0,0,1
+2791,Neeraj,me15b1392,20,Male,Mechanical,0,6.07,1,1,0
+2792,Riya,ec15b1193,22,Female,Electronics And Communication,3,6.28,0,0,1
+2793,Bishamber,it15b1629,21,Male,Information Technology,1,8.03,0,0,1
+2794,Mehar,cv15b1057,22,Male,Civil,0,6.16,0,0,0
+2795,Abhishek,cs15b1154,22,Male,Computer Science,1,6.44,0,0,0
+2796,Kripa,cs15b1718,20,Male,Computer Science,2,8.28,1,0,1
+2797,Kulasekhara,it15b1155,22,Male,Information Technology,0,6.2,0,0,0
+2798,Shivani,ec15b1119,22,Female,Electronics And Communication,3,7.17,0,0,0
+2799,Nida,me15b1112,21,Male,Mechanical,0,8.28,1,0,1
+2800,Anvi,it15b1199,22,Female,Information Technology,0,8.21,0,0,1
+2801,Harish,cs15b1514,22,Male,Computer Science,0,7.48,0,0,0
+2802,Tarsem,cs15b1667,20,Male,Computer Science,1,7.41,0,0,0
+2803,Ishita,it15b1662,21,Female,Information Technology,0,7.44,0,0,0
+2804,Ishi,el15b1101,22,Female,Electrical,0,7.01,1,0,0
+2805,Utkarsh,me15b1098,24,Male,Mechanical,2,8.21,1,0,1
+2806,Dhriti,ec15b1333,19,Female,Electronics And Communication,0,8.14,0,0,1
+2807,Aradhya,cs15b1430,21,Female,Computer Science,0,6.39,0,1,0
+2808,Anshi,el15b1322,23,Female,Electrical,0,7.12,0,1,0
+2809,Aadhya,it15b1667,22,Female,Information Technology,1,8.15,0,0,1
+2810,Sanjay,me15b1281,20,Male,Mechanical,1,7.4,1,1,0
+2811,Byramjee,cv15b1027,22,Male,Civil,0,7.15,0,0,0
+2812,Devesh,cs15b1594,22,Male,Computer Science,1,8.4,0,0,1
+2813,Ariya,cs15b1441,23,Female,Computer Science,1,5.33,0,0,0
+2814,Kyra,cs15b1569,22,Female,Computer Science,0,9.42,1,0,1
+2815,Pranav,cs15b1217,22,Male,Computer Science,1,6.48,0,0,0
+2816,Gnanasekaran,cv15b1076,22,Male,Civil,2,6.14,1,0,1
+2817,Narayan,me15b1165,21,Male,Mechanical,0,8.21,1,0,1
+2818,Virat,cv15b1034,21,Male,Civil,0,7.49,0,0,0
+2819,Rajan,cs15b1129,21,Male,Computer Science,0,7.17,0,0,0
+2820,Yashika,cs15b1486,22,Female,Computer Science,0,6.22,0,0,0
+2821,Subbiah,cs15b1004,21,Male,Computer Science,1,6.25,1,0,0
+2822,Kyra,cs15b1614,20,Female,Computer Science,2,7.22,0,0,1
+2823,Adarsh,it15b1222,22,Male,Information Technology,2,8.04,0,0,1
+2824,Narendra,it15b1668,23,Male,Information Technology,1,7.07,0,0,0
+2825,Vanya,it15b1303,22,Female,Information Technology,1,9.47,1,0,1
+2826,Faizal,it15b1369,22,Male,Information Technology,1,8.19,0,0,1
+2827,Ranjitsinh,it15b1673,21,Male,Information Technology,0,8.03,0,0,1
+2828,Anaya,el15b1028,21,Female,Electrical,1,6.49,0,0,0
+2829,Aarini,ec15b1175,21,Female,Electronics And Communication,0,8.46,0,0,1
+2830,Suneet,cv15b1153,22,Male,Civil,1,6.36,0,0,0
+2831,Nitish,cv15b1130,21,Male,Civil,2,9.26,0,0,1
+2832,Surinder,cs15b1515,21,Male,Computer Science,0,7.31,0,0,0
+2833,Vinay,el15b1032,21,Male,Electrical,0,6.17,1,0,0
+2834,Varghese,me15b1244,20,Male,Mechanical,0,7.08,1,0,0
+2835,Manmohan,ec15b1275,19,Male,Electronics And Communication,0,8.07,0,0,1
+2836,Bhagwant,cv15b1149,22,Male,Civil,0,7.46,0,1,0
+2837,Sara,cv15b1137,22,Female,Civil,0,8.17,0,0,1
+2838,Narendra,ec15b1325,22,Male,Electronics And Communication,0,8.19,0,0,1
+2839,Ananya,ec15b1345,21,Female,Electronics And Communication,1,6.46,1,1,0
+2840,Chandrajit,cs15b1117,21,Male,Computer Science,0,7.01,0,1,0
+2841,Nagaraj,it15b1439,24,Male,Information Technology,0,8.03,0,0,1
+2842,Inaaya,el15b1024,21,Female,Electrical,0,7.01,0,0,0
+2843,Aarya,cv15b1254,20,Female,Civil,0,8.03,1,0,1
+2844,Ariya,me15b1260,21,Female,Mechanical,0,8.04,0,0,1
+2845,Vikas,it15b1278,21,Male,Information Technology,1,9.02,1,0,1
+2846,Amaira,ec15b1235,23,Female,Electronics And Communication,0,6.46,0,0,0
+2847,Anvika,cs15b1320,26,Female,Computer Science,0,7.27,1,0,0
+2848,Sriram,it15b1425,22,Male,Information Technology,0,6.03,0,0,0
+2849,Aiza,cs15b1377,21,Female,Computer Science,0,7.29,0,0,0
+2850,Aaira,el15b1001,22,Female,Electrical,1,8.2,0,1,1
+2851,Kripa,cv15b1205,21,Male,Civil,0,7.23,0,0,0
+2852,Kalimuthu,cs15b1265,22,Male,Computer Science,2,7.28,0,0,0
+2853,Nihar,cs15b1585,20,Male,Computer Science,0,7.21,1,1,1
+2854,Ganpatrao,cs15b1250,22,Male,Computer Science,0,6.13,0,0,1
+2855,Sudhir,it15b1640,20,Male,Information Technology,0,8.38,0,1,1
+2856,Nathuram,ec15b1038,21,Male,Electronics And Communication,1,6.12,1,1,1
+2857,Navya,el15b1212,21,Female,Electrical,0,7.16,0,0,0
+2858,Namik,cs15b1767,23,Male,Computer Science,1,8.27,0,0,1
+2859,Anjali,ec15b1052,22,Female,Electronics And Communication,0,7.18,0,0,0
+2860,Nagaraj,ec15b1131,22,Male,Electronics And Communication,1,6.08,0,0,0
+2861,Tanvi,it15b1612,21,Female,Information Technology,0,7.35,0,0,0
+2862,Sudhir,me15b1023,21,Male,Mechanical,0,8.01,1,0,1
+2863,Avisha,ec15b1157,21,Female,Electronics And Communication,0,8.02,0,0,1
+2864,Aritra,cs15b1272,22,Male,Computer Science,1,6.18,0,0,0
+2865,Dhriti,el15b1202,22,Female,Electrical,0,8.07,0,0,1
+2866,Venkata Swamy,el15b1308,20,Male,Electrical,1,7.5,0,1,1
+2867,Ahaana,cs15b1632,20,Female,Computer Science,0,6.42,0,0,0
+2868,Kiara,cv15b1064,22,Female,Civil,1,7.14,0,0,0
+2869,Avni,it15b1522,21,Female,Information Technology,1,8.12,1,0,1
+2870,Jaipal,it15b1206,21,Male,Information Technology,1,8.26,0,0,1
+2871,Hitendra,it15b1070,21,Male,Information Technology,1,8.47,0,0,1
+2872,Vikas,me15b1377,21,Male,Mechanical,0,7.35,1,0,0
+2873,Pari,el15b1187,21,Female,Electrical,0,6.06,0,0,0
+2874,Mohindra,el15b1285,20,Male,Electrical,1,7.14,0,0,1
+2875,Hriday,cs15b1370,22,Male,Computer Science,1,8.45,0,0,1
+2876,Krishnayya,cs15b1464,24,Male,Computer Science,0,7.29,0,0,1
+2877,Shreya,cs15b1605,20,Female,Computer Science,2,6.35,0,0,1
+2878,Ishika,it15b1072,22,Female,Information Technology,1,7.11,1,1,0
+2879,Yogeshwar,ec15b1030,21,Male,Electronics And Communication,2,6.09,0,0,1
+2880,Dhinakaran,cs15b1412,23,Male,Computer Science,1,6.49,0,0,0
+2881,Krishnayya,me15b1161,22,Male,Mechanical,1,7.4,1,0,0
+2882,Nitin,it15b1404,20,Male,Information Technology,1,8.47,0,0,1
+2883,Jahangir,cs15b1483,24,Male,Computer Science,1,7.35,0,0,0
+2884,Girish,cs15b1053,22,Male,Computer Science,1,5.22,1,0,0
+2885,Narendra,it15b1233,21,Male,Information Technology,0,6.01,0,1,1
+2886,Ritwik,ec15b1171,21,Male,Electronics And Communication,1,9.49,0,0,1
+2887,Rohit,it15b1665,23,Male,Information Technology,3,8.03,1,0,1
+2888,Aanvi,cs15b1764,23,Female,Computer Science,0,6.28,1,0,0
+2889,Akhil,cs15b1216,21,Male,Computer Science,2,8.11,0,0,1
+2890,Inaaya,it15b1467,19,Female,Information Technology,1,8.32,0,1,1
+2891,Sachin,el15b1102,22,Male,Electrical,1,6.41,0,0,0
+2892,Satyajit,cv15b1018,22,Male,Civil,0,6.22,0,0,0
+2893,Anusha,me15b1052,21,Female,Mechanical,0,6.49,1,0,0
+2894,Viara,ec15b1092,22,Female,Electronics And Communication,1,8.02,0,0,1
+2895,Yogesh,it15b1453,20,Male,Information Technology,0,7.03,0,0,0
+2896,Yogesh,cv15b1088,22,Male,Civil,0,6.28,1,1,0
+2897,Surendranath,ec15b1223,22,Male,Electronics And Communication,1,8.17,0,0,1
+2898,Harshit,el15b1182,21,Male,Electrical,0,6.03,0,0,1
+2899,Jaipal,me15b1172,21,Male,Mechanical,1,7.42,1,0,0
+2900,Pankaj,cs15b1168,21,Male,Computer Science,2,6.42,0,0,1
+2901,Aarna,me15b1083,22,Female,Mechanical,1,8.38,1,0,1
+2902,Lakshan,me15b1157,21,Male,Mechanical,2,9.41,1,0,1
+2903,Navya,it15b1264,22,Female,Information Technology,1,7.11,0,0,0
+2904,Diya,me15b1200,26,Female,Mechanical,1,7.34,1,1,0
+2905,Nripendra,cs15b1653,21,Male,Computer Science,1,7.48,0,0,0
+2906,Sadanand,me15b1059,22,Male,Mechanical,0,6.12,1,0,1
+2907,Bibek,me15b1323,22,Male,Mechanical,0,6.19,1,0,0
+2908,Yashvi,it15b1181,22,Female,Information Technology,1,8.06,0,0,1
+2909,Vasudevan,cs15b1113,21,Male,Computer Science,0,8.19,1,0,1
+2910,Harmeet,cs15b1564,20,Male,Computer Science,0,8.27,0,1,1
+2911,Vineet,ec15b1313,22,Male,Electronics And Communication,1,7.01,1,0,0
+2912,Devang,it15b1606,20,Male,Information Technology,0,7.25,0,0,0
+2913,Navya,me15b1041,22,Female,Mechanical,0,7.15,1,1,0
+2914,Ayaz,ec15b1031,22,Male,Electronics And Communication,0,6.15,0,0,0
+2915,Dileesh,it15b1230,21,Male,Information Technology,1,6.43,0,0,1
+2916,Anushka,cs15b1712,21,Female,Computer Science,0,8.31,0,0,1
+2917,Ashwin,it15b1313,21,Male,Information Technology,1,8.47,1,1,1
+2918,Pihu,ec15b1034,21,Female,Electronics And Communication,0,6.09,0,0,0
+2919,Sara,me15b1240,21,Female,Mechanical,0,7.16,1,0,0
+2920,Risha,cv15b1015,24,Female,Civil,0,7.07,0,0,1
+2921,Sriram,cs15b1383,24,Male,Computer Science,1,7.43,0,0,1
+2922,Nitesh,el15b1218,19,Male,Electrical,1,6.12,0,0,0
+2923,Inaaya,it15b1012,21,Female,Information Technology,0,9.24,0,0,1
+2924,Amarjit,cs15b1313,22,Male,Computer Science,0,9.12,0,0,1
+2925,Kaushal,el15b1296,20,Male,Electrical,1,8.49,0,1,1
+2926,Rakesh,el15b1172,23,Male,Electrical,2,7.17,0,0,0
+2927,Tara,it15b1361,22,Female,Information Technology,1,7.23,0,0,0
+2928,Dinesh,it15b1228,22,Male,Information Technology,0,8.19,0,0,1
+2929,Ganesh,cs15b1635,22,Male,Computer Science,2,7.26,1,0,0
+2930,Amit,me15b1193,26,Male,Mechanical,0,7.48,0,1,0
+2931,Dinesh,it15b1393,24,Male,Information Technology,1,7.38,0,0,1
+2932,Amisha,ec15b1367,21,Female,Electronics And Communication,0,9.01,0,1,1
+2933,Aanya,cv15b1004,21,Female,Civil,1,7.17,0,0,0
+2934,Satyadev,cv15b1124,22,Male,Civil,1,7.43,0,0,0
+2935,Narendra,me15b1056,22,Male,Mechanical,0,8.39,1,0,1
+2936,Anshi,it15b1037,24,Female,Information Technology,1,5.38,0,0,0
+2937,Arun,cv15b1236,21,Male,Civil,1,6.38,0,0,0
+2938,Rahul,it15b1274,21,Male,Information Technology,1,8.15,0,0,1
+2939,Amaira,ec15b1150,21,Female,Electronics And Communication,2,9.44,0,0,1
+2940,Aiza,it15b1339,22,Female,Information Technology,1,8.09,0,0,1
+2941,Sana,el15b1275,19,Female,Electrical,2,8.35,0,1,1
+2942,Shanaya,cv15b1148,22,Female,Civil,1,7.03,0,0,0
+2943,Amrik,me15b1289,22,Male,Mechanical,2,7.48,1,0,0
+2944,Viara,me15b1191,22,Female,Mechanical,2,7.2,1,0,0
+2945,Saisha,ec15b1020,23,Female,Electronics And Communication,2,6.35,0,0,0
+2946,Anvi,it15b1586,21,Female,Information Technology,0,6.02,0,0,0
+2947,Humayun,it15b1217,21,Male,Information Technology,0,7.0,0,0,0
+2948,Gurunath,el15b1160,21,Male,Electrical,0,8.01,0,0,1
+2949,Akshat,cv15b1103,22,Male,Civil,0,7.45,1,0,0
+2950,Aniket,it15b1231,21,Male,Information Technology,1,8.12,0,0,1
+2951,Ritwik,ec15b1403,23,Male,Electronics And Communication,1,7.39,0,0,1
+2952,Kia,me15b1006,21,Female,Mechanical,0,9.45,1,0,1
+2953,Aanya,cv15b1126,21,Female,Civil,2,7.12,0,0,0
+2954,Keshav,cs15b1499,22,Male,Computer Science,1,7.35,1,0,1
+2955,Aahana,it15b1555,22,Female,Information Technology,0,7.32,0,0,0
+2956,Shikhar,cs15b1135,21,Male,Computer Science,1,8.19,0,0,1
+2957,Sunil,it15b1332,22,Male,Information Technology,1,6.31,1,0,0
+2958,Anvi,el15b1076,22,Female,Electrical,1,6.36,0,1,0
+2959,Amaya,me15b1151,22,Female,Mechanical,1,7.43,1,0,0
+2960,Prakash,ec15b1398,23,Male,Electronics And Communication,0,8.14,0,0,1
+2961,Anusha,ec15b1083,22,Female,Electronics And Communication,0,8.27,0,0,1
+2962,Mallikarjuna Rao,ec15b1059,21,Male,Electronics And Communication,2,8.12,0,0,1
+2963,Prataprao,el15b1276,21,Male,Electrical,0,7.44,0,0,0
+2964,Kripa,cv15b1239,19,Male,Civil,1,6.28,0,0,1
+2965,Gurunath,it15b1327,21,Male,Information Technology,1,7.46,0,1,0
